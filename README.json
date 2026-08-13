@@ -1,0 +1,1206 @@
+{
+  "items": [
+    {
+      "description": "If you liked this repo or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers around the world 👍. Thank you very much.",
+      "items": [],
+      "title": "Give a Star! ⭐️"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Training Series"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Microservices with ASP.NET Core 3.1",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/procodeguide/Microservices.Sample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2021-01-29T17:52:16Z",
+                "owner": "procodeguide",
+                "repo": "Microservices.Sample",
+                "stars": 35
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Get Started Building Microservices with ASP.NET Core and Docker in Visual Studio Code",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/mmacneil/ASPNETCoreDockerMicroservices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2017-12-28T15:15:01Z",
+                "owner": "mmacneil",
+                "repo": "ASPNETCoreDockerMicroservices",
+                "stars": 170
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Microservices with event sourcing using .NET Core",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/madslundt/NetCoreMicroservicesSample",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2023-03-03T23:31:27Z",
+                "owner": "madslundt",
+                "repo": "NetCoreMicroservicesSample",
+                "stars": 700
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Microservice Architecture in ASP.NET Core with API Gateway",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/iammukeshm/Microservice.WebApi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2020-07-18T14:26:54Z",
+                "owner": "iammukeshm",
+                "repo": "Microservice.WebApi",
+                "stars": 102
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "RabbitMQ with ASP.NET Core – Microservice Communication with MassTransit",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/iammukeshm/Microservices.Ticketing.WebApi",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2020-10-03T11:13:25Z",
+                "owner": "iammukeshm",
+                "repo": "Microservices.Ticketing.WebApi",
+                "stars": 38
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Programming a Microservice with .Net Core 3.1",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/WolfgangOfner/MicroserviceDemo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2024-06-23T09:22:47Z",
+                "owner": "WolfgangOfner",
+                "repo": "MicroserviceDemo",
+                "stars": 585
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Securing Microservices with IdentityServer4, OAuth2 and OpenID Connect fronted by Ocelot API Gateway",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/aspnetrun/run-aspnet-identityserver4",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "SCSS",
+                "last_commit": "2025-04-04T09:52:48Z",
+                "owner": "aspnetrun",
+                "repo": "run-aspnet-identityserver4",
+                "stars": 240
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/aspnetrun/run-aspnet-grpc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2025-04-04T09:53:24Z",
+                "owner": "aspnetrun",
+                "repo": "run-aspnet-grpc",
+                "stars": 113
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Our first Microservice with .NET Core 3.1",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/elsavies/NetCoreMicroservices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2020-08-22T01:05:02Z",
+                "owner": "elysaulve",
+                "repo": "NetCoreMicroservices",
+                "stars": 4
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Other Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/vietnam-devs/coolstore-microservices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-07T00:21:52Z",
+            "owner": "vietnam-devs",
+            "repo": "coolstore-microservices",
+            "stars": 2532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/asc-lab/dotnetcore-microservices-poc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-09-16T11:09:34Z",
+            "owner": "asc-lab",
+            "repo": "dotnetcore-microservices-poc",
+            "stars": 1938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/EdwinVW/pitstop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T12:33:51Z",
+            "owner": "EdwinVW",
+            "repo": "pitstop",
+            "stars": 1162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/devmentors/DNC-DShop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2019-05-09T16:11:17Z",
+            "owner": "devmentors",
+            "repo": "DNC-DShop",
+            "stars": 1017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/snatch-dev/Convey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-03-25T14:43:33Z",
+            "owner": "snatch-dev",
+            "repo": "Convey",
+            "stars": 958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/chayxana/Restaurant-App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-24T19:08:22Z",
+            "owner": "chayxana",
+            "repo": "Restaurant-App",
+            "stars": 775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/madslundt/NetCoreMicroservicesSample",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-03T23:31:27Z",
+            "owner": "madslundt",
+            "repo": "NetCoreMicroservicesSample",
+            "stars": 700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T15:37:32Z",
+            "owner": "SteeltoeOSS",
+            "repo": "Samples",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/Azure-Samples/Serverless-microservices-reference-architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-06T09:24:08Z",
+            "owner": "Azure-Samples",
+            "repo": "Serverless-microservices-reference-architecture",
+            "stars": 523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/twzhangyang/RestAirline",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-03T23:26:35Z",
+            "owner": "twzhangyang",
+            "repo": "RestAirline",
+            "stars": 368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/johnph/simple-transaction",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-03-21T13:01:27Z",
+            "owner": "johnph",
+            "repo": "simple-transaction",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/charlessolar/eShopOnContainersDDD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-04T00:19:52Z",
+            "owner": "charlessolar",
+            "repo": "eShopOnContainersDDD",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/thangchung/practical-dapr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-05T20:28:54Z",
+            "owner": "thangchung",
+            "repo": "practical-dapr",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/alugili/ModernArchitectureShop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-12-25T21:57:54Z",
+            "owner": "alugili",
+            "repo": "ModernArchitectureShop",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/daxnet/we-text",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-11-15T07:06:13Z",
+            "owner": "daxnet",
+            "repo": "we-text",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/charlessolar/TodoMVC-DDD-CQRS-EventSourcing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-08T23:00:16Z",
+            "owner": "charlessolar",
+            "repo": "TodoMVC-DDD-CQRS-EventSourcing",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/thangchung/magazine-website",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-03T05:04:47Z",
+            "owner": "thangchung",
+            "repo": "magazine-website",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mmacneil/ASPNETCoreDockerMicroservices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-12-28T15:15:01Z",
+            "owner": "mmacneil",
+            "repo": "ASPNETCoreDockerMicroservices",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T02:14:17Z",
+            "owner": "vany0114",
+            "repo": "microservices-dotnetcore-docker-sf-k8s",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/suadev/dotnet-istanbul-microservices-demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T06:01:21Z",
+            "owner": "suadev",
+            "repo": "dotnet-istanbul-microservices-demo",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/osstotalsoft/nbb",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-14T07:56:44Z",
+            "owner": "osstotalsoft",
+            "repo": "nbb",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/netcorebcn/quiz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-11-19T23:14:43Z",
+            "owner": "netcorebcn",
+            "repo": "quiz",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/xiajingren/NetCoreMicroserviceDemo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-23T19:40:13Z",
+            "owner": "xiajingren",
+            "repo": "NetCoreMicroserviceDemo",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/PacktPublishing/.NET-Core-Microservices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-08T19:26:17Z",
+            "owner": "PacktPublishing",
+            "repo": ".NET-Core-Microservices",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/dzimchuk/book-fast-service-fabric",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T00:55:20Z",
+            "owner": "dzimchuk",
+            "repo": "book-fast-service-fabric",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MarcelMichau/fake-survey-generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T08:07:20Z",
+            "owner": "MarcelMichau",
+            "repo": "fake-survey-generator",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/aramkoukia/microservices-prototype",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-02-25T21:46:56Z",
+            "owner": "aramkoukia",
+            "repo": "microservices-prototype",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/thangchung/ShoppingCartDemo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-10-03T11:33:22Z",
+            "owner": "thangchung",
+            "repo": "ShoppingCartDemo",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/ImranMA/MicroCouriers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T04:22:28Z",
+            "owner": "ImranMA",
+            "repo": "MicroCouriers",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/thangchung/shopping-cart-k8s",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-06-02T10:28:21Z",
+            "owner": "thangchung",
+            "repo": "shopping-cart-k8s",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/NHadi/HappySocialMedia",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-16T20:02:23Z",
+            "owner": "NHadi",
+            "repo": "HappySocialMedia",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-29T17:03:24Z",
+            "owner": "kimcuhoang",
+            "repo": "dapr-tye-simple-microservices",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/MicroservicesBuildingBlocks/BuildingBlocks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-02-09T12:57:06Z",
+            "owner": "MicroservicesBuildingBlocks",
+            "repo": "BuildingBlocks",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/fcatae/Arda",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-09-06T11:51:30Z",
+            "owner": "fcatae",
+            "repo": "Arda",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/AdrienTorris/aspnet-core-simple-microservices-sample",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-12-08T16:57:43Z",
+            "owner": "AdrienTorris",
+            "repo": "aspnet-core-simple-microservices-sample",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/AlexeyKramarenko/.NET-Core-Microservices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-12-07T14:00:58Z",
+            "owner": "OlexiyKramarenko",
+            "repo": "CQRS-ES-Microservices",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/cloudnative-netcore/modernstore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2020-10-02T10:07:42Z",
+            "owner": "cloudnative-netcore",
+            "repo": "modernstore",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/PacktPublishing/Building-Microservices-with-DotNET-Core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-03-03T03:21:06Z",
+            "owner": "PacktPublishing",
+            "repo": "Building-Microservices-with-DotNET-Core",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/vany0114/chaos-injection-using-simmy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T01:59:15Z",
+            "owner": "vany0114",
+            "repo": "chaos-injection-using-simmy",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/hossambarakat/EspressoShop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-05-17T08:24:19Z",
+            "owner": "hossambarakat",
+            "repo": "EspressoShop",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/thangchung/magazine-website-akka",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2017-04-15T11:19:09Z",
+            "owner": "thangchung",
+            "repo": "magazine-website-akka",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/brucehu123/Study.Microservices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-01-17T05:46:03Z",
+            "owner": "brucehu123",
+            "repo": "Study.Microservices",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/sandhaka/MyMicroservicesApplication",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-16T12:00:24Z",
+            "owner": "sandhaka",
+            "repo": "MyMicroservicesApplication",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/parameshg/northwind-mesh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-10-08T03:54:46Z",
+            "owner": "parameshg",
+            "repo": "istio-prototype",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/HoussemDellai/MicroservicesOnContainers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-01-30T07:17:19Z",
+            "owner": "HoussemDellai",
+            "repo": "MicroservicesOnContainers",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mohamed-abdo/vehicle-tracking-microservices",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-19T12:33:47Z",
+            "owner": "mohamed-abdo",
+            "repo": "vehicle-tracking-microservices",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/dzimchuk/book-fast-docker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T20:22:57Z",
+            "owner": "dzimchuk",
+            "repo": "book-fast-containers",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/logcorner/LogCorner.EduSync.Speech.Command/",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-31T15:02:02Z",
+            "owner": "logcorner",
+            "repo": "LogCorner.EduSync.Speech.Command",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/gfawcett22/EnterprisePlanner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2018-04-06T00:00:59Z",
+            "owner": "gfawcett22",
+            "repo": "EnterprisePlanner",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/aacostamx/Microservice-using-ASP-NET-Core",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-06-09T00:16:09Z",
+            "owner": "aacostamx",
+            "repo": "Microservice-using-ASP-NET-Core",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/mspnp/microservices-reference-implementation",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Sample Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools and Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MassTransit",
+          "description": "Distributed Application Framework for .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-04T18:06:31Z",
+            "owner": "MassTransit",
+            "repo": "MassTransit",
+            "stars": 7796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CAP",
+          "description": "Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T13:10:06Z",
+            "owner": "dotnetcore",
+            "repo": "CAP",
+            "stars": 7104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroMQ",
+          "description": "A 100% native C# implementation of ZeroMQ for .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-30T00:52:08Z",
+            "owner": "zeromq",
+            "repo": "netmq",
+            "stars": 3179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyNetQ",
+          "description": "An easy to use .NET API for RabbitMQ",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T06:49:44Z",
+            "owner": "EasyNetQ",
+            "repo": "EasyNetQ",
+            "stars": 3058
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rebus",
+          "description": "Simple and lean service bus implementation for .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-26T05:58:46Z",
+            "owner": "rebus-org",
+            "repo": "Rebus",
+            "stars": 2654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brighter",
+          "description": "Command Dispatcher, Processor, and Distributed Task Queue",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T16:54:32Z",
+            "owner": "BrighterCommand",
+            "repo": "Brighter",
+            "stars": 2468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RabbitMQ",
+          "description": "RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T18:08:25Z",
+            "owner": "rabbitmq",
+            "repo": "rabbitmq-dotnet-client",
+            "stars": 2278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NServiceBus",
+          "description": "The most popular service bus for .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T21:39:49Z",
+            "owner": "Particular",
+            "repo": "NServiceBus",
+            "stars": 2167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Silverback",
+          "description": "Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T15:46:10Z",
+            "owner": "BEagle1984",
+            "repo": "silverback",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kafka",
+          "description": "Confluent's Apache Kafka .NET client",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T16:16:20Z",
+            "owner": "confluentinc",
+            "repo": "confluent-kafka-dotnet",
+            "stars": 268
+          }
+        }
+      ],
+      "title": "Messaging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YARP",
+          "description": "YARP (which stands for \"YARP: A Reverse Proxy\") is a toolkit for developing high-performance HTTP reverse proxy applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T11:44:48Z",
+            "owner": "dotnet",
+            "repo": "yarp",
+            "stars": 9593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ocelot",
+          "description": ".NET core API Gateway",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T11:41:03Z",
+            "owner": "ThreeMammals",
+            "repo": "Ocelot",
+            "stars": 8714
+          }
+        }
+      ],
+      "title": "Api Gateway"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Foundatio",
+          "description": "Pluggable foundation blocks for building distributed apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T14:47:40Z",
+            "owner": "FoundatioFx",
+            "repo": "Foundatio",
+            "stars": 2096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microdot",
+          "description": "Microdot is an open source .NET framework that answers a lot of the needs for easily creating microservices.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-11-16T08:31:48Z",
+            "owner": "gigya",
+            "repo": "microdot",
+            "stars": 1538
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Project Tye",
+          "description": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-11-20T21:09:49Z",
+            "owner": "dotnet",
+            "repo": "tye",
+            "stars": 5208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Health Checks",
+          "description": "Enterprise HealthChecks for ASP.NET Core Diagnostics Package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-22T21:52:32Z",
+            "owner": "Xabaril",
+            "repo": "AspNetCore.Diagnostics.HealthChecks",
+            "stars": 4371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dapr",
+          "description": "Dapr SDK for .NET (Dapr is a portable, event-driven, serverless runtime for building distributed applications)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-25T02:50:26Z",
+            "owner": "dapr",
+            "repo": "dotnet-sdk",
+            "stars": 1202
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "Contributions are always welcome! Feel free to open an issue or create a pull request.",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "To the extent possible under law, Mohammad Javad Ebrahimi has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:40:10.402Z",
+    "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
+    "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Microservices-DotNet",
+    "enhanced_repository_description": null,
+    "title": "💎 Awesome Microservices .NET with stars"
+  }
+}
