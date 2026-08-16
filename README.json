@@ -219,7 +219,7 @@
             "last_commit": "2023-03-07T00:21:52Z",
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2532
+            "stars": 2531
           }
         },
         {
@@ -611,7 +611,7 @@
             "last_commit": "2022-12-08T04:22:28Z",
             "owner": "ImranMA",
             "repo": "MicroCouriers",
-            "stars": 65
+            "stars": 66
           }
         },
         {
@@ -936,7 +936,7 @@
             "last_commit": "2026-06-04T18:06:31Z",
             "owner": "MassTransit",
             "repo": "MassTransit",
-            "stars": 7797
+            "stars": 7798
           }
         },
         {
@@ -950,7 +950,7 @@
             "last_commit": "2026-08-01T13:10:06Z",
             "owner": "dotnetcore",
             "repo": "CAP",
-            "stars": 7103
+            "stars": 7104
           }
         },
         {
@@ -1003,7 +1003,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-09T16:54:32Z",
+            "last_commit": "2026-08-16T16:55:46Z",
             "owner": "BrighterCommand",
             "repo": "Brighter",
             "stars": 2468
@@ -1045,7 +1045,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T15:46:10Z",
+            "last_commit": "2026-08-16T20:34:10Z",
             "owner": "BEagle1984",
             "repo": "silverback",
             "stars": 284
@@ -1082,7 +1082,7 @@
             "last_commit": "2026-08-11T11:44:48Z",
             "owner": "dotnet",
             "repo": "yarp",
-            "stars": 9595
+            "stars": 9596
           }
         },
         {
@@ -1093,7 +1093,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T17:51:16Z",
+            "last_commit": "2026-08-16T16:12:09Z",
             "owner": "ThreeMammals",
             "repo": "Ocelot",
             "stars": 8714
@@ -1113,7 +1113,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T23:06:38Z",
+            "last_commit": "2026-08-16T20:34:41Z",
             "owner": "FoundatioFx",
             "repo": "Foundatio",
             "stars": 2096
@@ -1130,7 +1130,7 @@
             "last_commit": "2023-11-16T08:31:48Z",
             "owner": "gigya",
             "repo": "microdot",
-            "stars": 1538
+            "stars": 1537
           }
         }
       ],
@@ -1150,7 +1150,7 @@
             "last_commit": "2023-11-20T21:09:49Z",
             "owner": "dotnet",
             "repo": "tye",
-            "stars": 5208
+            "stars": 5207
           }
         },
         {
@@ -1164,7 +1164,7 @@
             "last_commit": "2026-06-22T21:52:32Z",
             "owner": "Xabaril",
             "repo": "AspNetCore.Diagnostics.HealthChecks",
-            "stars": 4371
+            "stars": 4372
           }
         },
         {
@@ -1175,7 +1175,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T20:48:04Z",
+            "last_commit": "2026-08-16T20:41:49Z",
             "owner": "dapr",
             "repo": "dotnet-sdk",
             "stars": 1202
@@ -1196,7 +1196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:16:23.192Z",
+    "last_updated": "2026-08-16T21:15:41.443Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
     "enhanced_repository": "enhansome/enhansome-Awesome-Microservices-DotNet",
