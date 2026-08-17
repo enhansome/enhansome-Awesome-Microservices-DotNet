@@ -527,7 +527,7 @@
             "last_commit": "2023-07-23T19:40:13Z",
             "owner": "xiajingren",
             "repo": "NetCoreMicroserviceDemo",
-            "stars": 98
+            "stars": 99
           }
         },
         {
@@ -1031,7 +1031,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T16:15:51Z",
+            "last_commit": "2026-08-17T02:03:49Z",
             "owner": "Particular",
             "repo": "NServiceBus",
             "stars": 2168
@@ -1059,7 +1059,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-15T05:56:58Z",
+            "last_commit": "2026-08-17T17:05:55Z",
             "owner": "confluentinc",
             "repo": "confluent-kafka-dotnet",
             "stars": 268
@@ -1079,10 +1079,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T11:44:48Z",
+            "last_commit": "2026-08-17T05:05:52Z",
             "owner": "dotnet",
             "repo": "yarp",
-            "stars": 9596
+            "stars": 9597
           }
         },
         {
@@ -1113,7 +1113,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T20:34:41Z",
+            "last_commit": "2026-08-17T20:23:44Z",
             "owner": "FoundatioFx",
             "repo": "Foundatio",
             "stars": 2096
@@ -1175,7 +1175,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T20:41:49Z",
+            "last_commit": "2026-08-17T21:14:55Z",
             "owner": "dapr",
             "repo": "dotnet-sdk",
             "stars": 1202
@@ -1196,7 +1196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:15:41.443Z",
+    "last_updated": "2026-08-17T21:21:19.457Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
     "enhanced_repository": "enhansome/enhansome-Awesome-Microservices-DotNet",
