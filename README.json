@@ -233,7 +233,7 @@
             "last_commit": "2025-09-16T11:09:34Z",
             "owner": "asc-lab",
             "repo": "dotnetcore-microservices-poc",
-            "stars": 1938
+            "stars": 1939
           }
         },
         {
@@ -314,10 +314,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T15:37:32Z",
+            "last_commit": "2026-08-17T23:16:41Z",
             "owner": "SteeltoeOSS",
             "repo": "Samples",
-            "stars": 646
+            "stars": 647
           }
         },
         {
@@ -566,7 +566,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T06:06:32Z",
+            "last_commit": "2026-08-18T15:22:47Z",
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
             "stars": 85
@@ -936,7 +936,7 @@
             "last_commit": "2026-06-04T18:06:31Z",
             "owner": "MassTransit",
             "repo": "MassTransit",
-            "stars": 7798
+            "stars": 7797
           }
         },
         {
@@ -989,7 +989,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-05-26T05:58:46Z",
+            "last_commit": "2026-08-18T06:35:12Z",
             "owner": "rebus-org",
             "repo": "Rebus",
             "stars": 2654
@@ -1020,7 +1020,7 @@
             "last_commit": "2026-08-13T23:14:59Z",
             "owner": "rabbitmq",
             "repo": "rabbitmq-dotnet-client",
-            "stars": 2278
+            "stars": 2279
           }
         },
         {
@@ -1062,7 +1062,7 @@
             "last_commit": "2026-08-17T17:05:55Z",
             "owner": "confluentinc",
             "repo": "confluent-kafka-dotnet",
-            "stars": 268
+            "stars": 269
           }
         }
       ],
@@ -1093,10 +1093,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-16T16:12:09Z",
+            "last_commit": "2026-08-18T18:56:50Z",
             "owner": "ThreeMammals",
             "repo": "Ocelot",
-            "stars": 8714
+            "stars": 8715
           }
         }
       ],
@@ -1196,7 +1196,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:21:19.457Z",
+    "last_updated": "2026-08-18T21:18:54.801Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
     "enhanced_repository": "enhansome/enhansome-Awesome-Microservices-DotNet",
