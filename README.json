@@ -906,7 +906,7 @@
             "archived": false,
             "id": 171891573,
             "language": "C#",
-            "last_commit": "2026-08-13T20:22:57Z",
+            "last_commit": "2026-08-19T20:46:34Z",
             "owner": "dzimchuk",
             "repo": "book-fast-containers",
             "stars": 10
@@ -1052,7 +1052,7 @@
                 "last_commit": "2026-08-16T16:55:46Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2468
+                "stars": 2469
               }
             },
             {
@@ -1134,7 +1134,7 @@
                 "last_commit": "2026-08-17T05:05:52Z",
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9598
+                "stars": 9599
               }
             },
             {
@@ -1146,7 +1146,7 @@
                 "archived": false,
                 "id": 62256097,
                 "language": "C#",
-                "last_commit": "2026-08-18T18:56:50Z",
+                "last_commit": "2026-08-19T17:08:30Z",
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
                 "stars": 8715
@@ -1251,7 +1251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:09:42.373Z",
+    "last_updated": "2026-08-19T21:20:41.930Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
     "original_repository_id": 257171786,
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
