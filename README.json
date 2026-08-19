@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "If you liked this repo or if it helped you, please give a star ⭐️ for this repository. That will not only help strengthen our .NET community but also improve skills about the Microservices for .NET developers around the world 👍. Thank you very much.",
-      "items": [],
-      "title": "Give a Star! ⭐️"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Training Series"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -25,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 275100914,
                 "language": "C#",
                 "last_commit": "2021-01-29T17:52:16Z",
                 "owner": "procodeguide",
@@ -46,6 +37,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 113197708,
                 "language": "C#",
                 "last_commit": "2017-12-28T15:15:01Z",
                 "owner": "mmacneil",
@@ -67,6 +59,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 180999541,
                 "language": "C#",
                 "last_commit": "2023-03-03T23:31:27Z",
                 "owner": "madslundt",
@@ -88,6 +81,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 280508187,
                 "language": "C#",
                 "last_commit": "2020-07-18T14:26:54Z",
                 "owner": "iammukeshm",
@@ -109,6 +103,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 289532288,
                 "language": "C#",
                 "last_commit": "2020-10-03T11:13:25Z",
                 "owner": "iammukeshm",
@@ -130,6 +125,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 254961953,
                 "language": "C#",
                 "last_commit": "2024-06-23T09:22:47Z",
                 "owner": "WolfgangOfner",
@@ -151,6 +147,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 309351002,
                 "language": "SCSS",
                 "last_commit": "2025-04-04T09:52:48Z",
                 "owner": "aspnetrun",
@@ -172,6 +169,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 311347426,
                 "language": "C#",
                 "last_commit": "2025-04-04T09:53:24Z",
                 "owner": "aspnetrun",
@@ -193,6 +191,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 286863502,
                 "language": "C#",
                 "last_commit": "2020-08-22T01:05:02Z",
                 "owner": "elysaulve",
@@ -206,7 +205,7 @@
       "title": "Other Tutorials"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -215,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135726659,
             "language": "C#",
             "last_commit": "2023-03-07T00:21:52Z",
             "owner": "vietnam-devs",
@@ -229,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 150382880,
             "language": "CSS",
             "last_commit": "2025-09-16T11:09:34Z",
             "owner": "asc-lab",
@@ -243,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104884613,
             "language": "JavaScript",
             "last_commit": "2026-08-04T12:33:51Z",
             "owner": "EdwinVW",
@@ -257,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120745713,
             "language": "Shell",
             "last_commit": "2019-05-09T16:11:17Z",
             "owner": "devmentors",
@@ -271,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 214860990,
             "language": "C#",
             "last_commit": "2024-03-25T14:43:33Z",
             "owner": "snatch-dev",
@@ -285,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51915212,
             "language": "HTML",
             "last_commit": "2026-02-24T19:08:22Z",
             "owner": "chayxana",
@@ -299,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 180999541,
             "language": "C#",
             "last_commit": "2023-03-03T23:31:27Z",
             "owner": "madslundt",
@@ -313,11 +319,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57339405,
             "language": "C#",
-            "last_commit": "2026-08-17T23:16:41Z",
+            "last_commit": "2026-08-18T21:30:16Z",
             "owner": "SteeltoeOSS",
             "repo": "Samples",
-            "stars": 647
+            "stars": 648
           }
         },
         {
@@ -327,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167102334,
             "language": "C#",
             "last_commit": "2024-06-06T09:24:08Z",
             "owner": "Azure-Samples",
@@ -341,6 +349,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133215266,
             "language": "C#",
             "last_commit": "2023-03-03T23:26:35Z",
             "owner": "twzhangyang",
@@ -355,6 +364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18453391,
             "language": "C#",
             "last_commit": "2019-03-21T13:01:27Z",
             "owner": "johnph",
@@ -369,6 +379,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130364468,
             "language": "C#",
             "last_commit": "2023-03-04T00:19:52Z",
             "owner": "charlessolar",
@@ -383,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 243936979,
             "language": "C#",
             "last_commit": "2023-07-05T20:28:54Z",
             "owner": "thangchung",
@@ -397,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288982504,
             "language": "C#",
             "last_commit": "2020-12-25T21:57:54Z",
             "owner": "alugili",
@@ -411,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55229124,
             "language": "C#",
             "last_commit": "2017-11-15T07:06:13Z",
             "owner": "daxnet",
@@ -425,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127932700,
             "language": "C#",
             "last_commit": "2023-01-08T23:00:16Z",
             "owner": "charlessolar",
@@ -439,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7434651,
             "language": "C#",
             "last_commit": "2020-10-03T05:04:47Z",
             "owner": "thangchung",
@@ -453,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113197708,
             "language": "C#",
             "last_commit": "2017-12-28T15:15:01Z",
             "owner": "mmacneil",
@@ -467,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126120884,
             "language": "C#",
             "last_commit": "2022-12-08T02:14:17Z",
             "owner": "vany0114",
@@ -481,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173631163,
             "language": "C#",
             "last_commit": "2022-12-08T06:01:21Z",
             "owner": "suadev",
@@ -495,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 166371135,
             "language": "C#",
             "last_commit": "2026-07-14T07:56:44Z",
             "owner": "osstotalsoft",
@@ -509,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82735998,
             "language": "C#",
             "last_commit": "2018-11-19T23:14:43Z",
             "owner": "netcorebcn",
@@ -523,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 270977139,
             "language": "C#",
             "last_commit": "2023-07-23T19:40:13Z",
             "owner": "xiajingren",
@@ -537,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125472009,
             "language": "C#",
             "last_commit": "2022-07-08T19:26:17Z",
             "owner": "PacktPublishing",
@@ -551,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76863322,
             "language": "C#",
             "last_commit": "2022-12-08T00:55:20Z",
             "owner": "dzimchuk",
@@ -565,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158113219,
             "language": "C#",
             "last_commit": "2026-08-18T15:22:47Z",
             "owner": "MarcelMichau",
@@ -579,6 +604,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118077298,
             "language": "C#",
             "last_commit": "2018-02-25T21:46:56Z",
             "owner": "aramkoukia",
@@ -593,6 +619,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92073492,
             "language": "C#",
             "last_commit": "2017-10-03T11:33:22Z",
             "owner": "thangchung",
@@ -607,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169550351,
             "language": "C#",
             "last_commit": "2022-12-08T04:22:28Z",
             "owner": "ImranMA",
@@ -621,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131012789,
             "language": "C#",
             "last_commit": "2018-06-02T10:28:21Z",
             "owner": "thangchung",
@@ -635,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207180357,
             "language": "C#",
             "last_commit": "2024-01-16T20:02:23Z",
             "owner": "NHadi",
@@ -649,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244415283,
             "language": "C#",
             "last_commit": "2020-10-29T17:03:24Z",
             "owner": "kimcuhoang",
@@ -663,6 +694,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120904954,
             "language": "C#",
             "last_commit": "2018-02-09T12:57:06Z",
             "owner": "MicroservicesBuildingBlocks",
@@ -677,6 +709,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72882750,
             "language": "C#",
             "last_commit": "2017-09-06T11:51:30Z",
             "owner": "fcatae",
@@ -691,6 +724,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158738589,
             "language": "C#",
             "last_commit": "2018-12-08T16:57:43Z",
             "owner": "AdrienTorris",
@@ -705,6 +739,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147301208,
             "language": "C#",
             "last_commit": "2018-12-07T14:00:58Z",
             "owner": "OlexiyKramarenko",
@@ -719,6 +754,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296789041,
             "language": "C#",
             "last_commit": "2020-10-02T10:07:42Z",
             "owner": "cloudnative-netcore",
@@ -733,6 +769,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94765679,
             "language": "C#",
             "last_commit": "2023-03-03T03:21:06Z",
             "owner": "PacktPublishing",
@@ -747,6 +784,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188335731,
             "language": "C#",
             "last_commit": "2022-12-08T01:59:15Z",
             "owner": "vany0114",
@@ -761,6 +799,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168249710,
             "language": "C#",
             "last_commit": "2025-05-17T08:24:19Z",
             "owner": "hossambarakat",
@@ -775,6 +814,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81163537,
             "language": "C#",
             "last_commit": "2017-04-15T11:19:09Z",
             "owner": "thangchung",
@@ -789,6 +829,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 175644552,
             "language": "C#",
             "last_commit": "2023-01-17T05:46:03Z",
             "owner": "brucehu123",
@@ -803,6 +844,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96119882,
             "language": "C#",
             "last_commit": "2018-04-16T12:00:24Z",
             "owner": "sandhaka",
@@ -817,6 +859,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146140165,
             "language": "C#",
             "last_commit": "2018-10-08T03:54:46Z",
             "owner": "parameshg",
@@ -831,6 +874,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161980594,
             "language": "C#",
             "last_commit": "2019-01-30T07:17:19Z",
             "owner": "HoussemDellai",
@@ -845,6 +889,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113913875,
             "language": "C#",
             "last_commit": "2018-04-19T12:33:47Z",
             "owner": "mohamed-abdo",
@@ -859,6 +904,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171891573,
             "language": "C#",
             "last_commit": "2026-08-13T20:22:57Z",
             "owner": "dzimchuk",
@@ -873,6 +919,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 163537277,
             "language": "C#",
             "last_commit": "2023-12-31T15:02:02Z",
             "owner": "logcorner",
@@ -887,6 +934,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93228273,
             "language": "C#",
             "last_commit": "2018-04-06T00:00:59Z",
             "owner": "gfawcett22",
@@ -901,303 +949,311 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190946353,
             "language": "C#",
             "last_commit": "2019-06-09T00:16:09Z",
             "owner": "aacostamx",
             "repo": "Microservice-using-ASP-NET-Core",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/mspnp/microservices-reference-implementation",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Sample Projects"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MassTransit",
+              "description": "Distributed Application Framework for .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 778828,
+                "language": "C#",
+                "last_commit": "2026-06-04T18:06:31Z",
+                "owner": "MassTransit",
+                "repo": "MassTransit",
+                "stars": 7797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CAP",
+              "description": "Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76445704,
+                "language": "C#",
+                "last_commit": "2026-08-01T13:10:06Z",
+                "owner": "dotnetcore",
+                "repo": "CAP",
+                "stars": 7105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZeroMQ",
+              "description": "A 100% native C# implementation of ZeroMQ for .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 6521142,
+                "language": "C#",
+                "last_commit": "2026-07-30T00:52:08Z",
+                "owner": "zeromq",
+                "repo": "netmq",
+                "stars": 3180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EasyNetQ",
+              "description": "An easy to use .NET API for RabbitMQ",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1645954,
+                "language": "C#",
+                "last_commit": "2026-08-06T06:49:44Z",
+                "owner": "EasyNetQ",
+                "repo": "EasyNetQ",
+                "stars": 3057
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rebus",
+              "description": "Simple and lean service bus implementation for .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2425099,
+                "language": "C#",
+                "last_commit": "2026-08-18T06:35:12Z",
+                "owner": "rebus-org",
+                "repo": "Rebus",
+                "stars": 2656
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Brighter",
+              "description": "Command Dispatcher, Processor, and Distributed Task Queue",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1223855,
+                "language": "C#",
+                "last_commit": "2026-08-16T16:55:46Z",
+                "owner": "BrighterCommand",
+                "repo": "Brighter",
+                "stars": 2468
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RabbitMQ",
+              "description": "RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 924562,
+                "language": "C#",
+                "last_commit": "2026-08-13T23:14:59Z",
+                "owner": "rabbitmq",
+                "repo": "rabbitmq-dotnet-client",
+                "stars": 2280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NServiceBus",
+              "description": "The most popular service bus for .NET",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1056713,
+                "language": "C#",
+                "last_commit": "2026-08-17T02:03:49Z",
+                "owner": "Particular",
+                "repo": "NServiceBus",
+                "stars": 2168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Silverback",
+              "description": "Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128375935,
+                "language": "C#",
+                "last_commit": "2026-08-16T20:34:10Z",
+                "owner": "BEagle1984",
+                "repo": "silverback",
+                "stars": 284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kafka",
+              "description": "Confluent's Apache Kafka .NET client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72554578,
+                "language": "C#",
+                "last_commit": "2026-08-17T17:05:55Z",
+                "owner": "confluentinc",
+                "repo": "confluent-kafka-dotnet",
+                "stars": 269
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Messaging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YARP",
+              "description": "YARP (which stands for \"YARP: A Reverse Proxy\") is a toolkit for developing high-performance HTTP reverse proxy applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245235133,
+                "language": "C#",
+                "last_commit": "2026-08-17T05:05:52Z",
+                "owner": "dotnet",
+                "repo": "yarp",
+                "stars": 9598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ocelot",
+              "description": ".NET core API Gateway",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62256097,
+                "language": "C#",
+                "last_commit": "2026-08-18T18:56:50Z",
+                "owner": "ThreeMammals",
+                "repo": "Ocelot",
+                "stars": 8715
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Api Gateway"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Foundatio",
+              "description": "Pluggable foundation blocks for building distributed apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30369187,
+                "language": "C#",
+                "last_commit": "2026-08-17T20:23:44Z",
+                "owner": "FoundatioFx",
+                "repo": "Foundatio",
+                "stars": 2098
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Microdot",
+              "description": "Microdot is an open source .NET framework that answers a lot of the needs for easily creating microservices.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 89123929,
+                "language": "C#",
+                "last_commit": "2023-11-16T08:31:48Z",
+                "owner": "gigya",
+                "repo": "microdot",
+                "stars": 1537
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Project Tye",
+              "description": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 243854166,
+                "language": "C#",
+                "last_commit": "2023-11-20T21:09:49Z",
+                "owner": "dotnet",
+                "repo": "tye",
+                "stars": 5207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Health Checks",
+              "description": "Enterprise HealthChecks for ASP.NET Core Diagnostics Package",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150572151,
+                "language": "C#",
+                "last_commit": "2026-06-22T21:52:32Z",
+                "owner": "Xabaril",
+                "repo": "AspNetCore.Diagnostics.HealthChecks",
+                "stars": 4372
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Dapr",
+              "description": "Dapr SDK for .NET (Dapr is a portable, event-driven, serverless runtime for building distributed applications)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 193124882,
+                "language": "C#",
+                "last_commit": "2026-08-17T21:14:55Z",
+                "owner": "dapr",
+                "repo": "dotnet-sdk",
+                "stars": 1202
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        }
+      ],
       "title": "Tools and Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MassTransit",
-          "description": "Distributed Application Framework for .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-04T18:06:31Z",
-            "owner": "MassTransit",
-            "repo": "MassTransit",
-            "stars": 7797
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CAP",
-          "description": "Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-01T13:10:06Z",
-            "owner": "dotnetcore",
-            "repo": "CAP",
-            "stars": 7104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ZeroMQ",
-          "description": "A 100% native C# implementation of ZeroMQ for .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-07-30T00:52:08Z",
-            "owner": "zeromq",
-            "repo": "netmq",
-            "stars": 3179
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EasyNetQ",
-          "description": "An easy to use .NET API for RabbitMQ",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-06T06:49:44Z",
-            "owner": "EasyNetQ",
-            "repo": "EasyNetQ",
-            "stars": 3057
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rebus",
-          "description": "Simple and lean service bus implementation for .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T06:35:12Z",
-            "owner": "rebus-org",
-            "repo": "Rebus",
-            "stars": 2654
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Brighter",
-          "description": "Command Dispatcher, Processor, and Distributed Task Queue",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-16T16:55:46Z",
-            "owner": "BrighterCommand",
-            "repo": "Brighter",
-            "stars": 2468
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RabbitMQ",
-          "description": "RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-13T23:14:59Z",
-            "owner": "rabbitmq",
-            "repo": "rabbitmq-dotnet-client",
-            "stars": 2279
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NServiceBus",
-          "description": "The most popular service bus for .NET",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T02:03:49Z",
-            "owner": "Particular",
-            "repo": "NServiceBus",
-            "stars": 2168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Silverback",
-          "description": "Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-16T20:34:10Z",
-            "owner": "BEagle1984",
-            "repo": "silverback",
-            "stars": 284
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kafka",
-          "description": "Confluent's Apache Kafka .NET client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T17:05:55Z",
-            "owner": "confluentinc",
-            "repo": "confluent-kafka-dotnet",
-            "stars": 269
-          }
-        }
-      ],
-      "title": "Messaging"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "YARP",
-          "description": "YARP (which stands for \"YARP: A Reverse Proxy\") is a toolkit for developing high-performance HTTP reverse proxy applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T05:05:52Z",
-            "owner": "dotnet",
-            "repo": "yarp",
-            "stars": 9597
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ocelot",
-          "description": ".NET core API Gateway",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T18:56:50Z",
-            "owner": "ThreeMammals",
-            "repo": "Ocelot",
-            "stars": 8715
-          }
-        }
-      ],
-      "title": "Api Gateway"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Foundatio",
-          "description": "Pluggable foundation blocks for building distributed apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T20:23:44Z",
-            "owner": "FoundatioFx",
-            "repo": "Foundatio",
-            "stars": 2096
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Microdot",
-          "description": "Microdot is an open source .NET framework that answers a lot of the needs for easily creating microservices.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2023-11-16T08:31:48Z",
-            "owner": "gigya",
-            "repo": "microdot",
-            "stars": 1537
-          }
-        }
-      ],
-      "title": "Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Project Tye",
-          "description": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2023-11-20T21:09:49Z",
-            "owner": "dotnet",
-            "repo": "tye",
-            "stars": 5207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Health Checks",
-          "description": "Enterprise HealthChecks for ASP.NET Core Diagnostics Package",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-06-22T21:52:32Z",
-            "owner": "Xabaril",
-            "repo": "AspNetCore.Diagnostics.HealthChecks",
-            "stars": 4372
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dapr",
-          "description": "Dapr SDK for .NET (Dapr is a portable, event-driven, serverless runtime for building distributed applications)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T21:14:55Z",
-            "owner": "dapr",
-            "repo": "dotnet-sdk",
-            "stars": 1202
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "Contributions are always welcome! Feel free to open an issue or create a pull request.",
-      "items": [],
-      "title": "Contribution"
-    },
-    {
-      "description": "To the extent possible under law, Mohammad Javad Ebrahimi has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:18:54.801Z",
+    "last_updated": "2026-08-19T12:09:42.373Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
+    "original_repository_id": 257171786,
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
     "enhanced_repository": "enhansome/enhansome-Awesome-Microservices-DotNet",
     "enhanced_repository_description": null,
