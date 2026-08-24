@@ -4,6 +4,254 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/asc-lab/dotnetcore-microservices-poc",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150382880,
+                "language": "CSS",
+                "last_commit": "2025-09-16T11:09:34Z",
+                "owner": "asc-lab",
+                "repo": "dotnetcore-microservices-poc",
+                "stars": 1939
+              }
+            }
+          ],
+          "description": "January 2019-September 2019",
+          "node_type": "group",
+          "title": "Building Microservices On .NET Core"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/logcorner/LogCorner.EduSync.Speech.Command/",
+              "description": "https://github.com/logcorner/LogCorner.EduSync.Speech.ServiceBus",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163537277,
+                "language": "C#",
+                "last_commit": "2023-12-31T15:02:02Z",
+                "owner": "logcorner",
+                "repo": "LogCorner.EduSync.Speech.Command",
+                "stars": 9
+              }
+            }
+          ],
+          "description": "January 2019-",
+          "node_type": "group",
+          "title": "Building microservices through Event Driven Architecture"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/catcherwong-archive/APIGatewayDemo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111825255,
+                "language": "C#",
+                "last_commit": "2022-07-08T19:40:35Z",
+                "owner": "catcherwong-archive",
+                "repo": "APIGatewayDemo",
+                "stars": 279
+              }
+            }
+          ],
+          "description": "November 2017-August 2019",
+          "node_type": "group",
+          "title": "Building API Gateway Using Ocelot In ASP.NET Core"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/devmentors/DNC-DShop",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120745713,
+                "language": "Shell",
+                "last_commit": "2019-05-09T16:11:17Z",
+                "owner": "devmentors",
+                "repo": "DNC-DShop",
+                "stars": 1017
+              }
+            }
+          ],
+          "description": "December 2018-April 2019",
+          "node_type": "group",
+          "title": "Distributed .NET Core (DShop)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/devmentors/Pacco",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 182634050,
+                "language": "Shell",
+                "last_commit": "2020-11-26T09:12:58Z",
+                "owner": "devmentors",
+                "repo": "Pacco",
+                "stars": 842
+              }
+            }
+          ],
+          "description": "May 2020-August 2020",
+          "node_type": "group",
+          "title": "Microservices .NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnMicroservices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 237105476,
+                "language": "G-code",
+                "last_commit": "2024-08-16T15:22:13Z",
+                "owner": "dotnet-presentations",
+                "repo": "dotNETConf",
+                "stars": 1009
+              }
+            }
+          ],
+          "description": "August 2020",
+          "node_type": "group",
+          "title": ".NET Conf: Focus on Microservices"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/DotNetMax/DockerMonitoringService",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270627850,
+                "language": "C#",
+                "last_commit": "2022-12-08T10:39:06Z",
+                "owner": "DotNetMax",
+                "repo": "DockerMonitoringService",
+                "stars": 8
+              }
+            }
+          ],
+          "description": "March 2020-June 2020",
+          "node_type": "group",
+          "title": "Microservices with .NET Core and Docker"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/dotnet-architecture/eShopOnContainers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 70104825,
+                "language": "C#",
+                "last_commit": "2023-11-15T22:27:17Z",
+                "owner": "dotnet-architecture",
+                "repo": "eShopOnContainers",
+                "stars": 24328
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET Microservices Architecture Guidance (Microsoft)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/aramkoukia/microservices-prototype",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118077298,
+                "language": "C#",
+                "last_commit": "2018-02-25T21:46:56Z",
+                "owner": "aramkoukia",
+                "repo": "microservices-prototype",
+                "stars": 80
+              }
+            }
+          ],
+          "description": "January 2018-March 2018",
+          "node_type": "group",
+          "title": "A Microservices Implementation Journey"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126120884,
+                "language": "C#",
+                "last_commit": "2022-12-08T02:14:17Z",
+                "owner": "vany0114",
+                "repo": "microservices-dotnetcore-docker-sf-k8s",
+                "stars": 156
+              }
+            }
+          ],
+          "description": "February 2018-September 2018",
+          "node_type": "group",
+          "title": "Microservices and Docker with .Net Core and Azure Service Fabric/Kubernetes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Repository : https://github.com/aspnetrun/run-aspnetcore-microservices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181356258,
+                "language": "C#",
+                "last_commit": "2026-03-09T14:56:46Z",
+                "owner": "aspnetrun",
+                "repo": "run-aspnetcore-microservices",
+                "stars": 3255
+              }
+            }
+          ],
+          "description": "May 2020",
+          "node_type": "group",
+          "title": "Building Microservices on .Net platforms"
+        }
+      ],
+      "title": "Training Series"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "group",
           "title": "Microservices with ASP.NET Core 3.1",
           "description": null,
@@ -591,7 +839,7 @@
             "archived": false,
             "id": 158113219,
             "language": "C#",
-            "last_commit": "2026-08-23T17:18:01Z",
+            "last_commit": "2026-08-24T08:53:56Z",
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
             "stars": 85
@@ -992,7 +1240,7 @@
                 "last_commit": "2026-08-01T13:10:06Z",
                 "owner": "dotnetcore",
                 "repo": "CAP",
-                "stars": 7105
+                "stars": 7106
               }
             },
             {
@@ -1049,7 +1297,7 @@
                 "archived": false,
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-23T16:40:07Z",
+                "last_commit": "2026-08-24T08:36:16Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2469
@@ -1079,7 +1327,7 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-20T11:38:31Z",
+                "last_commit": "2026-08-24T10:16:05Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
@@ -1109,7 +1357,7 @@
                 "archived": false,
                 "id": 72554578,
                 "language": "C#",
-                "last_commit": "2026-08-23T04:39:26Z",
+                "last_commit": "2026-08-24T06:43:15Z",
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
                 "stars": 268
@@ -1131,10 +1379,10 @@
                 "archived": false,
                 "id": 245235133,
                 "language": "C#",
-                "last_commit": "2026-08-17T05:05:52Z",
+                "last_commit": "2026-08-24T05:07:04Z",
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9602
+                "stars": 9601
               }
             },
             {
@@ -1156,6 +1404,28 @@
           "description": null,
           "node_type": "group",
           "title": "Api Gateway"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Consul.NET",
+              "description": "Consul.NET is a .NET client library for the HashiCorp Consul HTTP API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194080219,
+                "language": "C#",
+                "last_commit": "2026-08-21T10:53:41Z",
+                "owner": "G-Research",
+                "repo": "consuldotnet",
+                "stars": 372
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Service Discovery"
         },
         {
           "children": [
@@ -1251,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:16:50.579Z",
+    "last_updated": "2026-08-24T13:58:43.021Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
     "original_repository_id": 257171786,
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
