@@ -237,7 +237,7 @@
                 "last_commit": "2026-03-09T14:56:46Z",
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
-                "stars": 3255
+                "stars": 3256
               }
             }
           ],
@@ -839,7 +839,7 @@
             "archived": false,
             "id": 158113219,
             "language": "C#",
-            "last_commit": "2026-08-24T08:53:56Z",
+            "last_commit": "2026-08-25T13:22:51Z",
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
             "stars": 85
@@ -1154,7 +1154,7 @@
             "archived": false,
             "id": 171891573,
             "language": "C#",
-            "last_commit": "2026-08-20T21:04:00Z",
+            "last_commit": "2026-08-25T20:07:02Z",
             "owner": "dzimchuk",
             "repo": "book-fast-containers",
             "stars": 10
@@ -1225,7 +1225,7 @@
                 "last_commit": "2026-06-04T18:06:31Z",
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7796
+                "stars": 7797
               }
             },
             {
@@ -1297,7 +1297,7 @@
                 "archived": false,
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-24T08:36:16Z",
+                "last_commit": "2026-08-25T19:15:22Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2469
@@ -1357,10 +1357,10 @@
                 "archived": false,
                 "id": 72554578,
                 "language": "C#",
-                "last_commit": "2026-08-25T01:03:24Z",
+                "last_commit": "2026-08-25T18:12:13Z",
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
-                "stars": 268
+                "stars": 269
               }
             }
           ],
@@ -1382,7 +1382,7 @@
                 "last_commit": "2026-08-24T05:07:04Z",
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9600
+                "stars": 9601
               }
             },
             {
@@ -1478,7 +1478,7 @@
                 "last_commit": "2023-11-20T21:09:49Z",
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5207
+                "stars": 5206
               }
             },
             {
@@ -1493,7 +1493,7 @@
                 "last_commit": "2026-06-22T21:52:32Z",
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
-                "stars": 4372
+                "stars": 4373
               }
             },
             {
@@ -1505,7 +1505,7 @@
                 "archived": false,
                 "id": 193124882,
                 "language": "C#",
-                "last_commit": "2026-08-17T21:14:55Z",
+                "last_commit": "2026-08-25T16:05:23Z",
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
                 "stars": 1202
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:56:30.234Z",
+    "last_updated": "2026-08-25T21:22:58.643Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
     "original_repository_id": 257171786,
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
