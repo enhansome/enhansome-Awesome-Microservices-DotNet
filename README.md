@@ -92,7 +92,7 @@ November 2017-August 2019
 
 9. [Building API Gateway Using Ocelot In ASP.NET Core - Configuration (Consul)](https://www.c-sharpcorner.com/article/building-api-gateway-using-ocelot-in-asp-net-core-configuration-consul/)
 
-**Repository :** <https://github.com/catcherwong-archive/APIGatewayDemo> ⭐ 279 | 🐛 13 | 🌐 C# | 📅 2022-07-08
+**Repository :** <https://github.com/catcherwong-archive/APIGatewayDemo> ⭐ 280 | 🐛 13 | 🌐 C# | 📅 2022-07-08
 
 ### Distributed .NET Core (DShop)
 
@@ -560,16 +560,16 @@ May 2020
 * [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,280 | 🐛 62 | 🌐 C# | 📅 2026-08-13 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
 * [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,168 | 🐛 287 | 🌐 C# | 📅 2026-08-24 - The most popular service bus for .NET
 * [Silverback](https://github.com/BEagle1984/silverback) ⭐ 284 | 🐛 13 | 🌐 C# | 📅 2026-08-16 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
-* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 268 | 🐛 477 | 🌐 C# | 📅 2026-08-24 - Confluent's Apache Kafka .NET client
+* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 268 | 🐛 478 | 🌐 C# | 📅 2026-08-25 - Confluent's Apache Kafka .NET client
 
 ### Api Gateway
 
-* [YARP](https://github.com/microsoft/reverse-proxy) ⭐ 9,601 | 🐛 191 | 🌐 C# | 📅 2026-08-24 - YARP (which stands for "YARP: A Reverse Proxy") is a toolkit for developing high-performance HTTP reverse proxy applications
-* [Ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,716 | 🐛 61 | 🌐 C# | 📅 2026-08-21 - .NET core API Gateway
+* [YARP](https://github.com/microsoft/reverse-proxy) ⭐ 9,600 | 🐛 191 | 🌐 C# | 📅 2026-08-24 - YARP (which stands for "YARP: A Reverse Proxy") is a toolkit for developing high-performance HTTP reverse proxy applications
+* [Ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,717 | 🐛 61 | 🌐 C# | 📅 2026-08-21 - .NET core API Gateway
 
 ### Service Discovery
 
-* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 372 | 🐛 3 | 🌐 C# | 📅 2026-08-21 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,040 | 🐛 1,416 | 🌐 Go | 📅 2026-08-24 HTTP API
+* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 372 | 🐛 3 | 🌐 C# | 📅 2026-08-21 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,040 | 🐛 1,416 | 🌐 Go | 📅 2026-08-25 HTTP API
 
 ### Frameworks
 
@@ -580,7 +580,7 @@ May 2020
 
 * [Project Tye](https://github.com/dotnet/tye) ⚠️ Archived - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
 * [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) ⭐ 4,372 | 🐛 379 | 🌐 C# | 📅 2026-06-22 - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,202 | 🐛 217 | 🌐 C# | 📅 2026-08-17 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,033 | 🐛 428 | 🌐 Go | 📅 2026-08-24 is a portable, event-driven, serverless runtime for building distributed applications)
+* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,202 | 🐛 215 | 🌐 C# | 📅 2026-08-17 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,032 | 🐛 428 | 🌐 Go | 📅 2026-08-24 is a portable, event-driven, serverless runtime for building distributed applications)
 
 ## Contribution
 
@@ -594,4 +594,4 @@ To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

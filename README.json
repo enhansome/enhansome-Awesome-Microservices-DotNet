@@ -61,7 +61,7 @@
                 "last_commit": "2022-07-08T19:40:35Z",
                 "owner": "catcherwong-archive",
                 "repo": "APIGatewayDemo",
-                "stars": 279
+                "stars": 280
               }
             }
           ],
@@ -457,7 +457,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/vietnam-devs/coolstore-microservices",
+          "title": "vietnam-devs/coolstore-microservices",
           "description": null,
           "children": [],
           "repo_info": {
@@ -472,7 +472,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/asc-lab/dotnetcore-microservices-poc",
+          "title": "asc-lab/dotnetcore-microservices-poc",
           "description": null,
           "children": [],
           "repo_info": {
@@ -487,7 +487,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/EdwinVW/pitstop",
+          "title": "EdwinVW/pitstop",
           "description": null,
           "children": [],
           "repo_info": {
@@ -502,7 +502,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/devmentors/DNC-DShop",
+          "title": "devmentors/DNC-DShop",
           "description": null,
           "children": [],
           "repo_info": {
@@ -517,7 +517,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/snatch-dev/Convey",
+          "title": "snatch-dev/Convey",
           "description": null,
           "children": [],
           "repo_info": {
@@ -532,7 +532,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chayxana/Restaurant-App",
+          "title": "chayxana/Restaurant-App",
           "description": null,
           "children": [],
           "repo_info": {
@@ -547,7 +547,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/madslundt/NetCoreMicroservicesSample",
+          "title": "madslundt/NetCoreMicroservicesSample",
           "description": null,
           "children": [],
           "repo_info": {
@@ -562,7 +562,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore",
+          "title": "SteeltoeOSS/Samples",
           "description": null,
           "children": [],
           "repo_info": {
@@ -577,7 +577,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/Azure-Samples/Serverless-microservices-reference-architecture",
+          "title": "Azure-Samples/Serverless-microservices-reference-architecture",
           "description": null,
           "children": [],
           "repo_info": {
@@ -592,7 +592,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/twzhangyang/RestAirline",
+          "title": "twzhangyang/RestAirline",
           "description": null,
           "children": [],
           "repo_info": {
@@ -607,7 +607,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/johnph/simple-transaction",
+          "title": "johnph/simple-transaction",
           "description": null,
           "children": [],
           "repo_info": {
@@ -622,7 +622,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/charlessolar/eShopOnContainersDDD",
+          "title": "charlessolar/eShopOnContainersDDD",
           "description": null,
           "children": [],
           "repo_info": {
@@ -637,7 +637,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/thangchung/practical-dapr",
+          "title": "thangchung/practical-dapr",
           "description": null,
           "children": [],
           "repo_info": {
@@ -652,7 +652,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/alugili/ModernArchitectureShop",
+          "title": "alugili/ModernArchitectureShop",
           "description": null,
           "children": [],
           "repo_info": {
@@ -667,7 +667,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/daxnet/we-text",
+          "title": "daxnet/we-text",
           "description": null,
           "children": [],
           "repo_info": {
@@ -682,7 +682,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/charlessolar/TodoMVC-DDD-CQRS-EventSourcing",
+          "title": "charlessolar/TodoMVC-DDD-CQRS-EventSourcing",
           "description": null,
           "children": [],
           "repo_info": {
@@ -697,7 +697,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/thangchung/magazine-website",
+          "title": "thangchung/magazine-website",
           "description": null,
           "children": [],
           "repo_info": {
@@ -712,7 +712,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mmacneil/ASPNETCoreDockerMicroservices",
+          "title": "mmacneil/ASPNETCoreDockerMicroservices",
           "description": null,
           "children": [],
           "repo_info": {
@@ -727,7 +727,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s",
+          "title": "vany0114/microservices-dotnetcore-docker-sf-k8s",
           "description": null,
           "children": [],
           "repo_info": {
@@ -742,7 +742,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/suadev/dotnet-istanbul-microservices-demo",
+          "title": "suadev/dotnet-istanbul-microservices-demo",
           "description": null,
           "children": [],
           "repo_info": {
@@ -757,7 +757,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/osstotalsoft/nbb",
+          "title": "osstotalsoft/nbb",
           "description": null,
           "children": [],
           "repo_info": {
@@ -772,7 +772,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/netcorebcn/quiz",
+          "title": "netcorebcn/quiz",
           "description": null,
           "children": [],
           "repo_info": {
@@ -787,7 +787,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/xiajingren/NetCoreMicroserviceDemo",
+          "title": "xiajingren/NetCoreMicroserviceDemo",
           "description": null,
           "children": [],
           "repo_info": {
@@ -802,7 +802,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/PacktPublishing/.NET-Core-Microservices",
+          "title": "PacktPublishing/.NET-Core-Microservices",
           "description": null,
           "children": [],
           "repo_info": {
@@ -817,7 +817,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dzimchuk/book-fast-service-fabric",
+          "title": "dzimchuk/book-fast-service-fabric",
           "description": null,
           "children": [],
           "repo_info": {
@@ -832,7 +832,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MarcelMichau/fake-survey-generator",
+          "title": "MarcelMichau/fake-survey-generator",
           "description": null,
           "children": [],
           "repo_info": {
@@ -847,7 +847,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/aramkoukia/microservices-prototype",
+          "title": "aramkoukia/microservices-prototype",
           "description": null,
           "children": [],
           "repo_info": {
@@ -862,7 +862,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/thangchung/ShoppingCartDemo",
+          "title": "thangchung/ShoppingCartDemo",
           "description": null,
           "children": [],
           "repo_info": {
@@ -877,7 +877,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/ImranMA/MicroCouriers",
+          "title": "ImranMA/MicroCouriers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -892,7 +892,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/thangchung/shopping-cart-k8s",
+          "title": "thangchung/shopping-cart-k8s",
           "description": null,
           "children": [],
           "repo_info": {
@@ -907,7 +907,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/NHadi/HappySocialMedia",
+          "title": "NHadi/HappySocialMedia",
           "description": null,
           "children": [],
           "repo_info": {
@@ -922,7 +922,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/kimcu-on-thenet/dapr-tye-simple-microservices",
+          "title": "kimcuhoang/dapr-tye-simple-microservices",
           "description": null,
           "children": [],
           "repo_info": {
@@ -937,7 +937,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/MicroservicesBuildingBlocks/BuildingBlocks",
+          "title": "MicroservicesBuildingBlocks/BuildingBlocks",
           "description": null,
           "children": [],
           "repo_info": {
@@ -952,7 +952,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/fcatae/Arda",
+          "title": "fcatae/Arda",
           "description": null,
           "children": [],
           "repo_info": {
@@ -967,7 +967,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AdrienTorris/aspnet-core-simple-microservices-sample",
+          "title": "AdrienTorris/aspnet-core-simple-microservices-sample",
           "description": null,
           "children": [],
           "repo_info": {
@@ -982,7 +982,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/AlexeyKramarenko/.NET-Core-Microservices",
+          "title": "OlexiyKramarenko/CQRS-ES-Microservices",
           "description": null,
           "children": [],
           "repo_info": {
@@ -997,7 +997,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/cloudnative-netcore/modernstore",
+          "title": "cloudnative-netcore/modernstore",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1012,7 +1012,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/PacktPublishing/Building-Microservices-with-DotNET-Core",
+          "title": "PacktPublishing/Building-Microservices-with-DotNET-Core",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1027,7 +1027,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vany0114/chaos-injection-using-simmy",
+          "title": "vany0114/chaos-injection-using-simmy",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1042,7 +1042,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/hossambarakat/EspressoShop",
+          "title": "hossambarakat/EspressoShop",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1057,7 +1057,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/thangchung/magazine-website-akka",
+          "title": "thangchung/magazine-website-akka",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1072,7 +1072,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/brucehu123/Study.Microservices",
+          "title": "brucehu123/Study.Microservices",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1087,7 +1087,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/sandhaka/MyMicroservicesApplication",
+          "title": "sandhaka/MyMicroservicesApplication",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1102,7 +1102,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/parameshg/northwind-mesh",
+          "title": "parameshg/istio-prototype",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1117,7 +1117,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/HoussemDellai/MicroservicesOnContainers",
+          "title": "HoussemDellai/MicroservicesOnContainers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1132,7 +1132,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/mohamed-abdo/vehicle-tracking-microservices",
+          "title": "mohamed-abdo/vehicle-tracking-microservices",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1147,7 +1147,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/dzimchuk/book-fast-docker",
+          "title": "dzimchuk/book-fast-containers",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1162,7 +1162,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/logcorner/LogCorner.EduSync.Speech.Command/",
+          "title": "logcorner/LogCorner.EduSync.Speech.Command",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1177,7 +1177,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/gfawcett22/EnterprisePlanner",
+          "title": "gfawcett22/EnterprisePlanner",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1192,7 +1192,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/aacostamx/Microservice-using-ASP-NET-Core",
+          "title": "aacostamx/Microservice-using-ASP-NET-Core",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1327,7 +1327,7 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-24T19:31:45Z",
+                "last_commit": "2026-08-24T21:48:18Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
@@ -1357,7 +1357,7 @@
                 "archived": false,
                 "id": 72554578,
                 "language": "C#",
-                "last_commit": "2026-08-24T06:43:15Z",
+                "last_commit": "2026-08-25T01:03:24Z",
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
                 "stars": 268
@@ -1382,7 +1382,7 @@
                 "last_commit": "2026-08-24T05:07:04Z",
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9601
+                "stars": 9600
               }
             },
             {
@@ -1397,7 +1397,7 @@
                 "last_commit": "2026-08-21T18:13:12Z",
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
-                "stars": 8716
+                "stars": 8717
               }
             }
           ],
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:24:12.892Z",
+    "last_updated": "2026-08-25T05:56:30.234Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
     "original_repository_id": 257171786,
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
