@@ -171,7 +171,7 @@
                 "last_commit": "2023-11-15T22:27:17Z",
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24328
+                "stars": 24327
               }
             }
           ],
@@ -237,7 +237,7 @@
                 "last_commit": "2026-03-09T14:56:46Z",
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
-                "stars": 3256
+                "stars": 3258
               }
             }
           ],
@@ -467,7 +467,7 @@
             "last_commit": "2023-03-07T00:21:52Z",
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2530
+            "stars": 2531
           }
         },
         {
@@ -587,7 +587,7 @@
             "last_commit": "2024-06-06T09:24:08Z",
             "owner": "Azure-Samples",
             "repo": "Serverless-microservices-reference-architecture",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -1225,7 +1225,7 @@
                 "last_commit": "2026-06-04T18:06:31Z",
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7797
+                "stars": 7798
               }
             },
             {
@@ -1240,7 +1240,7 @@
                 "last_commit": "2026-08-01T13:10:06Z",
                 "owner": "dotnetcore",
                 "repo": "CAP",
-                "stars": 7106
+                "stars": 7107
               }
             },
             {
@@ -1297,7 +1297,7 @@
                 "archived": false,
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-25T19:15:22Z",
+                "last_commit": "2026-08-26T19:44:03Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2469
@@ -1312,7 +1312,7 @@
                 "archived": false,
                 "id": 924562,
                 "language": "C#",
-                "last_commit": "2026-08-13T23:14:59Z",
+                "last_commit": "2026-08-26T16:24:46Z",
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
                 "stars": 2280
@@ -1327,7 +1327,7 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-24T21:48:18Z",
+                "last_commit": "2026-08-26T12:48:33Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
@@ -1342,7 +1342,7 @@
                 "archived": false,
                 "id": 128375935,
                 "language": "C#",
-                "last_commit": "2026-08-16T20:34:10Z",
+                "last_commit": "2026-08-26T14:17:13Z",
                 "owner": "BEagle1984",
                 "repo": "silverback",
                 "stars": 284
@@ -1382,7 +1382,7 @@
                 "last_commit": "2026-08-24T05:07:04Z",
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9601
+                "stars": 9603
               }
             },
             {
@@ -1394,10 +1394,10 @@
                 "archived": false,
                 "id": 62256097,
                 "language": "C#",
-                "last_commit": "2026-08-21T18:13:12Z",
+                "last_commit": "2026-08-26T16:50:53Z",
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
-                "stars": 8717
+                "stars": 8716
               }
             }
           ],
@@ -1505,7 +1505,7 @@
                 "archived": false,
                 "id": 193124882,
                 "language": "C#",
-                "last_commit": "2026-08-25T16:05:23Z",
+                "last_commit": "2026-08-26T14:07:11Z",
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
                 "stars": 1202
@@ -1521,7 +1521,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:22:58.643Z",
+    "last_updated": "2026-08-27T00:23:56.609Z",
     "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
     "original_repository_id": 257171786,
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
