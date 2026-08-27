@@ -1267,7 +1267,7 @@
                 "archived": false,
                 "id": 1645954,
                 "language": "C#",
-                "last_commit": "2026-08-06T06:49:44Z",
+                "last_commit": "2026-08-27T05:42:59Z",
                 "owner": "EasyNetQ",
                 "repo": "EasyNetQ",
                 "stars": 3059
@@ -1327,7 +1327,7 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-26T12:48:33Z",
+                "last_commit": "2026-08-27T10:37:17Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
@@ -1357,10 +1357,10 @@
                 "archived": false,
                 "id": 72554578,
                 "language": "C#",
-                "last_commit": "2026-08-25T18:12:13Z",
+                "last_commit": "2026-08-27T07:30:35Z",
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
-                "stars": 269
+                "stars": 268
               }
             }
           ],
@@ -1521,9 +1521,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:23:56.609Z",
-    "original_repository": "mjebrahimi/Awesome-Microservices-DotNet",
-    "original_repository_id": 257171786,
+    "last_updated": "2026-08-27T11:23:08.480Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 257171786,
+      "language": null,
+      "last_commit": "2024-10-31T18:26:36Z",
+      "owner": "mjebrahimi",
+      "repo": "Awesome-Microservices-DotNet",
+      "stars": 3078
+    },
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
     "enhanced_repository": "enhansome/enhansome-Awesome-Microservices-DotNet",
     "enhanced_repository_description": null,
