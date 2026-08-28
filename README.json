@@ -18,7 +18,8 @@
                 "owner": "asc-lab",
                 "repo": "dotnetcore-microservices-poc",
                 "stars": 1939
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "January 2019-September 2019",
@@ -40,7 +41,8 @@
                 "owner": "logcorner",
                 "repo": "LogCorner.EduSync.Speech.Command",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "January 2019-",
@@ -62,7 +64,8 @@
                 "owner": "catcherwong-archive",
                 "repo": "APIGatewayDemo",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "November 2017-August 2019",
@@ -84,7 +87,8 @@
                 "owner": "devmentors",
                 "repo": "DNC-DShop",
                 "stars": 1017
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "December 2018-April 2019",
@@ -106,7 +110,8 @@
                 "owner": "devmentors",
                 "repo": "Pacco",
                 "stars": 842
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "May 2020-August 2020",
@@ -128,7 +133,8 @@
                 "owner": "dotnet-presentations",
                 "repo": "dotNETConf",
                 "stars": 1009
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "August 2020",
@@ -150,7 +156,8 @@
                 "owner": "DotNetMax",
                 "repo": "DockerMonitoringService",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "March 2020-June 2020",
@@ -172,7 +179,8 @@
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
                 "stars": 24327
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": null,
@@ -194,7 +202,8 @@
                 "owner": "aramkoukia",
                 "repo": "microservices-prototype",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "January 2018-March 2018",
@@ -216,7 +225,8 @@
                 "owner": "vany0114",
                 "repo": "microservices-dotnetcore-docker-sf-k8s",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "February 2018-September 2018",
@@ -238,7 +248,8 @@
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
                 "stars": 3258
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": "May 2020",
@@ -269,7 +280,8 @@
                 "owner": "procodeguide",
                 "repo": "Microservices.Sample",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         },
@@ -291,7 +303,8 @@
                 "owner": "mmacneil",
                 "repo": "ASPNETCoreDockerMicroservices",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         },
@@ -312,8 +325,9 @@
                 "last_commit": "2023-03-03T23:31:27Z",
                 "owner": "madslundt",
                 "repo": "NetCoreMicroservicesSample",
-                "stars": 700
-              }
+                "stars": 699
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         },
@@ -335,7 +349,8 @@
                 "owner": "iammukeshm",
                 "repo": "Microservice.WebApi",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         },
@@ -357,7 +372,8 @@
                 "owner": "iammukeshm",
                 "repo": "Microservices.Ticketing.WebApi",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         },
@@ -379,7 +395,8 @@
                 "owner": "WolfgangOfner",
                 "repo": "MicroserviceDemo",
                 "stars": 585
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         },
@@ -401,7 +418,8 @@
                 "owner": "aspnetrun",
                 "repo": "run-aspnet-identityserver4",
                 "stars": 240
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         },
@@ -423,7 +441,8 @@
                 "owner": "aspnetrun",
                 "repo": "run-aspnet-grpc",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         },
@@ -445,7 +464,8 @@
                 "owner": "elysaulve",
                 "repo": "NetCoreMicroservices",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ]
         }
@@ -468,7 +488,8 @@
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
             "stars": 2531
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -483,7 +504,8 @@
             "owner": "asc-lab",
             "repo": "dotnetcore-microservices-poc",
             "stars": 1939
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -498,7 +520,8 @@
             "owner": "EdwinVW",
             "repo": "pitstop",
             "stars": 1162
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -513,7 +536,8 @@
             "owner": "devmentors",
             "repo": "DNC-DShop",
             "stars": 1017
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -528,7 +552,8 @@
             "owner": "snatch-dev",
             "repo": "Convey",
             "stars": 958
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -543,7 +568,8 @@
             "owner": "chayxana",
             "repo": "Restaurant-App",
             "stars": 775
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -557,8 +583,9 @@
             "last_commit": "2023-03-03T23:31:27Z",
             "owner": "madslundt",
             "repo": "NetCoreMicroservicesSample",
-            "stars": 700
-          }
+            "stars": 699
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -573,7 +600,8 @@
             "owner": "SteeltoeOSS",
             "repo": "Samples",
             "stars": 648
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -588,7 +616,8 @@
             "owner": "Azure-Samples",
             "repo": "Serverless-microservices-reference-architecture",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -603,7 +632,8 @@
             "owner": "twzhangyang",
             "repo": "RestAirline",
             "stars": 368
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -618,7 +648,8 @@
             "owner": "johnph",
             "repo": "simple-transaction",
             "stars": 341
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -633,7 +664,8 @@
             "owner": "charlessolar",
             "repo": "eShopOnContainersDDD",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -648,7 +680,8 @@
             "owner": "thangchung",
             "repo": "practical-dapr",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -663,7 +696,8 @@
             "owner": "alugili",
             "repo": "ModernArchitectureShop",
             "stars": 279
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -678,7 +712,8 @@
             "owner": "daxnet",
             "repo": "we-text",
             "stars": 262
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -693,7 +728,8 @@
             "owner": "charlessolar",
             "repo": "TodoMVC-DDD-CQRS-EventSourcing",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -708,7 +744,8 @@
             "owner": "thangchung",
             "repo": "magazine-website",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -723,7 +760,8 @@
             "owner": "mmacneil",
             "repo": "ASPNETCoreDockerMicroservices",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -738,7 +776,8 @@
             "owner": "vany0114",
             "repo": "microservices-dotnetcore-docker-sf-k8s",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -753,7 +792,8 @@
             "owner": "suadev",
             "repo": "dotnet-istanbul-microservices-demo",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -768,7 +808,8 @@
             "owner": "osstotalsoft",
             "repo": "nbb",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -783,7 +824,8 @@
             "owner": "netcorebcn",
             "repo": "quiz",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -798,7 +840,8 @@
             "owner": "xiajingren",
             "repo": "NetCoreMicroserviceDemo",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -813,7 +856,8 @@
             "owner": "PacktPublishing",
             "repo": ".NET-Core-Microservices",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -828,7 +872,8 @@
             "owner": "dzimchuk",
             "repo": "book-fast-service-fabric",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -843,7 +888,8 @@
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -858,7 +904,8 @@
             "owner": "aramkoukia",
             "repo": "microservices-prototype",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -873,7 +920,8 @@
             "owner": "thangchung",
             "repo": "ShoppingCartDemo",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -888,7 +936,8 @@
             "owner": "ImranMA",
             "repo": "MicroCouriers",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -903,7 +952,8 @@
             "owner": "thangchung",
             "repo": "shopping-cart-k8s",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -918,7 +968,8 @@
             "owner": "NHadi",
             "repo": "HappySocialMedia",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -933,7 +984,8 @@
             "owner": "kimcuhoang",
             "repo": "dapr-tye-simple-microservices",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -948,7 +1000,8 @@
             "owner": "MicroservicesBuildingBlocks",
             "repo": "BuildingBlocks",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -963,7 +1016,8 @@
             "owner": "fcatae",
             "repo": "Arda",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -978,7 +1032,8 @@
             "owner": "AdrienTorris",
             "repo": "aspnet-core-simple-microservices-sample",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -993,7 +1048,8 @@
             "owner": "OlexiyKramarenko",
             "repo": "CQRS-ES-Microservices",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1008,7 +1064,8 @@
             "owner": "cloudnative-netcore",
             "repo": "modernstore",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1023,7 +1080,8 @@
             "owner": "PacktPublishing",
             "repo": "Building-Microservices-with-DotNET-Core",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1038,7 +1096,8 @@
             "owner": "vany0114",
             "repo": "chaos-injection-using-simmy",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1053,7 +1112,8 @@
             "owner": "hossambarakat",
             "repo": "EspressoShop",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1068,7 +1128,8 @@
             "owner": "thangchung",
             "repo": "magazine-website-akka",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1083,7 +1144,8 @@
             "owner": "brucehu123",
             "repo": "Study.Microservices",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1098,7 +1160,8 @@
             "owner": "sandhaka",
             "repo": "MyMicroservicesApplication",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1113,7 +1176,8 @@
             "owner": "parameshg",
             "repo": "istio-prototype",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1128,7 +1192,8 @@
             "owner": "HoussemDellai",
             "repo": "MicroservicesOnContainers",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1143,7 +1208,8 @@
             "owner": "mohamed-abdo",
             "repo": "vehicle-tracking-microservices",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1158,7 +1224,8 @@
             "owner": "dzimchuk",
             "repo": "book-fast-containers",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1173,7 +1240,8 @@
             "owner": "logcorner",
             "repo": "LogCorner.EduSync.Speech.Command",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1188,7 +1256,8 @@
             "owner": "gfawcett22",
             "repo": "EnterprisePlanner",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         },
         {
           "node_type": "item",
@@ -1203,7 +1272,8 @@
             "owner": "aacostamx",
             "repo": "Microservice-using-ASP-NET-Core",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T05:03:52.246Z"
         }
       ],
       "title": "Sample Projects"
@@ -1226,7 +1296,8 @@
                 "owner": "MassTransit",
                 "repo": "MassTransit",
                 "stars": 7798
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1241,7 +1312,8 @@
                 "owner": "dotnetcore",
                 "repo": "CAP",
                 "stars": 7107
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1255,8 +1327,9 @@
                 "last_commit": "2026-07-30T00:52:08Z",
                 "owner": "zeromq",
                 "repo": "netmq",
-                "stars": 3180
-              }
+                "stars": 3181
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1271,7 +1344,8 @@
                 "owner": "EasyNetQ",
                 "repo": "EasyNetQ",
                 "stars": 3059
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1286,7 +1360,8 @@
                 "owner": "rebus-org",
                 "repo": "Rebus",
                 "stars": 2657
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1300,8 +1375,9 @@
                 "last_commit": "2026-08-26T19:44:03Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2469
-              }
+                "stars": 2470
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1312,11 +1388,12 @@
                 "archived": false,
                 "id": 924562,
                 "language": "C#",
-                "last_commit": "2026-08-26T16:24:46Z",
+                "last_commit": "2026-08-27T23:18:06Z",
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
                 "stars": 2280
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1327,11 +1404,12 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-27T10:37:17Z",
+                "last_commit": "2026-08-27T19:20:34Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1346,7 +1424,8 @@
                 "owner": "BEagle1984",
                 "repo": "silverback",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1361,7 +1440,8 @@
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": null,
@@ -1383,7 +1463,8 @@
                 "owner": "dotnet",
                 "repo": "yarp",
                 "stars": 9603
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1398,7 +1479,8 @@
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
                 "stars": 8716
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": null,
@@ -1420,7 +1502,8 @@
                 "owner": "G-Research",
                 "repo": "consuldotnet",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": null,
@@ -1438,11 +1521,12 @@
                 "archived": false,
                 "id": 30369187,
                 "language": "C#",
-                "last_commit": "2026-08-21T23:06:44Z",
+                "last_commit": "2026-08-27T20:50:37Z",
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
                 "stars": 2098
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1457,7 +1541,8 @@
                 "owner": "gigya",
                 "repo": "microdot",
                 "stars": 1536
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": null,
@@ -1479,7 +1564,8 @@
                 "owner": "dotnet",
                 "repo": "tye",
                 "stars": 5206
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1494,7 +1580,8 @@
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
                 "stars": 4373
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             },
             {
               "node_type": "item",
@@ -1509,7 +1596,8 @@
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
                 "stars": 1202
-              }
+              },
+              "first_seen": "2026-08-28T05:03:52.246Z"
             }
           ],
           "description": null,
@@ -1521,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:23:08.480Z",
+    "last_updated": "2026-08-28T05:03:52.246Z",
     "original_repository_info": {
       "archived": false,
       "id": 257171786,
