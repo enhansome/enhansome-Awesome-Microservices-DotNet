@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24327,
+                "stars": 24326,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -1849,7 +1849,7 @@
             "open_issues": 1,
             "owner": "AdrienTorris",
             "repo": "aspnet-core-simple-microservices-sample",
-            "stars": 42,
+            "stars": 41,
             "topics": [
               "aspnetcore",
               "aspnetcore2",
@@ -2302,7 +2302,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7798,
+                "stars": 7799,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2361,7 +2361,7 @@
                 "open_issues": 135,
                 "owner": "zeromq",
                 "repo": "netmq",
-                "stars": 3181,
+                "stars": 3179,
                 "topics": [
                   "dotnet",
                   "dotnet-core",
@@ -2440,11 +2440,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-28T20:14:19Z",
+                "last_commit": "2026-08-29T18:41:53Z",
                 "open_issues": 90,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2472,
+                "stars": 2473,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -2565,11 +2565,11 @@
                 "id": 72554578,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-27T07:30:35Z",
-                "open_issues": 478,
+                "last_commit": "2026-08-29T04:48:58Z",
+                "open_issues": 477,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
-                "stars": 269,
+                "stars": 270,
                 "topics": [
                   "c-sharp",
                   "confluent",
@@ -2623,7 +2623,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-28T11:24:53Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
                 "stars": 8715,
@@ -2791,7 +2791,7 @@
                 "open_issues": 380,
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
-                "stars": 4373,
+                "stars": 4374,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:00.431Z",
+    "last_updated": "2026-08-29T22:57:57.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
