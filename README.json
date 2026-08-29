@@ -17,7 +17,7 @@
                 "last_commit": "2025-09-16T11:09:34Z",
                 "owner": "asc-lab",
                 "repo": "dotnetcore-microservices-poc",
-                "stars": 1939
+                "stars": 1938
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -503,7 +503,7 @@
             "last_commit": "2025-09-16T11:09:34Z",
             "owner": "asc-lab",
             "repo": "dotnetcore-microservices-poc",
-            "stars": 1939
+            "stars": 1938
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -631,7 +631,7 @@
             "last_commit": "2023-03-03T23:26:35Z",
             "owner": "twzhangyang",
             "repo": "RestAirline",
-            "stars": 368
+            "stars": 369
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1372,10 +1372,10 @@
                 "archived": false,
                 "id": 1223855,
                 "language": "C#",
-                "last_commit": "2026-08-26T19:44:03Z",
+                "last_commit": "2026-08-28T20:14:19Z",
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2470
+                "stars": 2472
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1404,7 +1404,7 @@
                 "archived": false,
                 "id": 1056713,
                 "language": "C#",
-                "last_commit": "2026-08-27T19:20:34Z",
+                "last_commit": "2026-08-28T20:51:59Z",
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2168
@@ -1439,7 +1439,7 @@
                 "last_commit": "2026-08-27T07:30:35Z",
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
-                "stars": 268
+                "stars": 269
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -1475,10 +1475,10 @@
                 "archived": false,
                 "id": 62256097,
                 "language": "C#",
-                "last_commit": "2026-08-26T16:50:53Z",
+                "last_commit": "2026-08-28T11:24:53Z",
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
-                "stars": 8716
+                "stars": 8715
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -1521,7 +1521,7 @@
                 "archived": false,
                 "id": 30369187,
                 "language": "C#",
-                "last_commit": "2026-08-27T20:50:37Z",
+                "last_commit": "2026-08-28T16:10:39Z",
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
                 "stars": 2098
@@ -1563,7 +1563,7 @@
                 "last_commit": "2023-11-20T21:09:49Z",
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5206
+                "stars": 5205
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1609,7 +1609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:03:52.246Z",
+    "last_updated": "2026-08-29T03:02:17.274Z",
     "original_repository_info": {
       "archived": false,
       "id": 257171786,
@@ -1617,7 +1617,7 @@
       "last_commit": "2024-10-31T18:26:36Z",
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3078
+      "stars": 3079
     },
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
     "enhanced_repository": "enhansome/enhansome-Awesome-Microservices-DotNet",
