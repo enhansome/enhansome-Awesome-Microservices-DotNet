@@ -12,12 +12,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Very simplified insurance sales system made in a microservices architecture using .NET Core",
+                "homepage": "https://www.altkomsoftware.com/blog/building-microservices-net-core-part-1-plan/",
                 "id": 150382880,
                 "language": "CSS",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-16T11:09:34Z",
+                "open_issues": 8,
                 "owner": "asc-lab",
                 "repo": "dotnetcore-microservices-poc",
-                "stars": 1938
+                "stars": 1938,
+                "topics": [
+                  "cqrs",
+                  "dapper",
+                  "ddd",
+                  "docker",
+                  "docker-compose",
+                  "dotnet-core",
+                  "eureka",
+                  "insurance",
+                  "marten",
+                  "mediatr",
+                  "microservices",
+                  "microservices-architecture",
+                  "netcore",
+                  "nhibernate",
+                  "rabbitmq",
+                  "signalr",
+                  "simplified-insurance-sales"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -35,12 +58,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Building microservices through Event Driven Architecture",
+                "homepage": null,
                 "id": 163537277,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-12-31T15:02:02Z",
+                "open_issues": 2,
                 "owner": "logcorner",
                 "repo": "LogCorner.EduSync.Speech.Command",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -58,12 +86,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":seedling: Simple samples that use Ocelot to build API Gateway.",
+                "homepage": null,
                 "id": 111825255,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-07-08T19:40:35Z",
+                "open_issues": 13,
                 "owner": "catcherwong-archive",
                 "repo": "APIGatewayDemo",
-                "stars": 280
+                "stars": 280,
+                "topics": [
+                  "apigateway",
+                  "authentication",
+                  "jwt",
+                  "loadbalancing",
+                  "logging",
+                  "ocelot",
+                  "qos",
+                  "ratelimit"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -81,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 120745713,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2019-05-09T16:11:17Z",
+                "open_issues": 11,
                 "owner": "devmentors",
                 "repo": "DNC-DShop",
-                "stars": 1017
+                "stars": 1017,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -104,12 +151,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample microservices solution in .NET Core 3.1 based on the cloud-agnostic approach",
+                "homepage": "https://devmentors.io/courses/microservices-net",
                 "id": 182634050,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2020-11-26T09:12:58Z",
+                "open_issues": 6,
                 "owner": "devmentors",
                 "repo": "Pacco",
-                "stars": 842
+                "stars": 842,
+                "topics": [
+                  "microservice",
+                  "microservices",
+                  "microservices-architecture"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -127,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Creative and technical content for running a .NET Conf local event in your community",
+                "homepage": null,
                 "id": 237105476,
                 "language": "G-code",
+                "license": "MIT",
                 "last_commit": "2024-08-16T15:22:13Z",
+                "open_issues": 1,
                 "owner": "dotnet-presentations",
                 "repo": "dotNETConf",
-                "stars": 1009
+                "stars": 1009,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -150,12 +211,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 270627850,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2022-12-08T10:39:06Z",
+                "open_issues": 2,
                 "owner": "DotNetMax",
                 "repo": "DockerMonitoringService",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -173,12 +239,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 7, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor. Moved to https://github.com/dotnet/eShop.",
+                "homepage": "https://dot.net/architecture",
                 "id": 70104825,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2023-11-15T22:27:17Z",
+                "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24327
+                "stars": 24327,
+                "topics": [
+                  "ddd",
+                  "ddd-patterns",
+                  "docker",
+                  "microservices",
+                  "netcore",
+                  "spa",
+                  "windowscontainers",
+                  "xamarin"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -196,12 +276,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917",
                 "id": 118077298,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2018-02-25T21:46:56Z",
+                "open_issues": 0,
                 "owner": "aramkoukia",
                 "repo": "microservices-prototype",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "microservice",
+                  "microservice-example",
+                  "microservice-template",
+                  "microservices",
+                  "microservices-architecture"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -219,12 +310,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shows an approach to work with a microservices based architecture using .Net Core, Docker, and Azure Service Fabric/Kubernetes, applying Domain Driven Design (DDD) and Comand and Query Responsibility Segregation (CQRS) and other patterns.",
+                "homepage": "http://elvanydev.com/Microservices-part1/",
                 "id": 126120884,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2022-12-08T02:14:17Z",
+                "open_issues": 7,
                 "owner": "vany0114",
                 "repo": "microservices-dotnetcore-docker-sf-k8s",
-                "stars": 156
+                "stars": 156,
+                "topics": [
+                  "asp-net-core",
+                  "azure-service-bus",
+                  "azure-service-fabric",
+                  "cosmos-db",
+                  "cqrs",
+                  "cqrs-pattern",
+                  "ddd",
+                  "ddd-architecture",
+                  "docker",
+                  "domain-driven-design",
+                  "dotnet-core",
+                  "entity-framework-core",
+                  "k8s",
+                  "kubernetes",
+                  "microservices",
+                  "microsoft-azure",
+                  "mongodb",
+                  "netcore31",
+                  "rabbitmq",
+                  "servicefabric"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -242,12 +359,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microservices on .NET platforms used ASP.NET Web API, Docker, RabbitMQ, MassTransit, Grpc, Yarp API Gateway, PostgreSQL, Redis, SQLite, SqlServer, Marten, Entity Framework Core, CQRS, MediatR, DDD, Vertical and Clean Architecture implementation with using latest features of .NET 8 and C# 12",
+                "homepage": "https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=MARC26",
                 "id": 181356258,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-03-09T14:56:46Z",
+                "open_issues": 43,
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
-                "stars": 3258
+                "stars": 3258,
+                "topics": [
+                  "api-gateway",
+                  "aspnet-core",
+                  "aspnet-web-api",
+                  "aspnetcore-microservices",
+                  "clean-architecture",
+                  "cqrs-pattern",
+                  "docker",
+                  "event-driven",
+                  "event-sourcing",
+                  "eventbus",
+                  "mediator-pattern",
+                  "micorservices",
+                  "microservices-architecture",
+                  "mongodb",
+                  "ocelot-gateway",
+                  "rabbitmq",
+                  "redis",
+                  "rest-api",
+                  "sql-server",
+                  "swagger"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -274,12 +417,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample code for ASP.NET Core 3.1 Microservices. The full article is available at https://procodeguide.com/programming/microservices-asp-net-core/",
+                "homepage": "https://procodeguide.com/programming/microservices-asp-net-core/",
                 "id": 275100914,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2021-01-29T17:52:16Z",
+                "open_issues": 0,
                 "owner": "procodeguide",
                 "repo": "Microservices.Sample",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "aspnetcore",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -297,12 +448,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample project for getting off the ground with ASP.NET Core, Docker and Microservices based on the tutorial: https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code",
+                "homepage": null,
                 "id": 113197708,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2017-12-28T15:15:01Z",
+                "open_issues": 3,
                 "owner": "mmacneil",
                 "repo": "ASPNETCoreDockerMicroservices",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -320,12 +476,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample using micro services in .NET Core 3.1 Focusing on clean code",
+                "homepage": null,
                 "id": 180999541,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-03-03T23:31:27Z",
+                "open_issues": 6,
                 "owner": "madslundt",
                 "repo": "NetCoreMicroservicesSample",
-                "stars": 699
+                "stars": 699,
+                "topics": [
+                  "api-gateway",
+                  "consul",
+                  "cqrs",
+                  "dotnet-core",
+                  "elk",
+                  "entityframeworkcore",
+                  "event-sourcing",
+                  "eventbus",
+                  "eventsourcing",
+                  "mediatr",
+                  "message-broker",
+                  "micro-service",
+                  "microservices",
+                  "microservices-architecture",
+                  "modular",
+                  "outbox",
+                  "outbox-database",
+                  "rabbitmq"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -343,12 +523,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We will be building a Simple Microservice Application for demonstrating various Concepts including Microservice Architecture in ASP.NET Core, API Gateways, Ocelot, Ocelot Configuration , Routing and much more.",
+                "homepage": null,
                 "id": 280508187,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-07-18T14:26:54Z",
+                "open_issues": 0,
                 "owner": "iammukeshm",
                 "repo": "Microservice.WebApi",
-                "stars": 102
+                "stars": 102,
+                "topics": [
+                  "asp-net-core",
+                  "microservice",
+                  "microservices-architecture",
+                  "ocelot",
+                  "ocelot-gateway"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -366,12 +557,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RabbitMQ and MassTransit for ASP.NET Core Microservice Communication. Let's learn and build a small Ticketing Application to demonstrate the concepts.",
+                "homepage": null,
                 "id": 289532288,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-10-03T11:13:25Z",
+                "open_issues": 2,
                 "owner": "iammukeshm",
                 "repo": "Microservices.Ticketing.WebApi",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "asp-net",
+                  "asp-net-core",
+                  "dotnet-core",
+                  "microservice",
+                  "rabbit-mq",
+                  "rabbitmq",
+                  "rabbitmq-consumer"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -389,12 +593,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a demo with two ASP .NET 6 microservices using RabbitMQ and Docker",
+                "homepage": "https://programmingwithwolfgang.com/microservice-series-from-zero-to-hero",
                 "id": 254961953,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-06-23T09:22:47Z",
+                "open_issues": 1,
                 "owner": "WolfgangOfner",
                 "repo": "MicroserviceDemo",
-                "stars": 585
+                "stars": 585,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -412,12 +621,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Secure microservices with using standalone Identity Server 4 and backing with Ocelot API Gateway. Protect our ASP.NET Web MVC and API applications with using OAuth 2 and OpenID Connect in IdentityServer4. Securing your web application and API with tokens, working with claims, authentication and authorization middlewares and applying policies.",
+                "homepage": "https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=APRI25",
                 "id": 309351002,
                 "language": "SCSS",
+                "license": "MIT",
                 "last_commit": "2025-04-04T09:52:48Z",
+                "open_issues": 5,
                 "owner": "aspnetrun",
                 "repo": "run-aspnet-identityserver4",
-                "stars": 240
+                "stars": 240,
+                "topics": [
+                  "aspnet",
+                  "aspnetcore",
+                  "identityserver4",
+                  "microservices",
+                  "oauth2",
+                  "ocelot-gateway",
+                  "openid-connect",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -435,12 +658,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Using gRPC in Microservices for Building a high-performance Interservice Communication with .Net 5. See gRPC Microservices and Step by Step Implementation on .NET Course w/ discount->",
+                "homepage": "https://www.udemy.com/course/using-grpc-in-microservices-communication-with-net-5/?couponCode=APRI25",
                 "id": 311347426,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-04-04T09:53:24Z",
+                "open_issues": 9,
                 "owner": "aspnetrun",
                 "repo": "run-aspnet-grpc",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "aspnet",
+                  "aspnetcore",
+                  "dotnet",
+                  "grpc",
+                  "grpc-csharp",
+                  "grpc-server",
+                  "microservices",
+                  "microservices-architecture"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -458,12 +695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microservices Project developed with .Net Core 3.1",
+                "homepage": null,
                 "id": 286863502,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2020-08-22T01:05:02Z",
+                "open_issues": 0,
                 "owner": "elysaulve",
                 "repo": "NetCoreMicroservices",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -482,12 +724,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-stack .NET microservices build on Dapr and Tye",
+            "homepage": "https://vietnam-devs.github.io/coolstore-microservices",
             "id": 135726659,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-03-07T00:21:52Z",
+            "open_issues": 32,
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2531
+            "stars": 2531,
+            "topics": [
+              "aks",
+              "clean-architecture",
+              "cloud-native",
+              "dapr",
+              "ddd",
+              "ddd-example",
+              "docker",
+              "dotnet-core",
+              "grpc",
+              "kubernetes",
+              "microservices",
+              "microservices-architecture",
+              "postgresql",
+              "reactjs",
+              "redis",
+              "rest-api",
+              "service-mesh",
+              "tye",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -498,12 +765,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Very simplified insurance sales system made in a microservices architecture using .NET Core",
+            "homepage": "https://www.altkomsoftware.com/blog/building-microservices-net-core-part-1-plan/",
             "id": 150382880,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-16T11:09:34Z",
+            "open_issues": 8,
             "owner": "asc-lab",
             "repo": "dotnetcore-microservices-poc",
-            "stars": 1938
+            "stars": 1938,
+            "topics": [
+              "cqrs",
+              "dapper",
+              "ddd",
+              "docker",
+              "docker-compose",
+              "dotnet-core",
+              "eureka",
+              "insurance",
+              "marten",
+              "mediatr",
+              "microservices",
+              "microservices-architecture",
+              "netcore",
+              "nhibernate",
+              "rabbitmq",
+              "signalr",
+              "simplified-insurance-sales"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -514,12 +804,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repo contains a sample application based on a Garage Management System for Pitstop - a fictitious garage. The primary goal of this sample is to demonstrate several software-architecture concepts like: Microservices, CQRS, Event Sourcing, Domain Driven Design (DDD), Eventual Consistency.",
+            "homepage": null,
             "id": 104884613,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-04T12:33:51Z",
+            "open_issues": 0,
             "owner": "EdwinVW",
             "repo": "pitstop",
-            "stars": 1162
+            "stars": 1162,
+            "topics": [
+              "asp-net-core-mvc",
+              "cqrs",
+              "ddd",
+              "docker",
+              "docker-compose",
+              "event-driven",
+              "event-sourcing",
+              "eventual-consistency",
+              "istio",
+              "kubernetes",
+              "linkerd",
+              "message-broker",
+              "microservices",
+              "microservices-architecture",
+              "netcore",
+              "rabbitmq",
+              "sample-app",
+              "service-mesh",
+              "web-api"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -530,12 +845,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 120745713,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2019-05-09T16:11:17Z",
+            "open_issues": 11,
             "owner": "devmentors",
             "repo": "DNC-DShop",
-            "stars": 1017
+            "stars": 1017,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -546,12 +866,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A simple recipe for .NET Core microservices.",
+            "homepage": "https://convey-stack.github.io",
             "id": 214860990,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-03-25T14:43:33Z",
+            "open_issues": 33,
             "owner": "snatch-dev",
             "repo": "Convey",
-            "stars": 958
+            "stars": 958,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -562,12 +887,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Restaurant App 🍔   is a sample open-source e-Commerce 🛒   application for ordering foods, powered by polyglot microservices architecture and cross-platform development including mobile and web",
+            "homepage": null,
             "id": 51915212,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-02-24T19:08:22Z",
+            "open_issues": 20,
             "owner": "chayxana",
             "repo": "Restaurant-App",
-            "stars": 775
+            "stars": 775,
+            "topics": [
+              "angular",
+              "design-patterns",
+              "docker",
+              "golang",
+              "identityserver4",
+              "kubernetes",
+              "lgtm-stack",
+              "microservices",
+              "microservices-architecture",
+              "mvvm",
+              "netcore",
+              "nextjs",
+              "open-telemetry",
+              "polyglot-microservices",
+              "react",
+              "solid-principles",
+              "spring-boot",
+              "typescript",
+              "xamarin"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -578,12 +928,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample using micro services in .NET Core 3.1 Focusing on clean code",
+            "homepage": null,
             "id": 180999541,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-03-03T23:31:27Z",
+            "open_issues": 6,
             "owner": "madslundt",
             "repo": "NetCoreMicroservicesSample",
-            "stars": 699
+            "stars": 699,
+            "topics": [
+              "api-gateway",
+              "consul",
+              "cqrs",
+              "dotnet-core",
+              "elk",
+              "entityframeworkcore",
+              "event-sourcing",
+              "eventbus",
+              "eventsourcing",
+              "mediatr",
+              "message-broker",
+              "micro-service",
+              "microservices",
+              "microservices-architecture",
+              "modular",
+              "outbox",
+              "outbox-database",
+              "rabbitmq"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -594,12 +968,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Steeltoe samples and reference application collection",
+            "homepage": "https://steeltoe.io/",
             "id": 57339405,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T21:30:16Z",
+            "open_issues": 10,
             "owner": "SteeltoeOSS",
             "repo": "Samples",
-            "stars": 648
+            "stars": 648,
+            "topics": [
+              "asp",
+              "cloud-foundry",
+              "connector",
+              "discovery",
+              "dotnet",
+              "hacktoberfest",
+              "management",
+              "microservice",
+              "music-store",
+              "security",
+              "service-discovery",
+              "steeltoe-components",
+              "steeltoe-connectors"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -610,12 +1003,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This reference architecture walks you through the decision-making process involved in designing, developing, and delivering a serverless application using a microservices architecture through hands-on instructions for configuring and deploying all of the architecture's components along the way. The goal is to provide practical hands-on experience in working with several Azure services and the technologies that effectively use them in a cohesive and unified way to build a serverless-based microservices architecture.",
+            "homepage": null,
             "id": 167102334,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-06-06T09:24:08Z",
+            "open_issues": 33,
             "owner": "Azure-Samples",
             "repo": "Serverless-microservices-reference-architecture",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "azure-active-directory",
+              "azure-api-management",
+              "azure-app-service",
+              "azure-cosmos-db",
+              "azure-devops",
+              "azure-event-grid",
+              "azure-functions",
+              "azure-logic-apps",
+              "azure-storage",
+              "microservices",
+              "microservices-architecture",
+              "serverless",
+              "serverless-architectures"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -626,12 +1038,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s",
+            "homepage": null,
             "id": 133215266,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-03-03T23:26:35Z",
+            "open_issues": 1,
             "owner": "twzhangyang",
             "repo": "RestAirline",
-            "stars": 369
+            "stars": 369,
+            "topics": [
+              "aspnet-core",
+              "aspnetcore",
+              "aspnetcore2",
+              "cqrs",
+              "ddd",
+              "docker-compose",
+              "eventflow",
+              "eventsourcing",
+              "hypemedia",
+              "hypermedia-api",
+              "k8s-deployment",
+              "restful-api"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -642,12 +1072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservices sample architecture for .Net Core Application",
+            "homepage": null,
             "id": 18453391,
             "language": "C#",
+            "license": null,
             "last_commit": "2019-03-21T13:01:27Z",
+            "open_issues": 3,
             "owner": "johnph",
             "repo": "simple-transaction",
-            "stars": 341
+            "stars": 341,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -658,12 +1093,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns",
+            "homepage": null,
             "id": 130364468,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-03-04T00:19:52Z",
+            "open_issues": 30,
             "owner": "charlessolar",
             "repo": "eShopOnContainersDDD",
-            "stars": 319
+            "stars": 319,
+            "topics": [
+              "backend",
+              "cqrs",
+              "cqrs-es",
+              "ddd",
+              "domain-driven-design",
+              "eventsourcing",
+              "eventstore",
+              "example",
+              "frontend",
+              "microservices",
+              "mobx",
+              "mobx-state-tree",
+              "netstandard",
+              "nservicebus",
+              "react",
+              "servicestack",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -674,12 +1132,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-stack .NET microservices build on Dapr and Tye",
+            "homepage": null,
             "id": 243936979,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-07-05T20:28:54Z",
+            "open_issues": 4,
             "owner": "thangchung",
             "repo": "practical-dapr",
-            "stars": 300
+            "stars": 300,
+            "topics": [
+              "blazor",
+              "clean-architecture",
+              "dapr",
+              "ddd-patterns",
+              "docker",
+              "docker-compose",
+              "domain-driven-design",
+              "dotnet-core",
+              "graphql",
+              "grpc-dotnet",
+              "hotchocolate",
+              "kubernetes",
+              "mediatr",
+              "microservices",
+              "minimalist",
+              "protobuf",
+              "tye"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -690,12 +1171,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Microservices Online Shop is an application with a modern software architecture that is cleanly designed and based on.NET lightweight technologies. The shop has two build variations. The first variant is the classic Microservices Architectural Style. The second one is with Dapr. Dapr has a comprehensive infrastructure for building highly decoupled Microservices; for this reason, I am using  Dapr to achieve the noble goal of building a highly scalable application with clean architecture and clean code. ",
+            "homepage": null,
             "id": 288982504,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2020-12-25T21:57:54Z",
+            "open_issues": 1,
             "owner": "alugili",
             "repo": "ModernArchitectureShop",
-            "stars": 279
+            "stars": 279,
+            "topics": [
+              "actor-model",
+              "blazor",
+              "clean-architecture",
+              "dapr",
+              "docker",
+              "dotnet-core",
+              "entity-framework-core",
+              "grpc",
+              "identityserver4",
+              "kubernetes",
+              "microservices",
+              "microservices-architecture",
+              "redis",
+              "serilog",
+              "sqlite",
+              "sqlserver",
+              "zipkin"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -706,12 +1210,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WeText is a sample application that demonstrates the implementation of DDD/CQRS and microservice architectural patterns in C#.",
+            "homepage": null,
             "id": 55229124,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-11-15T07:06:13Z",
+            "open_issues": 0,
             "owner": "daxnet",
             "repo": "we-text",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -722,12 +1231,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design",
+            "homepage": null,
             "id": 127932700,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-01-08T23:00:16Z",
+            "open_issues": 2,
             "owner": "charlessolar",
             "repo": "TodoMVC-DDD-CQRS-EventSourcing",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "backend",
+              "cqrs",
+              "cqrs-es",
+              "ddd",
+              "domain-driven-design",
+              "eventsourcing",
+              "eventstore",
+              "example",
+              "frontend",
+              "microservices",
+              "netstandard",
+              "nservicebus",
+              "todomvc",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -738,12 +1267,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mouse: A magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied...",
+            "homepage": "https://github.com/thangchung/magazine-website",
             "id": 7434651,
             "language": "C#",
+            "license": null,
             "last_commit": "2020-10-03T05:04:47Z",
+            "open_issues": 14,
             "owner": "thangchung",
             "repo": "magazine-website",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "csharp",
+              "docker",
+              "dotnet-core",
+              "microservices",
+              "microsoft",
+              "reactive-extensions"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -754,12 +1295,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample project for getting off the ground with ASP.NET Core, Docker and Microservices based on the tutorial: https://fullstackmark.com/post/12/get-started-building-microservices-with-asp.net-core-and-docker-in-visual-studio-code",
+            "homepage": null,
             "id": 113197708,
             "language": "C#",
+            "license": null,
             "last_commit": "2017-12-28T15:15:01Z",
+            "open_issues": 3,
             "owner": "mmacneil",
             "repo": "ASPNETCoreDockerMicroservices",
-            "stars": 170
+            "stars": 170,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -770,12 +1316,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shows an approach to work with a microservices based architecture using .Net Core, Docker, and Azure Service Fabric/Kubernetes, applying Domain Driven Design (DDD) and Comand and Query Responsibility Segregation (CQRS) and other patterns.",
+            "homepage": "http://elvanydev.com/Microservices-part1/",
             "id": 126120884,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-08T02:14:17Z",
+            "open_issues": 7,
             "owner": "vany0114",
             "repo": "microservices-dotnetcore-docker-sf-k8s",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "asp-net-core",
+              "azure-service-bus",
+              "azure-service-fabric",
+              "cosmos-db",
+              "cqrs",
+              "cqrs-pattern",
+              "ddd",
+              "ddd-architecture",
+              "docker",
+              "domain-driven-design",
+              "dotnet-core",
+              "entity-framework-core",
+              "k8s",
+              "kubernetes",
+              "microservices",
+              "microsoft-azure",
+              "mongodb",
+              "netcore31",
+              "rabbitmq",
+              "servicefabric"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -786,12 +1358,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the demo application that i created for my talk 'Microservice Architecture & Implementation with Asp.Net Core' at Dotnet İstanbul Meetup Group.",
+            "homepage": "https://www.meetup.com/dotnet-istanbul/events/259709664/",
             "id": 173631163,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-12-08T06:01:21Z",
+            "open_issues": 0,
             "owner": "suadev",
             "repo": "dotnet-istanbul-microservices-demo",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "aspnetcore",
+              "bounded-context",
+              "data-consistency",
+              "distributed-systems",
+              "dotnet",
+              "dotnet-core",
+              "dotnetcore",
+              "event-driven",
+              "microservice",
+              "microservices",
+              "postgres",
+              "rabbitmq"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -802,12 +1392,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".Net Building Blocks",
+            "homepage": null,
             "id": 166371135,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-14T07:56:44Z",
+            "open_issues": 8,
             "owner": "osstotalsoft",
             "repo": "nbb",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "clean-architecture",
+              "cqrs",
+              "ddd",
+              "dotnet",
+              "eventdriven",
+              "eventsourcing",
+              "messaging-services",
+              "microservices"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -818,12 +1422,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example real time quiz application with .NET Core, React, DDD, Event Sourcing, Docker and built-in infrastructure for CI/CD with k8s, jenkins and helm",
+            "homepage": null,
             "id": 82735998,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-11-19T23:14:43Z",
+            "open_issues": 1,
             "owner": "netcorebcn",
             "repo": "quiz",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "aspnetcore",
+              "ci-cd",
+              "cqrs",
+              "ddd",
+              "docker",
+              "dotnetcore",
+              "eventsourcing",
+              "helm",
+              "helm-charts",
+              "jenkins",
+              "jenkins-pipeline",
+              "k8s",
+              "kubernetes",
+              "microservices",
+              "minikube",
+              "postgres",
+              "postgresql",
+              "rabbit",
+              "rabbitmq",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -834,12 +1464,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".Net Core微服务入门",
+            "homepage": null,
             "id": 270977139,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-07-23T19:40:13Z",
+            "open_issues": 2,
             "owner": "xiajingren",
             "repo": "NetCoreMicroserviceDemo",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "microservices",
+              "netcore31"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -850,12 +1488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ".NET Core Microservices [Video], published by Packt",
+            "homepage": null,
             "id": 125472009,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-07-08T19:26:17Z",
+            "open_issues": 7,
             "owner": "PacktPublishing",
             "repo": ".NET-Core-Microservices",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -866,12 +1509,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample demonstrating how to implement a multitenant facility management and accommodation booking application as native Azure Service Fabric reliable services.",
+            "homepage": null,
             "id": 76863322,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-12-08T00:55:20Z",
+            "open_issues": 18,
             "owner": "dzimchuk",
             "repo": "book-fast-service-fabric",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "azure-ad",
+              "azure-search",
+              "azure-services",
+              "microservices",
+              "microservices-architecture",
+              "netcore",
+              "service-fabric"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -882,12 +1538,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A slightly more-than-trivial full-stack application built with DDD & CQRS concepts",
+            "homepage": "https://fakesurveygenerator.mysecondarydomain.com/",
             "id": 158113219,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:22:51Z",
+            "open_issues": 0,
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "aspire",
+              "aspnet-core",
+              "azure",
+              "azure-application-insights",
+              "azure-containerapps",
+              "azure-front-door",
+              "azure-key-vault",
+              "azure-pipelines",
+              "azure-sql-database",
+              "bicep",
+              "cqrs",
+              "docker",
+              "domain-driven-design",
+              "entity-framework-core",
+              "react",
+              "typescript",
+              "vertical-slice-architecture"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -898,12 +1577,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917",
             "id": 118077298,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-02-25T21:46:56Z",
+            "open_issues": 0,
             "owner": "aramkoukia",
             "repo": "microservices-prototype",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "microservice",
+              "microservice-example",
+              "microservice-template",
+              "microservices",
+              "microservices-architecture"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -914,12 +1604,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The demo using MSA approach with .NET Core stack",
+            "homepage": null,
             "id": 92073492,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-10-03T11:33:22Z",
+            "open_issues": 2,
             "owner": "thangchung",
             "repo": "ShoppingCartDemo",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "discovery-service",
+              "dotnetcore",
+              "identityserver4",
+              "microservices",
+              "microsoft",
+              "netcore",
+              "rabbitmq"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -930,12 +1633,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservices ASP.NET Core +  Event Bus + Kubernetes + Design Patterns",
+            "homepage": null,
             "id": 169550351,
             "language": "C#",
+            "license": null,
             "last_commit": "2022-12-08T04:22:28Z",
+            "open_issues": 8,
             "owner": "ImranMA",
             "repo": "MicroCouriers",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "aspnet-core",
+              "azure",
+              "clean-architecture",
+              "containers",
+              "ddd-architecture",
+              "docker",
+              "entity-framework-core",
+              "event-driven",
+              "event-sourcing",
+              "jmeter",
+              "kubernetes",
+              "microservices",
+              "microservices-architecture"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -946,12 +1668,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Service Mesh patterns for Microservices",
+            "homepage": null,
             "id": 131012789,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2018-06-02T10:28:21Z",
+            "open_issues": 4,
             "owner": "thangchung",
             "repo": "shopping-cart-k8s",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "ambassador",
+              "aspnet",
+              "csharp",
+              "docker",
+              "dotnet",
+              "framework",
+              "istio",
+              "kubernetes",
+              "microservices",
+              "nodejs",
+              "rest-api",
+              "service-mesh"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -962,12 +1702,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservices Social Media / Network / Chatt, with .net core 2.2, Docker, Implement with Domain Driven Design with all best practices design and architetural patterns as DDD, CrossCutting IoC, SOLID, etc",
+            "homepage": null,
             "id": 207180357,
             "language": "C#",
+            "license": null,
             "last_commit": "2024-01-16T20:02:23Z",
+            "open_issues": 1,
             "owner": "NHadi",
             "repo": "HappySocialMedia",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "chatting-app",
+              "code-first",
+              "dapper",
+              "design-patterns",
+              "docker",
+              "domain-driven-design",
+              "entity-framework-core",
+              "ioc-container",
+              "micro-orm",
+              "microservices",
+              "microservices-application",
+              "microservices-architecture",
+              "microservices-example",
+              "net-core-2-2",
+              "net-core-api",
+              "repository-pattern",
+              "social-media",
+              "social-network",
+              "solid-principles"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -978,12 +1743,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of building .NET Core microservices with Dapr and Tye",
+            "homepage": null,
             "id": 244415283,
             "language": "C#",
+            "license": null,
             "last_commit": "2020-10-29T17:03:24Z",
+            "open_issues": 0,
             "owner": "kimcuhoang",
             "repo": "dapr-tye-simple-microservices",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "dapr",
+              "dapr-pub-sub",
+              "dapr-service-invocation",
+              "dapr-zipkin",
+              "domain-driven-design",
+              "dotnet-core",
+              "entity-framework-core",
+              "fluent-validation",
+              "github-actions",
+              "graphql",
+              "hotchocolate",
+              "kubernestes",
+              "mediatr",
+              "microservices",
+              "tye",
+              "tye-dapr",
+              "tye-ingress",
+              "tye-seq",
+              "tye-zipkin"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -994,12 +1784,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building blocks for Aspnet Core Microservices Development",
+            "homepage": "http://elemarjr.com",
             "id": 120904954,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-02-09T12:57:06Z",
+            "open_issues": 0,
             "owner": "MicroservicesBuildingBlocks",
             "repo": "BuildingBlocks",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "aspnetcore",
+              "autofac",
+              "dotnetcore",
+              "identityserver4",
+              "microservices",
+              "patterns",
+              "ravendb",
+              "swagger"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1010,12 +1814,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arda is an open source tool designed to manage team workloads.",
+            "homepage": null,
             "id": 72882750,
             "language": "C#",
+            "license": null,
             "last_commit": "2017-09-06T11:51:30Z",
+            "open_issues": 17,
             "owner": "fcatae",
             "repo": "Arda",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "arda",
+              "azure",
+              "microservices",
+              "team-workloads"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1026,12 +1840,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple microservices architecture with ASP.NET Core",
+            "homepage": null,
             "id": 158738589,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-12-08T16:57:43Z",
+            "open_issues": 1,
             "owner": "AdrienTorris",
             "repo": "aspnet-core-simple-microservices-sample",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "aspnetcore",
+              "aspnetcore2",
+              "aspnetcore21",
+              "microservices",
+              "microservices-architecture",
+              "mongodb",
+              "rabbitmq"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1042,12 +1869,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React, Redux, ASP.NET Core Web API, RabbitMQ, MassTransit, Entity Framework, MongoDB",
+            "homepage": null,
             "id": 147301208,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-12-07T14:00:58Z",
+            "open_issues": 1,
             "owner": "OlexiyKramarenko",
             "repo": "CQRS-ES-Microservices",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "asp-net-core",
+              "cqrs",
+              "cqrs-es",
+              "csharp",
+              "entity-framework-core",
+              "event-sourcing",
+              "masstransit",
+              "microservices",
+              "mongodb",
+              "rabbitmq",
+              "react",
+              "redux",
+              "saga",
+              "saga-pattern"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1058,12 +1905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A store application uses modern technologies such as Dapr, OSM, Tye...",
+            "homepage": null,
             "id": 296789041,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2020-10-02T10:07:42Z",
+            "open_issues": 0,
             "owner": "cloudnative-netcore",
             "repo": "modernstore",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1074,12 +1926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building Microservices with .NET Core, published by Packt",
+            "homepage": null,
             "id": 94765679,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-03-03T03:21:06Z",
+            "open_issues": 17,
             "owner": "PacktPublishing",
             "repo": "Building-Microservices-with-DotNET-Core",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1090,12 +1947,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A microservice based application to demonstrate how chaos engineering works with Simmy using chaos policies in a distributed system.",
+            "homepage": "http://elvanydev.com/chaos-injection-with-simmy/",
             "id": 188335731,
             "language": "C#",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-12-08T01:59:15Z",
+            "open_issues": 4,
             "owner": "vany0114",
             "repo": "chaos-injection-using-simmy",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "chaos-engineering",
+              "distributed-systems",
+              "fault-based-testing",
+              "fault-injection",
+              "fault-tolerance",
+              "fault-tolerant",
+              "microservices",
+              "polly-resilience",
+              "resilience",
+              "resilience-testing",
+              "resiliency"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1106,12 +1980,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample application composed of 3 microservices showing Kubernetes and Istio Service Mesh",
+            "homepage": null,
             "id": 168249710,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2025-05-17T08:24:19Z",
+            "open_issues": 0,
             "owner": "hossambarakat",
             "repo": "EspressoShop",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "istio",
+              "kubernetes",
+              "microservices",
+              "service-mesh"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1122,12 +2006,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The experiment on the akkadotnet",
+            "homepage": null,
             "id": 81163537,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2017-04-15T11:19:09Z",
+            "open_issues": 8,
             "owner": "thangchung",
             "repo": "magazine-website-akka",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "akkadotnet",
+              "cqrs",
+              "csharp",
+              "graphql",
+              "microservices",
+              "microsoft",
+              "quartz",
+              "topshelf"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1138,12 +2036,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一步一步，由浅入深，学习如何使用.net core搭建微服务框架。",
+            "homepage": null,
             "id": 175644552,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2023-01-17T05:46:03Z",
+            "open_issues": 0,
             "owner": "brucehu123",
             "repo": "Study.Microservices",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "consul",
+              "dotnetty",
+              "microservices",
+              "netcore",
+              "polly",
+              "rpc"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1154,12 +2064,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Educational] .Net Microservices demo application",
+            "homepage": null,
             "id": 96119882,
             "language": "C#",
+            "license": null,
             "last_commit": "2018-04-16T12:00:24Z",
+            "open_issues": 0,
             "owner": "sandhaka",
             "repo": "MyMicroservicesApplication",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "angular",
+              "aspnetcore",
+              "cqrs",
+              "docker",
+              "domain-driven-design",
+              "jwt-authentication",
+              "microservices",
+              "solid-principles"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1170,12 +2094,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quick prototype implementation of a service mesh using istio on kubernetes cluster",
+            "homepage": "https://go.paramg.com/istio/article",
             "id": 146140165,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2018-10-08T03:54:46Z",
+            "open_issues": 0,
             "owner": "parameshg",
             "repo": "istio-prototype",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "aspnetcore",
+              "csharp",
+              "demo",
+              "dotnetcore",
+              "istio",
+              "kubernetes",
+              "microservices",
+              "prototype",
+              "service-mesh"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1186,12 +2125,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservice application deployed on Docker containers on Kubernetes",
+            "homepage": null,
             "id": 161980594,
             "language": "C#",
+            "license": null,
             "last_commit": "2019-01-30T07:17:19Z",
+            "open_issues": 1,
             "owner": "HoussemDellai",
             "repo": "MicroservicesOnContainers",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "api-management",
+              "containers",
+              "devops",
+              "docker",
+              "kong",
+              "microservices",
+              "queues",
+              "rabbitmq"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1202,12 +2155,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a vehicle tracking system (microservices complaint architecture)",
+            "homepage": null,
             "id": 113913875,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-19T12:33:47Z",
+            "open_issues": 0,
             "owner": "mohamed-abdo",
             "repo": "vehicle-tracking-microservices",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "architecture",
+              "cqrs",
+              "csharp",
+              "docker",
+              "dotnet-core",
+              "event-sourcing",
+              "microservice",
+              "microservices-architecture",
+              "middleware",
+              "rabbitmq",
+              "redis",
+              "vehicle-tracking",
+              "vehicle-tracking-microservices"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1218,12 +2190,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sample demonstrating how to implement a containerized multitenant facility management and accommodation booking application. It uses microservices architecture and relies on a bunch of Azure services.",
+            "homepage": null,
             "id": 171891573,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-25T20:07:02Z",
+            "open_issues": 9,
             "owner": "dzimchuk",
             "repo": "book-fast-containers",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "azure-ad",
+              "azure-ad-b2c",
+              "azure-keyvault",
+              "azure-search",
+              "azure-services",
+              "docker",
+              "kubernetes",
+              "microservices",
+              "microservices-architecture",
+              "netcore"
+            ]
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1234,12 +2222,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building microservices through Event Driven Architecture",
+            "homepage": null,
             "id": 163537277,
             "language": "C#",
+            "license": null,
             "last_commit": "2023-12-31T15:02:02Z",
+            "open_issues": 2,
             "owner": "logcorner",
             "repo": "LogCorner.EduSync.Speech.Command",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1250,12 +2243,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A generic enterprise planner application with a microservices architecture.",
+            "homepage": null,
             "id": 93228273,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-06T00:00:59Z",
+            "open_issues": 6,
             "owner": "gfawcett22",
             "repo": "EnterprisePlanner",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         },
@@ -1266,12 +2264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microservices Using ASP.NET Core",
+            "homepage": "http://bit.do/eUxEF",
             "id": 190946353,
             "language": "C#",
+            "license": null,
             "last_commit": "2019-06-09T00:16:09Z",
+            "open_issues": 1,
             "owner": "aacostamx",
             "repo": "Microservice-using-ASP-NET-Core",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
         }
@@ -1290,12 +2293,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Application Framework for .NET",
+                "homepage": "https://masstransit.io",
                 "id": 778828,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-04T18:06:31Z",
+                "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7798
+                "stars": 7798,
+                "topics": [
+                  "azure-service-bus",
+                  "c-sharp",
+                  "dotnet",
+                  "masstransit",
+                  "messaging",
+                  "nuget",
+                  "rabbitmq",
+                  "sqs"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1306,12 +2323,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern",
+                "homepage": "http://cap.dotnetcore.xyz",
                 "id": 76445704,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-01T13:10:06Z",
+                "open_issues": 8,
                 "owner": "dotnetcore",
                 "repo": "CAP",
-                "stars": 7107
+                "stars": 7107,
+                "topics": [
+                  "distributed-transactions",
+                  "eventbus",
+                  "kafka",
+                  "microservices",
+                  "outbox-pattern",
+                  "rabbitmq",
+                  "service-bus"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1322,12 +2352,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A 100% native C# implementation of ZeroMQ for .NET",
+                "homepage": null,
                 "id": 6521142,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T00:52:08Z",
+                "open_issues": 135,
                 "owner": "zeromq",
                 "repo": "netmq",
-                "stars": 3181
+                "stars": 3181,
+                "topics": [
+                  "dotnet",
+                  "dotnet-core",
+                  "messaging",
+                  "netmq",
+                  "zeromq"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1338,12 +2379,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy to use .NET API for RabbitMQ",
+                "homepage": "http://easynetq.com",
                 "id": 1645954,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T05:42:59Z",
+                "open_issues": 3,
                 "owner": "EasyNetQ",
                 "repo": "EasyNetQ",
-                "stars": 3059
+                "stars": 3059,
+                "topics": [
+                  "dotnet",
+                  "dotnet-core",
+                  "messaging",
+                  "rabbitmq"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1354,12 +2405,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":bus: Simple and lean service bus implementation for .NET",
+                "homepage": "https://mookid.dk/category/rebus",
                 "id": 2425099,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T06:35:12Z",
+                "open_issues": 23,
                 "owner": "rebus-org",
                 "repo": "Rebus",
-                "stars": 2657
+                "stars": 2657,
+                "topics": [
+                  "c-sharp",
+                  "message-bus",
+                  "message-queue",
+                  "messaging",
+                  "messaging-library",
+                  "microservices",
+                  "rebus",
+                  "service-bus"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1370,12 +2435,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for building messaging apps with .NET and C#.",
+                "homepage": "https://brightercommand.gitbook.io/paramore-brighter-documentation",
                 "id": 1223855,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T20:14:19Z",
+                "open_issues": 90,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2472
+                "stars": 2472,
+                "topics": [
+                  "asynchronously",
+                  "brighter",
+                  "command-dispatcher",
+                  "command-processor",
+                  "csharp",
+                  "csharp-library",
+                  "dotnet-core",
+                  "kafka",
+                  "mediatr",
+                  "microservices",
+                  "nuget",
+                  "nuget-packages",
+                  "rabbitmq",
+                  "redis-stream",
+                  "scale",
+                  "sns",
+                  "sqs"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1386,12 +2474,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.2+",
+                "homepage": "https://www.rabbitmq.com/dotnet.html",
                 "id": 924562,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T23:18:06Z",
+                "open_issues": 64,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
-                "stars": 2280
+                "stars": 2280,
+                "topics": [
+                  "c-sharp",
+                  "dotnet",
+                  "dotnet-core",
+                  "rabbitmq"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1402,12 +2500,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The gold standard for async .NET microservices on Azure, AWS and on-prem",
+                "homepage": "https://particular.net/nservicebus/",
                 "id": 1056713,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:51:59Z",
+                "open_issues": 288,
                 "owner": "Particular",
                 "repo": "NServiceBus",
-                "stars": 2168
+                "stars": 2168,
+                "topics": [
+                  "c-sharp",
+                  "distributed-systems",
+                  "messaging",
+                  "nservicebus"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1418,12 +2526,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Silverback is a message bus and broker integration library for .NET. It is designed to simplify event-driven architectures and asynchronous messaging, with first-class support for Apache Kafka and MQTT.",
+                "homepage": "https://silverback-messaging.net",
                 "id": 128375935,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:17:13Z",
+                "open_issues": 13,
                 "owner": "BEagle1984",
                 "repo": "silverback",
-                "stars": 284
+                "stars": 284,
+                "topics": [
+                  "cqrs",
+                  "kafka",
+                  "mediator",
+                  "message-broker",
+                  "message-brokers",
+                  "message-bus",
+                  "messaging",
+                  "microservice",
+                  "microservices",
+                  "mqtt",
+                  "service-bus",
+                  "silverback"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1434,12 +2560,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Confluent's Apache Kafka .NET client",
+                "homepage": "https://github.com/confluentinc/confluent-kafka-dotnet/wiki",
                 "id": 72554578,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T07:30:35Z",
+                "open_issues": 478,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
-                "stars": 269
+                "stars": 269,
+                "topics": [
+                  "c-sharp",
+                  "confluent",
+                  "dotnet",
+                  "kafka",
+                  "kafka-client",
+                  "kafka-clients",
+                  "nuget"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -1457,12 +2596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+                "homepage": "https://yarp.dot.net",
                 "id": 245235133,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-24T05:07:04Z",
+                "open_issues": 190,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9603
+                "stars": 9603,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1473,12 +2617,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET API Gateway",
+                "homepage": "https://ocelot.readthedocs.io",
                 "id": 62256097,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:24:53Z",
+                "open_issues": 60,
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
-                "stars": 8715
+                "stars": 8715,
+                "topics": [
+                  "api-gateway",
+                  "aspnetcore",
+                  "dotnet",
+                  "gateway",
+                  "microservices",
+                  "ocelot",
+                  "reverse-proxy"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -1496,12 +2653,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Consul.NET is a .NET client library for the Consul HTTP API",
+                "homepage": "https://consuldot.net/",
                 "id": 194080219,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T10:53:41Z",
+                "open_issues": 3,
                 "owner": "G-Research",
                 "repo": "consuldotnet",
-                "stars": 372
+                "stars": 372,
+                "topics": [
+                  "consul",
+                  "dotnet",
+                  "gr-oss"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -1519,12 +2685,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pluggable foundation blocks for building distributed apps.",
+                "homepage": "https://foundatio.dev",
                 "id": 30369187,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:10:39Z",
+                "open_issues": 13,
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
-                "stars": 2098
+                "stars": 2098,
+                "topics": [
+                  "abstractions",
+                  "aws",
+                  "azure",
+                  "c-sharp",
+                  "distributed",
+                  "distributed-locks",
+                  "distributed-systems",
+                  "foundatio",
+                  "job-scheduler",
+                  "jobs",
+                  "lock",
+                  "logging",
+                  "message-bus",
+                  "messaging",
+                  "metrics",
+                  "queue",
+                  "redis",
+                  "s3",
+                  "statsd",
+                  "storage"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1535,12 +2727,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Microdot: An open source .NET microservices framework",
+                "homepage": null,
                 "id": 89123929,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2023-11-16T08:31:48Z",
+                "open_issues": 28,
                 "owner": "gigya",
                 "repo": "microdot",
-                "stars": 1536
+                "stars": 1536,
+                "topics": [
+                  "configuration",
+                  "distributed-systems",
+                  "microservice",
+                  "orleans",
+                  "service-discovery"
+                ]
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -1558,12 +2761,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+                "homepage": null,
                 "id": 243854166,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2023-11-20T21:09:49Z",
+                "open_issues": 394,
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5205
+                "stars": 5205,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1574,12 +2782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise HealthChecks for ASP.NET Core Diagnostics Package",
+                "homepage": null,
                 "id": 150572151,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T21:52:32Z",
+                "open_issues": 380,
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
-                "stars": 4373
+                "stars": 4373,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             },
@@ -1590,12 +2803,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dapr SDK for .NET",
+                "homepage": null,
                 "id": 193124882,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T14:07:11Z",
+                "open_issues": 213,
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
-                "stars": 1202
+                "stars": 1202,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
             }
@@ -1609,15 +2827,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:02:17.274Z",
+    "last_updated": "2026-08-29T04:26:00.431Z",
     "original_repository_info": {
       "archived": false,
+      "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
+      "homepage": null,
       "id": 257171786,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-10-31T18:26:36Z",
+      "open_issues": 6,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3079
+      "stars": 3079,
+      "topics": [
+        "asp-net",
+        "asp-net-core",
+        "aspnet",
+        "aspnet-core",
+        "aspnet-mvc",
+        "aspnetcore",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "distributed",
+        "distributed-systems",
+        "dotnet",
+        "dotnet-core",
+        "dotnetcore",
+        "microservice",
+        "microservice-architecture",
+        "microservices",
+        "microservices-architecture"
+      ]
     },
     "original_repository_sha": "7908c86abce1a1d76a299583dc5245d828eb5573",
     "enhanced_repository": "enhansome/enhansome-Awesome-Microservices-DotNet",
