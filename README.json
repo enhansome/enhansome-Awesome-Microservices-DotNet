@@ -1081,7 +1081,7 @@
             "open_issues": 3,
             "owner": "johnph",
             "repo": "simple-transaction",
-            "stars": 341,
+            "stars": 340,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
@@ -1543,7 +1543,7 @@
             "id": 158113219,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-25T13:22:51Z",
+            "last_commit": "2026-08-30T15:00:13Z",
             "open_issues": 0,
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
@@ -1914,7 +1914,7 @@
             "open_issues": 0,
             "owner": "cloudnative-netcore",
             "repo": "modernstore",
-            "stars": 34,
+            "stars": 33,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2384,7 +2384,7 @@
                 "id": 1645954,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-27T05:42:59Z",
+                "last_commit": "2026-08-30T19:15:49Z",
                 "open_issues": 3,
                 "owner": "EasyNetQ",
                 "repo": "EasyNetQ",
@@ -2440,8 +2440,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-29T18:41:53Z",
-                "open_issues": 90,
+                "last_commit": "2026-08-30T16:55:33Z",
+                "open_issues": 98,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2473,
@@ -2483,7 +2483,7 @@
                 "open_issues": 64,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
-                "stars": 2280,
+                "stars": 2281,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -2623,10 +2623,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-28T11:24:53Z",
-                "open_issues": 61,
+                "open_issues": 60,
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
-                "stars": 8715,
+                "stars": 8717,
                 "topics": [
                   "api-gateway",
                   "aspnetcore",
@@ -2770,7 +2770,7 @@
                 "open_issues": 394,
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5205,
+                "stars": 5204,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:57:57.360Z",
+    "last_updated": "2026-08-30T23:05:39.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
