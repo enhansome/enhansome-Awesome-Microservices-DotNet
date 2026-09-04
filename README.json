@@ -368,7 +368,7 @@
                 "open_issues": 43,
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
-                "stars": 3260,
+                "stars": 3262,
                 "topics": [
                   "api-gateway",
                   "aspnet-core",
@@ -733,7 +733,7 @@
             "open_issues": 32,
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2531,
+            "stars": 2533,
             "topics": [
               "aks",
               "clean-architecture",
@@ -813,7 +813,7 @@
             "open_issues": 1,
             "owner": "EdwinVW",
             "repo": "pitstop",
-            "stars": 1162,
+            "stars": 1163,
             "topics": [
               "asp-net-core-mvc",
               "cqrs",
@@ -2332,7 +2332,7 @@
                 "open_issues": 8,
                 "owner": "dotnetcore",
                 "repo": "CAP",
-                "stars": 7110,
+                "stars": 7109,
                 "topics": [
                   "distributed-transactions",
                   "eventbus",
@@ -2414,7 +2414,7 @@
                 "open_issues": 23,
                 "owner": "rebus-org",
                 "repo": "Rebus",
-                "stars": 2658,
+                "stars": 2659,
                 "topics": [
                   "c-sharp",
                   "message-bus",
@@ -2441,10 +2441,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-03T17:30:10Z",
-                "open_issues": 93,
+                "open_issues": 94,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2481,
+                "stars": 2480,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -2479,8 +2479,8 @@
                 "id": 924562,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T13:46:56Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-04T17:07:18Z",
+                "open_issues": 72,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
                 "stars": 2281,
@@ -2505,8 +2505,8 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T19:42:53Z",
-                "open_issues": 289,
+                "last_commit": "2026-09-04T13:48:03Z",
+                "open_issues": 287,
                 "owner": "Particular",
                 "repo": "NServiceBus",
                 "stars": 2169,
@@ -2602,10 +2602,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-31T05:06:16Z",
-                "open_issues": 190,
+                "open_issues": 191,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9607,
+                "stars": 9608,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2770,7 +2770,7 @@
                 "open_issues": 394,
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5204,
+                "stars": 5203,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T22:56:54.031Z",
+    "last_updated": "2026-09-04T22:44:53.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
