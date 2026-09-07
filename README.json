@@ -368,7 +368,7 @@
                 "open_issues": 43,
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
-                "stars": 3262,
+                "stars": 3263,
                 "topics": [
                   "api-gateway",
                   "aspnet-core",
@@ -2332,7 +2332,7 @@
                 "open_issues": 8,
                 "owner": "dotnetcore",
                 "repo": "CAP",
-                "stars": 7109,
+                "stars": 7110,
                 "topics": [
                   "distributed-transactions",
                   "eventbus",
@@ -2361,7 +2361,7 @@
                 "open_issues": 135,
                 "owner": "zeromq",
                 "repo": "netmq",
-                "stars": 3180,
+                "stars": 3181,
                 "topics": [
                   "dotnet",
                   "dotnet-core",
@@ -2440,8 +2440,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-06T16:47:55Z",
-                "open_issues": 97,
+                "last_commit": "2026-09-07T22:17:52Z",
+                "open_issues": 106,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2480,
@@ -2565,7 +2565,7 @@
                 "id": 72554578,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T17:44:27Z",
+                "last_commit": "2026-09-07T07:31:30Z",
                 "open_issues": 476,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
@@ -2601,11 +2601,11 @@
                 "id": 245235133,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T05:06:16Z",
+                "last_commit": "2026-09-07T05:05:38Z",
                 "open_issues": 191,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9609,
+                "stars": 9611,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2690,7 +2690,7 @@
                 "id": 30369187,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T06:04:19Z",
+                "last_commit": "2026-09-07T21:06:17Z",
                 "open_issues": 13,
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
@@ -2809,7 +2809,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T16:42:19Z",
-                "open_issues": 212,
+                "open_issues": 213,
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
                 "stars": 1202,
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:38:51.713Z",
+    "last_updated": "2026-09-07T23:15:17.523Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
