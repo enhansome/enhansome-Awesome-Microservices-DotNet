@@ -304,7 +304,7 @@ May 2020
 
 7. [AspnetRun Microservices Renewed !](https://mehmetozkaya.medium.com/aspnetrun-microservices-renewed-d08901b5e06f)
 
-**Repository :** <https://github.com/aspnetrun/run-aspnetcore-microservices> ⭐ 3,263 | 🐛 43 | 🌐 C# | 📅 2026-03-09
+**Repository :** <https://github.com/aspnetrun/run-aspnetcore-microservices> ⭐ 3,264 | 🐛 43 | 🌐 C# | 📅 2026-03-09
 
 ## Books
 
@@ -449,7 +449,7 @@ May 2020
 
 * <https://github.com/asc-lab/dotnetcore-microservices-poc> ⭐ 1,939 | 🐛 8 | 🌐 CSS | 📅 2025-09-16
 
-* <https://github.com/EdwinVW/pitstop> ⭐ 1,163 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-02
+* <https://github.com/EdwinVW/pitstop> ⭐ 1,163 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-09
 
 * <https://github.com/devmentors/DNC-DShop> ⭐ 1,017 | 🐛 11 | 🌐 Shell | 📅 2019-05-09
 
@@ -459,9 +459,9 @@ May 2020
 
 * <https://github.com/madslundt/NetCoreMicroservicesSample> ⭐ 699 | 🐛 6 | 🌐 C# | 📅 2023-03-03
 
-* <https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore> ⭐ 648 | 🐛 10 | 🌐 C# | 📅 2026-09-08
+* <https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore> ⭐ 648 | 🐛 11 | 🌐 C# | 📅 2026-09-09
 
-* <https://github.com/Azure-Samples/Serverless-microservices-reference-architecture> ⭐ 524 | 🐛 34 | 🌐 C# | 📅 2024-06-06
+* <https://github.com/Azure-Samples/Serverless-microservices-reference-architecture> ⚠️ Archived
 
 * <https://github.com/twzhangyang/RestAirline> ⭐ 369 | 🐛 1 | 🌐 C# | 📅 2023-03-03
 
@@ -495,7 +495,7 @@ May 2020
 
 * <https://github.com/dzimchuk/book-fast-service-fabric> ⭐ 88 | 🐛 18 | 🌐 C# | 📅 2022-12-08
 
-* <https://github.com/MarcelMichau/fake-survey-generator> ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-09-08
+* <https://github.com/MarcelMichau/fake-survey-generator> ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-09-09
 
 * <https://github.com/aramkoukia/microservices-prototype> ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2018-02-25
 
@@ -554,13 +554,13 @@ May 2020
 * [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,800 | 🐛 1 | 🌐 C# | 📅 2026-06-04 - Distributed Application Framework for .NET
 * [CAP](https://github.com/dotnetcore/CAP) ⭐ 7,111 | 🐛 8 | 🌐 C# | 📅 2026-08-01 - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 * [ZeroMQ](https://github.com/zeromq/netmq) ⭐ 3,181 | 🐛 135 | 🌐 C# | 📅 2026-07-30 - A 100% native C# implementation of ZeroMQ for .NET
-* [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,059 | 🐛 7 | 🌐 C# | 📅 2026-09-01 - An easy to use .NET API for RabbitMQ
+* [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,058 | 🐛 7 | 🌐 C# | 📅 2026-09-01 - An easy to use .NET API for RabbitMQ
 * [Rebus](https://github.com/rebus-org/Rebus) ⭐ 2,660 | 🐛 23 | 🌐 C# | 📅 2026-08-18 - Simple and lean service bus implementation for .NET
-* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,480 | 🐛 107 | 🌐 C# | 📅 2026-09-08 - Command Dispatcher, Processor, and Distributed Task Queue
-* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,282 | 🐛 80 | 🌐 C# | 📅 2026-09-08 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
-* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 289 | 🌐 C# | 📅 2026-09-08 - The most popular service bus for .NET
+* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,480 | 🐛 113 | 🌐 C# | 📅 2026-09-09 - Command Dispatcher, Processor, and Distributed Task Queue
+* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,282 | 🐛 80 | 🌐 C# | 📅 2026-09-09 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
+* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 292 | 🌐 C# | 📅 2026-09-09 - The most popular service bus for .NET
 * [Silverback](https://github.com/BEagle1984/silverback) ⭐ 284 | 🐛 13 | 🌐 C# | 📅 2026-08-26 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
-* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 273 | 🐛 476 | 🌐 C# | 📅 2026-09-08 - Confluent's Apache Kafka .NET client
+* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 274 | 🐛 476 | 🌐 C# | 📅 2026-09-09 - Confluent's Apache Kafka .NET client
 
 ### Api Gateway
 
@@ -569,18 +569,18 @@ May 2020
 
 ### Service Discovery
 
-* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 372 | 🐛 3 | 🌐 C# | 📅 2026-09-03 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,060 | 🐛 1,425 | 🌐 Go | 📅 2026-09-08 HTTP API
+* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 372 | 🐛 3 | 🌐 C# | 📅 2026-09-09 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,059 | 🐛 1,411 | 🌐 Go | 📅 2026-09-09 HTTP API
 
 ### Frameworks
 
-* [Foundatio](https://github.com/FoundatioFx/Foundatio) ⭐ 2,098 | 🐛 13 | 🌐 C# | 📅 2026-09-08 - Pluggable foundation blocks for building distributed apps.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio) ⭐ 2,098 | 🐛 13 | 🌐 C# | 📅 2026-09-09 - Pluggable foundation blocks for building distributed apps.
 * [Microdot](https://github.com/gigya/microdot) ⚠️ Archived - Microdot is an open source .NET framework that answers a lot of the needs for easily creating microservices.
 
 ### Other
 
 * [Project Tye](https://github.com/dotnet/tye) ⚠️ Archived - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
 * [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) ⭐ 4,373 | 🐛 379 | 🌐 C# | 📅 2026-06-22 - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,202 | 🐛 212 | 🌐 C# | 📅 2026-09-01 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,087 | 🐛 446 | 🌐 Go | 📅 2026-09-08 is a portable, event-driven, serverless runtime for building distributed applications)
+* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,202 | 🐛 212 | 🌐 C# | 📅 2026-09-01 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,087 | 🐛 441 | 🌐 Go | 📅 2026-09-09 is a portable, event-driven, serverless runtime for building distributed applications)
 
 ## Contribution
 
@@ -594,4 +594,4 @@ To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
