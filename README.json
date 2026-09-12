@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24317,
+                "stars": 24316,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -1543,7 +1543,7 @@
             "id": 158113219,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-11T15:46:04Z",
+            "last_commit": "2026-09-12T09:44:28Z",
             "open_issues": 0,
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
@@ -2440,8 +2440,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T15:56:29Z",
-                "open_issues": 117,
+                "last_commit": "2026-09-12T22:42:00Z",
+                "open_issues": 124,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2480,
@@ -2505,7 +2505,7 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T12:19:18Z",
+                "last_commit": "2026-09-12T16:03:41Z",
                 "open_issues": 290,
                 "owner": "Particular",
                 "repo": "NServiceBus",
@@ -2531,7 +2531,7 @@
                 "id": 128375935,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T20:20:17Z",
+                "last_commit": "2026-09-12T14:09:24Z",
                 "open_issues": 14,
                 "owner": "BEagle1984",
                 "repo": "silverback",
@@ -2565,7 +2565,7 @@
                 "id": 72554578,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T22:25:45Z",
+                "last_commit": "2026-09-12T22:47:26Z",
                 "open_issues": 476,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
@@ -2605,7 +2605,7 @@
                 "open_issues": 190,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9611,
+                "stars": 9610,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2622,7 +2622,7 @@
                 "id": 62256097,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T17:12:49Z",
+                "last_commit": "2026-09-12T15:22:37Z",
                 "open_issues": 57,
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
@@ -2770,7 +2770,7 @@
                 "open_issues": 394,
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5203,
+                "stars": 5202,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2791,7 +2791,7 @@
                 "open_issues": 379,
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
-                "stars": 4374,
+                "stars": 4373,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:56:31.130Z",
+    "last_updated": "2026-09-12T22:47:46.223Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2836,7 +2836,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-10-31T18:26:36Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
       "stars": 3082,
