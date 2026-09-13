@@ -495,7 +495,7 @@ May 2020
 
 * <https://github.com/dzimchuk/book-fast-service-fabric> ⭐ 88 | 🐛 18 | 🌐 C# | 📅 2022-12-08
 
-* <https://github.com/MarcelMichau/fake-survey-generator> ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-09-12
+* <https://github.com/MarcelMichau/fake-survey-generator> ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-09-13
 
 * <https://github.com/aramkoukia/microservices-prototype> ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2018-02-25
 
@@ -551,16 +551,16 @@ May 2020
 
 ### Messaging
 
-* [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,801 | 🐛 1 | 🌐 C# | 📅 2026-06-04 - Distributed Application Framework for .NET
-* [CAP](https://github.com/dotnetcore/CAP) ⭐ 7,111 | 🐛 8 | 🌐 C# | 📅 2026-08-01 - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
-* [ZeroMQ](https://github.com/zeromq/netmq) ⭐ 3,181 | 🐛 135 | 🌐 C# | 📅 2026-07-30 - A 100% native C# implementation of ZeroMQ for .NET
+* [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,800 | 🐛 1 | 🌐 C# | 📅 2026-06-04 - Distributed Application Framework for .NET
+* [CAP](https://github.com/dotnetcore/CAP) ⭐ 7,112 | 🐛 8 | 🌐 C# | 📅 2026-08-01 - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
+* [ZeroMQ](https://github.com/zeromq/netmq) ⭐ 3,180 | 🐛 135 | 🌐 C# | 📅 2026-07-30 - A 100% native C# implementation of ZeroMQ for .NET
 * [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,058 | 🐛 7 | 🌐 C# | 📅 2026-09-01 - An easy to use .NET API for RabbitMQ
-* [Rebus](https://github.com/rebus-org/Rebus) ⭐ 2,661 | 🐛 23 | 🌐 C# | 📅 2026-08-18 - Simple and lean service bus implementation for .NET
-* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,480 | 🐛 124 | 🌐 C# | 📅 2026-09-12 - Command Dispatcher, Processor, and Distributed Task Queue
-* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,281 | 🐛 80 | 🌐 C# | 📅 2026-09-09 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
+* [Rebus](https://github.com/rebus-org/Rebus) ⭐ 2,662 | 🐛 23 | 🌐 C# | 📅 2026-08-18 - Simple and lean service bus implementation for .NET
+* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,481 | 🐛 125 | 🌐 C# | 📅 2026-09-13 - Command Dispatcher, Processor, and Distributed Task Queue
+* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,281 | 🐛 82 | 🌐 C# | 📅 2026-09-13 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
 * [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 290 | 🌐 C# | 📅 2026-09-12 - The most popular service bus for .NET
 * [Silverback](https://github.com/BEagle1984/silverback) ⭐ 284 | 🐛 14 | 🌐 C# | 📅 2026-09-12 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
-* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 274 | 🐛 476 | 🌐 C# | 📅 2026-09-12 - Confluent's Apache Kafka .NET client
+* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 274 | 🐛 476 | 🌐 C# | 📅 2026-09-13 - Confluent's Apache Kafka .NET client
 
 ### Api Gateway
 
@@ -573,14 +573,14 @@ May 2020
 
 ### Frameworks
 
-* [Foundatio](https://github.com/FoundatioFx/Foundatio) ⭐ 2,098 | 🐛 13 | 🌐 C# | 📅 2026-09-11 - Pluggable foundation blocks for building distributed apps.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio) ⭐ 2,098 | 🐛 14 | 🌐 C# | 📅 2026-09-13 - Pluggable foundation blocks for building distributed apps.
 * [Microdot](https://github.com/gigya/microdot) ⚠️ Archived - Microdot is an open source .NET framework that answers a lot of the needs for easily creating microservices.
 
 ### Other
 
 * [Project Tye](https://github.com/dotnet/tye) ⚠️ Archived - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
 * [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) ⭐ 4,373 | 🐛 379 | 🌐 C# | 📅 2026-06-22 - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,202 | 🐛 212 | 🌐 C# | 📅 2026-09-11 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,095 | 🐛 444 | 🌐 Go | 📅 2026-09-11 is a portable, event-driven, serverless runtime for building distributed applications)
+* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,202 | 🐛 212 | 🌐 C# | 📅 2026-09-11 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,096 | 🐛 444 | 🌐 Go | 📅 2026-09-11 is a portable, event-driven, serverless runtime for building distributed applications)
 
 ## Contribution
 
@@ -594,4 +594,4 @@ To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
