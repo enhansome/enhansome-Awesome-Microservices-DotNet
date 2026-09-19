@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24313,
+                "stars": 24314,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -2361,7 +2361,7 @@
                 "open_issues": 135,
                 "owner": "zeromq",
                 "repo": "netmq",
-                "stars": 3178,
+                "stars": 3179,
                 "topics": [
                   "dotnet",
                   "dotnet-core",
@@ -2388,7 +2388,7 @@
                 "open_issues": 7,
                 "owner": "EasyNetQ",
                 "repo": "EasyNetQ",
-                "stars": 3060,
+                "stars": 3061,
                 "topics": [
                   "dotnet",
                   "dotnet-core",
@@ -2440,11 +2440,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-18T15:55:59Z",
-                "open_issues": 134,
+                "last_commit": "2026-09-19T10:53:36Z",
+                "open_issues": 135,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2481,
+                "stars": 2482,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -2535,7 +2535,7 @@
                 "open_issues": 13,
                 "owner": "BEagle1984",
                 "repo": "silverback",
-                "stars": 284,
+                "stars": 285,
                 "topics": [
                   "cqrs",
                   "kafka",
@@ -2690,8 +2690,8 @@
                 "id": 30369187,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T16:04:36Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-18T23:06:26Z",
+                "open_issues": 20,
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
                 "stars": 2098,
@@ -2808,7 +2808,7 @@
                 "id": 193124882,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T21:10:51Z",
+                "last_commit": "2026-09-19T07:16:30Z",
                 "open_issues": 211,
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:58:19.130Z",
+    "last_updated": "2026-09-19T22:37:35.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2839,7 +2839,7 @@
       "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3083,
+      "stars": 3082,
       "topics": [
         "asp-net",
         "asp-net-core",
