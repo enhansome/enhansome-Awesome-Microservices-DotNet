@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24314,
+                "stars": 24313,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -1543,7 +1543,7 @@
             "id": 158113219,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-18T15:48:20Z",
+            "last_commit": "2026-09-20T15:52:36Z",
             "open_issues": 0,
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
@@ -2302,7 +2302,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7803,
+                "stars": 7802,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2332,7 +2332,7 @@
                 "open_issues": 10,
                 "owner": "dotnetcore",
                 "repo": "CAP",
-                "stars": 7113,
+                "stars": 7114,
                 "topics": [
                   "distributed-transactions",
                   "eventbus",
@@ -2440,8 +2440,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-19T10:53:36Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-20T22:38:39Z",
+                "open_issues": 130,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2482,
@@ -2509,7 +2509,7 @@
                 "open_issues": 290,
                 "owner": "Particular",
                 "repo": "NServiceBus",
-                "stars": 2170,
+                "stars": 2171,
                 "topics": [
                   "c-sharp",
                   "distributed-systems",
@@ -2602,7 +2602,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-14T05:07:17Z",
-                "open_issues": 193,
+                "open_issues": 194,
                 "owner": "dotnet",
                 "repo": "yarp",
                 "stars": 9614,
@@ -2622,7 +2622,7 @@
                 "id": 62256097,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-18T16:21:44Z",
+                "last_commit": "2026-09-20T16:11:43Z",
                 "open_issues": 58,
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:37:35.456Z",
+    "last_updated": "2026-09-20T22:55:19.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2839,7 +2839,7 @@
       "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3082,
+      "stars": 3083,
       "topics": [
         "asp-net",
         "asp-net-core",
