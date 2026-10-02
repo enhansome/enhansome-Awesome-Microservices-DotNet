@@ -485,7 +485,7 @@ May 2020
 
 * <https://github.com/suadev/dotnet-istanbul-microservices-demo> ⭐ 139 | 🐛 0 | 🌐 C# | 📅 2022-12-08
 
-* <https://github.com/osstotalsoft/nbb> ⭐ 137 | 🐛 8 | 🌐 C# | 📅 2026-09-23
+* <https://github.com/osstotalsoft/nbb> ⭐ 137 | 🐛 8 | 🌐 C# | 📅 2026-10-01
 
 * <https://github.com/netcorebcn/quiz> ⭐ 124 | 🐛 1 | 🌐 C# | 📅 2018-11-19
 
@@ -495,7 +495,7 @@ May 2020
 
 * <https://github.com/dzimchuk/book-fast-service-fabric> ⭐ 88 | 🐛 18 | 🌐 C# | 📅 2022-12-08
 
-* <https://github.com/MarcelMichau/fake-survey-generator> ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-09-30
+* <https://github.com/MarcelMichau/fake-survey-generator> ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2026-10-01
 
 * <https://github.com/aramkoukia/microservices-prototype> ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2018-02-25
 
@@ -556,20 +556,20 @@ May 2020
 * [ZeroMQ](https://github.com/zeromq/netmq) ⭐ 3,180 | 🐛 135 | 🌐 C# | 📅 2026-07-30 - A 100% native C# implementation of ZeroMQ for .NET
 * [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,062 | 🐛 7 | 🌐 C# | 📅 2026-09-01 - An easy to use .NET API for RabbitMQ
 * [Rebus](https://github.com/rebus-org/Rebus) ⭐ 2,669 | 🐛 21 | 🌐 C# | 📅 2026-09-29 - Simple and lean service bus implementation for .NET
-* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,481 | 🐛 104 | 🌐 C# | 📅 2026-09-30 - Command Dispatcher, Processor, and Distributed Task Queue
-* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,284 | 🐛 85 | 🌐 C# | 📅 2026-09-24 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
-* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,171 | 🐛 290 | 🌐 C# | 📅 2026-09-30 - The most popular service bus for .NET
+* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,481 | 🐛 109 | 🌐 C# | 📅 2026-10-01 - Command Dispatcher, Processor, and Distributed Task Queue
+* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,285 | 🐛 85 | 🌐 C# | 📅 2026-09-24 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
+* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,171 | 🐛 291 | 🌐 C# | 📅 2026-10-01 - The most popular service bus for .NET
 * [Silverback](https://github.com/BEagle1984/silverback) ⭐ 285 | 🐛 13 | 🌐 C# | 📅 2026-09-26 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
-* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 277 | 🐛 478 | 🌐 C# | 📅 2026-09-30 - Confluent's Apache Kafka .NET client
+* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 277 | 🐛 477 | 🌐 C# | 📅 2026-10-01 - Confluent's Apache Kafka .NET client
 
 ### Api Gateway
 
-* [YARP](https://github.com/microsoft/reverse-proxy) ⭐ 9,621 | 🐛 193 | 🌐 C# | 📅 2026-09-28 - YARP (which stands for "YARP: A Reverse Proxy") is a toolkit for developing high-performance HTTP reverse proxy applications
-* [Ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,716 | 🐛 59 | 🌐 C# | 📅 2026-09-30 - .NET core API Gateway
+* [YARP](https://github.com/microsoft/reverse-proxy) ⭐ 9,621 | 🐛 194 | 🌐 C# | 📅 2026-09-28 - YARP (which stands for "YARP: A Reverse Proxy") is a toolkit for developing high-performance HTTP reverse proxy applications
+* [Ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,717 | 🐛 60 | 🌐 C# | 📅 2026-09-30 - .NET core API Gateway
 
 ### Service Discovery
 
-* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 373 | 🐛 3 | 🌐 C# | 📅 2026-09-30 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,086 | 🐛 1,416 | 🌐 Go | 📅 2026-09-30 HTTP API
+* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 373 | 🐛 4 | 🌐 C# | 📅 2026-10-01 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,088 | 🐛 1,415 | 🌐 Go | 📅 2026-10-01 HTTP API
 
 ### Frameworks
 
@@ -580,7 +580,7 @@ May 2020
 
 * [Project Tye](https://github.com/dotnet/tye) ⚠️ Archived - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
 * [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) ⭐ 4,376 | 🐛 379 | 🌐 C# | 📅 2026-06-22 - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,204 | 🐛 208 | 🌐 C# | 📅 2026-09-30 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,122 | 🐛 465 | 🌐 Go | 📅 2026-09-30 is a portable, event-driven, serverless runtime for building distributed applications)
+* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,204 | 🐛 208 | 🌐 C# | 📅 2026-09-30 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,126 | 🐛 462 | 🌐 Go | 📅 2026-10-01 is a portable, event-driven, serverless runtime for building distributed applications)
 
 ## Contribution
 
@@ -594,4 +594,4 @@ To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
