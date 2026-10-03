@@ -560,7 +560,7 @@ May 2020
 * [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,284 | 🐛 85 | 🌐 C# | 📅 2026-09-24 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
 * [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,171 | 🐛 291 | 🌐 C# | 📅 2026-10-02 - The most popular service bus for .NET
 * [Silverback](https://github.com/BEagle1984/silverback) ⭐ 285 | 🐛 13 | 🌐 C# | 📅 2026-09-26 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
-* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 277 | 🐛 476 | 🌐 C# | 📅 2026-10-02 - Confluent's Apache Kafka .NET client
+* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 277 | 🐛 476 | 🌐 C# | 📅 2026-10-03 - Confluent's Apache Kafka .NET client
 
 ### Api Gateway
 
@@ -580,7 +580,7 @@ May 2020
 
 * [Project Tye](https://github.com/dotnet/tye) ⚠️ Archived - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
 * [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) ⭐ 4,374 | 🐛 379 | 🌐 C# | 📅 2026-06-22 - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,204 | 🐛 208 | 🌐 C# | 📅 2026-09-30 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,123 | 🐛 461 | 🌐 Go | 📅 2026-10-02 is a portable, event-driven, serverless runtime for building distributed applications)
+* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,204 | 🐛 208 | 🌐 C# | 📅 2026-09-30 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,124 | 🐛 461 | 🌐 Go | 📅 2026-10-03 is a portable, event-driven, serverless runtime for building distributed applications)
 
 ## Contribution
 

@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/asc-lab/dotnetcore-microservices-poc",
-              "description": null,
+              "description": "asc-lab/dotnetcore-microservices-poc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -54,7 +54,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/logcorner/LogCorner.EduSync.Speech.Command/",
-              "description": "https://github.com/logcorner/LogCorner.EduSync.Speech.ServiceBus",
+              "description": "logcorner/LogCorner.EduSync.Speech.Command",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -82,7 +82,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/catcherwong-archive/APIGatewayDemo",
-              "description": null,
+              "description": "catcherwong-archive/APIGatewayDemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -119,7 +119,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/devmentors/DNC-DShop",
-              "description": null,
+              "description": "devmentors/DNC-DShop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -147,7 +147,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/devmentors/Pacco",
-              "description": null,
+              "description": "devmentors/Pacco",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -179,7 +179,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/dotnet-presentations/dotNETConf/tree/master/2020/FocusOnMicroservices",
-              "description": null,
+              "description": "dotnet-presentations/dotNETConf",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -207,7 +207,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/DotNetMax/DockerMonitoringService",
-              "description": null,
+              "description": "DotNetMax/DockerMonitoringService",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -235,7 +235,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/dotnet-architecture/eShopOnContainers",
-              "description": null,
+              "description": "dotnet-architecture/eShopOnContainers",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -272,7 +272,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/aramkoukia/microservices-prototype",
-              "description": null,
+              "description": "aramkoukia/microservices-prototype",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -306,7 +306,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/vany0114/microservices-dotnetcore-docker-sf-k8s",
-              "description": null,
+              "description": "vany0114/microservices-dotnetcore-docker-sf-k8s",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -355,7 +355,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/aspnetrun/run-aspnetcore-microservices",
-              "description": null,
+              "description": "aspnetrun/run-aspnetcore-microservices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -413,7 +413,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/procodeguide/Microservices.Sample",
-              "description": null,
+              "description": "procodeguide/Microservices.Sample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/mmacneil/ASPNETCoreDockerMicroservices",
-              "description": null,
+              "description": "mmacneil/ASPNETCoreDockerMicroservices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -472,7 +472,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/madslundt/NetCoreMicroservicesSample",
-              "description": null,
+              "description": "madslundt/NetCoreMicroservicesSample",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -519,7 +519,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/iammukeshm/Microservice.WebApi",
-              "description": null,
+              "description": "iammukeshm/Microservice.WebApi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -553,7 +553,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/iammukeshm/Microservices.Ticketing.WebApi",
-              "description": null,
+              "description": "iammukeshm/Microservices.Ticketing.WebApi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -589,7 +589,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/WolfgangOfner/MicroserviceDemo",
-              "description": null,
+              "description": "WolfgangOfner/MicroserviceDemo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -617,7 +617,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/aspnetrun/run-aspnet-identityserver4",
-              "description": null,
+              "description": "aspnetrun/run-aspnet-identityserver4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -654,7 +654,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/aspnetrun/run-aspnet-grpc",
-              "description": null,
+              "description": "aspnetrun/run-aspnet-grpc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -691,7 +691,7 @@
             {
               "node_type": "item",
               "title": "Repository : https://github.com/elsavies/NetCoreMicroservices",
-              "description": null,
+              "description": "elysaulve/NetCoreMicroservices",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -720,7 +720,7 @@
         {
           "node_type": "item",
           "title": "vietnam-devs/coolstore-microservices",
-          "description": null,
+          "description": "vietnam-devs/coolstore-microservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -761,7 +761,7 @@
         {
           "node_type": "item",
           "title": "asc-lab/dotnetcore-microservices-poc",
-          "description": null,
+          "description": "asc-lab/dotnetcore-microservices-poc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -800,7 +800,7 @@
         {
           "node_type": "item",
           "title": "EdwinVW/pitstop",
-          "description": null,
+          "description": "EdwinVW/pitstop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -841,7 +841,7 @@
         {
           "node_type": "item",
           "title": "devmentors/DNC-DShop",
-          "description": null,
+          "description": "devmentors/DNC-DShop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -862,7 +862,7 @@
         {
           "node_type": "item",
           "title": "snatch-dev/Convey",
-          "description": null,
+          "description": "snatch-dev/Convey",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -883,7 +883,7 @@
         {
           "node_type": "item",
           "title": "chayxana/Restaurant-App",
-          "description": null,
+          "description": "chayxana/Restaurant-App",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -924,7 +924,7 @@
         {
           "node_type": "item",
           "title": "madslundt/NetCoreMicroservicesSample",
-          "description": null,
+          "description": "madslundt/NetCoreMicroservicesSample",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -964,7 +964,7 @@
         {
           "node_type": "item",
           "title": "SteeltoeOSS/Samples",
-          "description": null,
+          "description": "SteeltoeOSS/Samples",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -999,7 +999,7 @@
         {
           "node_type": "item",
           "title": "Azure-Samples/Serverless-microservices-reference-architecture",
-          "description": null,
+          "description": "Azure-Samples/Serverless-microservices-reference-architecture",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1034,7 +1034,7 @@
         {
           "node_type": "item",
           "title": "twzhangyang/RestAirline",
-          "description": null,
+          "description": "twzhangyang/RestAirline",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1068,7 +1068,7 @@
         {
           "node_type": "item",
           "title": "johnph/simple-transaction",
-          "description": null,
+          "description": "johnph/simple-transaction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1089,7 +1089,7 @@
         {
           "node_type": "item",
           "title": "charlessolar/eShopOnContainersDDD",
-          "description": null,
+          "description": "charlessolar/eShopOnContainersDDD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1128,7 +1128,7 @@
         {
           "node_type": "item",
           "title": "thangchung/practical-dapr",
-          "description": null,
+          "description": "thangchung/practical-dapr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1167,7 +1167,7 @@
         {
           "node_type": "item",
           "title": "alugili/ModernArchitectureShop",
-          "description": null,
+          "description": "alugili/ModernArchitectureShop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1206,7 +1206,7 @@
         {
           "node_type": "item",
           "title": "daxnet/we-text",
-          "description": null,
+          "description": "daxnet/we-text",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1227,7 +1227,7 @@
         {
           "node_type": "item",
           "title": "charlessolar/TodoMVC-DDD-CQRS-EventSourcing",
-          "description": null,
+          "description": "charlessolar/TodoMVC-DDD-CQRS-EventSourcing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1263,7 +1263,7 @@
         {
           "node_type": "item",
           "title": "thangchung/magazine-website",
-          "description": null,
+          "description": "thangchung/magazine-website",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1291,7 +1291,7 @@
         {
           "node_type": "item",
           "title": "mmacneil/ASPNETCoreDockerMicroservices",
-          "description": null,
+          "description": "mmacneil/ASPNETCoreDockerMicroservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1312,7 +1312,7 @@
         {
           "node_type": "item",
           "title": "vany0114/microservices-dotnetcore-docker-sf-k8s",
-          "description": null,
+          "description": "vany0114/microservices-dotnetcore-docker-sf-k8s",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1354,7 +1354,7 @@
         {
           "node_type": "item",
           "title": "suadev/dotnet-istanbul-microservices-demo",
-          "description": null,
+          "description": "suadev/dotnet-istanbul-microservices-demo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1388,7 +1388,7 @@
         {
           "node_type": "item",
           "title": "osstotalsoft/nbb",
-          "description": null,
+          "description": "osstotalsoft/nbb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1418,7 +1418,7 @@
         {
           "node_type": "item",
           "title": "netcorebcn/quiz",
-          "description": null,
+          "description": "netcorebcn/quiz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1460,7 +1460,7 @@
         {
           "node_type": "item",
           "title": "xiajingren/NetCoreMicroserviceDemo",
-          "description": null,
+          "description": "xiajingren/NetCoreMicroserviceDemo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1484,7 +1484,7 @@
         {
           "node_type": "item",
           "title": "PacktPublishing/.NET-Core-Microservices",
-          "description": null,
+          "description": "PacktPublishing/.NET-Core-Microservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1505,7 +1505,7 @@
         {
           "node_type": "item",
           "title": "dzimchuk/book-fast-service-fabric",
-          "description": null,
+          "description": "dzimchuk/book-fast-service-fabric",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1534,7 +1534,7 @@
         {
           "node_type": "item",
           "title": "MarcelMichau/fake-survey-generator",
-          "description": null,
+          "description": "MarcelMichau/fake-survey-generator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1573,7 +1573,7 @@
         {
           "node_type": "item",
           "title": "aramkoukia/microservices-prototype",
-          "description": null,
+          "description": "aramkoukia/microservices-prototype",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1600,7 +1600,7 @@
         {
           "node_type": "item",
           "title": "thangchung/ShoppingCartDemo",
-          "description": null,
+          "description": "thangchung/ShoppingCartDemo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1629,7 +1629,7 @@
         {
           "node_type": "item",
           "title": "ImranMA/MicroCouriers",
-          "description": null,
+          "description": "ImranMA/MicroCouriers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1664,7 +1664,7 @@
         {
           "node_type": "item",
           "title": "thangchung/shopping-cart-k8s",
-          "description": null,
+          "description": "thangchung/shopping-cart-k8s",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1698,7 +1698,7 @@
         {
           "node_type": "item",
           "title": "NHadi/HappySocialMedia",
-          "description": null,
+          "description": "NHadi/HappySocialMedia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1739,7 +1739,7 @@
         {
           "node_type": "item",
           "title": "kimcuhoang/dapr-tye-simple-microservices",
-          "description": null,
+          "description": "kimcuhoang/dapr-tye-simple-microservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1780,7 +1780,7 @@
         {
           "node_type": "item",
           "title": "MicroservicesBuildingBlocks/BuildingBlocks",
-          "description": null,
+          "description": "MicroservicesBuildingBlocks/BuildingBlocks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1810,7 +1810,7 @@
         {
           "node_type": "item",
           "title": "fcatae/Arda",
-          "description": null,
+          "description": "fcatae/Arda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1836,7 +1836,7 @@
         {
           "node_type": "item",
           "title": "OlexiyKramarenko/CQRS-ES-Microservices",
-          "description": null,
+          "description": "OlexiyKramarenko/CQRS-ES-Microservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1872,7 +1872,7 @@
         {
           "node_type": "item",
           "title": "AdrienTorris/aspnet-core-simple-microservices-sample",
-          "description": null,
+          "description": "AdrienTorris/aspnet-core-simple-microservices-sample",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1901,7 +1901,7 @@
         {
           "node_type": "item",
           "title": "cloudnative-netcore/modernstore",
-          "description": null,
+          "description": "cloudnative-netcore/modernstore",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1922,7 +1922,7 @@
         {
           "node_type": "item",
           "title": "PacktPublishing/Building-Microservices-with-DotNET-Core",
-          "description": null,
+          "description": "PacktPublishing/Building-Microservices-with-DotNET-Core",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1943,7 +1943,7 @@
         {
           "node_type": "item",
           "title": "vany0114/chaos-injection-using-simmy",
-          "description": null,
+          "description": "vany0114/chaos-injection-using-simmy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1976,7 +1976,7 @@
         {
           "node_type": "item",
           "title": "hossambarakat/EspressoShop",
-          "description": null,
+          "description": "hossambarakat/EspressoShop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2002,7 +2002,7 @@
         {
           "node_type": "item",
           "title": "thangchung/magazine-website-akka",
-          "description": null,
+          "description": "thangchung/magazine-website-akka",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2032,7 +2032,7 @@
         {
           "node_type": "item",
           "title": "brucehu123/Study.Microservices",
-          "description": null,
+          "description": "brucehu123/Study.Microservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2060,7 +2060,7 @@
         {
           "node_type": "item",
           "title": "sandhaka/MyMicroservicesApplication",
-          "description": null,
+          "description": "sandhaka/MyMicroservicesApplication",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2090,7 +2090,7 @@
         {
           "node_type": "item",
           "title": "parameshg/istio-prototype",
-          "description": null,
+          "description": "parameshg/istio-prototype",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2121,7 +2121,7 @@
         {
           "node_type": "item",
           "title": "HoussemDellai/MicroservicesOnContainers",
-          "description": null,
+          "description": "HoussemDellai/MicroservicesOnContainers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2151,7 +2151,7 @@
         {
           "node_type": "item",
           "title": "mohamed-abdo/vehicle-tracking-microservices",
-          "description": null,
+          "description": "mohamed-abdo/vehicle-tracking-microservices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2186,7 +2186,7 @@
         {
           "node_type": "item",
           "title": "dzimchuk/book-fast-containers",
-          "description": null,
+          "description": "dzimchuk/book-fast-containers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2218,7 +2218,7 @@
         {
           "node_type": "item",
           "title": "logcorner/LogCorner.EduSync.Speech.Command",
-          "description": null,
+          "description": "logcorner/LogCorner.EduSync.Speech.Command",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2239,7 +2239,7 @@
         {
           "node_type": "item",
           "title": "gfawcett22/EnterprisePlanner",
-          "description": null,
+          "description": "gfawcett22/EnterprisePlanner",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2260,7 +2260,7 @@
         {
           "node_type": "item",
           "title": "aacostamx/Microservice-using-ASP-NET-Core",
-          "description": null,
+          "description": "aacostamx/Microservice-using-ASP-NET-Core",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2565,7 +2565,7 @@
                 "id": 72554578,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:31:45Z",
+                "last_commit": "2026-10-03T02:15:39Z",
                 "open_issues": 476,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:06:41.629Z",
+    "last_updated": "2026-10-03T04:26:29.637Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
