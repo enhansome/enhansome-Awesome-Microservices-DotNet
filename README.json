@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24299,
+                "stars": 24298,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -875,7 +875,7 @@
             "open_issues": 33,
             "owner": "snatch-dev",
             "repo": "Convey",
-            "stars": 957,
+            "stars": 956,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
@@ -973,7 +973,7 @@
             "id": 57339405,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T20:47:26Z",
+            "last_commit": "2026-10-09T15:52:02Z",
             "open_issues": 11,
             "owner": "SteeltoeOSS",
             "repo": "Samples",
@@ -1543,7 +1543,7 @@
             "id": 158113219,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-08T05:33:53Z",
+            "last_commit": "2026-10-09T14:30:08Z",
             "open_issues": 0,
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
@@ -2302,7 +2302,7 @@
                 "open_issues": 2,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7803,
+                "stars": 7802,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2328,11 +2328,11 @@
                 "id": 76445704,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-07T14:06:32Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-09T13:22:16Z",
+                "open_issues": 6,
                 "owner": "dotnetcore",
                 "repo": "CAP",
-                "stars": 7112,
+                "stars": 7111,
                 "topics": [
                   "distributed-transactions",
                   "eventbus",
@@ -2361,7 +2361,7 @@
                 "open_issues": 134,
                 "owner": "zeromq",
                 "repo": "netmq",
-                "stars": 3180,
+                "stars": 3178,
                 "topics": [
                   "dotnet",
                   "dotnet-core",
@@ -2384,11 +2384,11 @@
                 "id": 1645954,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T11:49:05Z",
+                "last_commit": "2026-10-09T05:38:42Z",
                 "open_issues": 2,
                 "owner": "EasyNetQ",
                 "repo": "EasyNetQ",
-                "stars": 3062,
+                "stars": 3061,
                 "topics": [
                   "dotnet",
                   "dotnet-core",
@@ -2440,11 +2440,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-08T23:37:00Z",
-                "open_issues": 102,
+                "last_commit": "2026-10-09T16:06:00Z",
+                "open_issues": 108,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2485,
+                "stars": 2486,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -2480,10 +2480,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-08T23:16:28Z",
-                "open_issues": 85,
+                "open_issues": 87,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
-                "stars": 2284,
+                "stars": 2283,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -2505,11 +2505,11 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T21:26:13Z",
+                "last_commit": "2026-10-09T21:41:04Z",
                 "open_issues": 298,
                 "owner": "Particular",
                 "repo": "NServiceBus",
-                "stars": 2168,
+                "stars": 2169,
                 "topics": [
                   "c-sharp",
                   "distributed-systems",
@@ -2565,7 +2565,7 @@
                 "id": 72554578,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T17:37:04Z",
+                "last_commit": "2026-10-09T20:41:21Z",
                 "open_issues": 473,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
@@ -2605,7 +2605,7 @@
                 "open_issues": 193,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9625,
+                "stars": 9623,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2623,10 +2623,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-08T11:13:05Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
-                "stars": 8717,
+                "stars": 8715,
                 "topics": [
                   "api-gateway",
                   "aspnetcore",
@@ -2691,10 +2691,10 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T00:52:54Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
-                "stars": 2100,
+                "stars": 2101,
                 "topics": [
                   "abstractions",
                   "aws",
@@ -2736,7 +2736,7 @@
                 "open_issues": 28,
                 "owner": "gigya",
                 "repo": "microdot",
-                "stars": 1534,
+                "stars": 1535,
                 "topics": [
                   "configuration",
                   "distributed-systems",
@@ -2770,7 +2770,7 @@
                 "open_issues": 394,
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5196,
+                "stars": 5195,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2791,7 +2791,7 @@
                 "open_issues": 380,
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
-                "stars": 4376,
+                "stars": 4375,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2812,7 +2812,7 @@
                 "open_issues": 207,
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
-                "stars": 1204,
+                "stars": 1203,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T00:56:24.752Z",
+    "last_updated": "2026-10-10T00:28:07.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2839,7 +2839,7 @@
       "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3082,
+      "stars": 3083,
       "topics": [
         "asp-net",
         "asp-net-core",
