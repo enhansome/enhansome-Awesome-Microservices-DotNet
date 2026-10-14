@@ -154,7 +154,7 @@ May 2020-August 2020
 
 9. [Sidecar pattern + custom reverse proxy + k8s](https://www.youtube.com/watch?v=1v8SXWXxGvM\&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
 
-**Repository :** <https://github.com/devmentors/Pacco> ⭐ 841 | 🐛 6 | 🌐 Shell | 📅 2020-11-26
+**Repository :** <https://github.com/devmentors/Pacco> ⭐ 842 | 🐛 6 | 🌐 Shell | 📅 2020-11-26
 
 ### .NET Conf: Focus on Microservices
 
@@ -304,7 +304,7 @@ May 2020
 
 7. [AspnetRun Microservices Renewed !](https://mehmetozkaya.medium.com/aspnetrun-microservices-renewed-d08901b5e06f)
 
-**Repository :** <https://github.com/aspnetrun/run-aspnetcore-microservices> ⭐ 3,267 | 🐛 43 | 🌐 C# | 📅 2026-03-09
+**Repository :** <https://github.com/aspnetrun/run-aspnetcore-microservices> ⭐ 3,268 | 🐛 43 | 🌐 C# | 📅 2026-03-09
 
 ## Books
 
@@ -445,11 +445,11 @@ May 2020
 
 ## Sample Projects
 
-* <https://github.com/vietnam-devs/coolstore-microservices> ⭐ 2,531 | 🐛 32 | 🌐 C# | 📅 2023-03-07
+* <https://github.com/vietnam-devs/coolstore-microservices> ⭐ 2,532 | 🐛 32 | 🌐 C# | 📅 2023-03-07
 
 * <https://github.com/asc-lab/dotnetcore-microservices-poc> ⭐ 1,938 | 🐛 8 | 🌐 CSS | 📅 2026-09-17
 
-* <https://github.com/EdwinVW/pitstop> ⭐ 1,162 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-06
+* <https://github.com/EdwinVW/pitstop> ⭐ 1,162 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-13
 
 * <https://github.com/devmentors/DNC-DShop> ⭐ 1,017 | 🐛 11 | 🌐 Shell | 📅 2019-05-09
 
@@ -552,15 +552,15 @@ May 2020
 ### Messaging
 
 * [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,807 | 🐛 1 | 🌐 C# | 📅 2026-10-10 - Distributed Application Framework for .NET
-* [CAP](https://github.com/dotnetcore/CAP) ⭐ 7,112 | 🐛 6 | 🌐 C# | 📅 2026-10-09 - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
-* [ZeroMQ](https://github.com/zeromq/netmq) ⭐ 3,178 | 🐛 134 | 🌐 C# | 📅 2026-10-07 - A 100% native C# implementation of ZeroMQ for .NET
-* [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,060 | 🐛 4 | 🌐 C# | 📅 2026-10-12 - An easy to use .NET API for RabbitMQ
+* [CAP](https://github.com/dotnetcore/CAP) ⭐ 7,113 | 🐛 6 | 🌐 C# | 📅 2026-10-09 - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
+* [ZeroMQ](https://github.com/zeromq/netmq) ⭐ 3,179 | 🐛 134 | 🌐 C# | 📅 2026-10-07 - A 100% native C# implementation of ZeroMQ for .NET
+* [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,060 | 🐛 2 | 🌐 C# | 📅 2026-10-13 - An easy to use .NET API for RabbitMQ
 * [Rebus](https://github.com/rebus-org/Rebus) ⭐ 2,669 | 🐛 21 | 🌐 C# | 📅 2026-09-29 - Simple and lean service bus implementation for .NET
-* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,486 | 🐛 105 | 🌐 C# | 📅 2026-10-12 - Command Dispatcher, Processor, and Distributed Task Queue
-* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,285 | 🐛 86 | 🌐 C# | 📅 2026-10-12 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
-* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 298 | 🌐 C# | 📅 2026-10-10 - The most popular service bus for .NET
-* [Silverback](https://github.com/BEagle1984/silverback) ⭐ 285 | 🐛 13 | 🌐 C# | 📅 2026-09-26 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
-* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 278 | 🐛 472 | 🌐 C# | 📅 2026-10-09 - Confluent's Apache Kafka .NET client
+* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,487 | 🐛 102 | 🌐 C# | 📅 2026-10-13 - Command Dispatcher, Processor, and Distributed Task Queue
+* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,285 | 🐛 83 | 🌐 C# | 📅 2026-10-13 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
+* [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 297 | 🌐 C# | 📅 2026-10-13 - The most popular service bus for .NET
+* [Silverback](https://github.com/BEagle1984/silverback) ⭐ 283 | 🐛 15 | 🌐 C# | 📅 2026-09-26 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
+* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 279 | 🐛 472 | 🌐 C# | 📅 2026-10-13 - Confluent's Apache Kafka .NET client
 
 ### Api Gateway
 
@@ -569,22 +569,22 @@ May 2020
 
 ### Service Discovery
 
-* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 373 | 🐛 3 | 🌐 C# | 📅 2026-10-02 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,089 | 🐛 1,408 | 🌐 Go | 📅 2026-10-12 HTTP API
+* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 373 | 🐛 4 | 🌐 C# | 📅 2026-10-13 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,088 | 🐛 1,413 | 🌐 Go | 📅 2026-10-13 HTTP API
 
 ### Frameworks
 
-* [Foundatio](https://github.com/FoundatioFx/Foundatio) ⭐ 2,102 | 🐛 25 | 🌐 C# | 📅 2026-10-10 - Pluggable foundation blocks for building distributed apps.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio) ⭐ 2,102 | 🐛 27 | 🌐 C# | 📅 2026-10-13 - Pluggable foundation blocks for building distributed apps.
 * [Microdot](https://github.com/gigya/microdot) ⚠️ Archived - Microdot is an open source .NET framework that answers a lot of the needs for easily creating microservices.
 
 ### Other
 
 * [Project Tye](https://github.com/dotnet/tye) ⚠️ Archived - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
 * [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) ⭐ 4,375 | 🐛 380 | 🌐 C# | 📅 2026-06-22 - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,203 | 🐛 206 | 🌐 C# | 📅 2026-10-07 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,136 | 🐛 454 | 🌐 Go | 📅 2026-10-12 is a portable, event-driven, serverless runtime for building distributed applications)
+* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,204 | 🐛 206 | 🌐 C# | 📅 2026-10-07 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,138 | 🐛 451 | 🌐 Go | 📅 2026-10-13 is a portable, event-driven, serverless runtime for building distributed applications)
 
 ## Contribution
 
-Contributions are always welcome! Feel free to open an [issue](https://github.com/mjebrahimi/Awesome-Microservices-NetCore/issues/new) ⭐ 3,083 | 🐛 7 | 📅 2024-10-31 or create a pull request.
+Contributions are always welcome! Feel free to open an [issue](https://github.com/mjebrahimi/Awesome-Microservices-NetCore/issues/new) ⭐ 3,084 | 🐛 7 | 📅 2024-10-31 or create a pull request.
 
 ## License
 
@@ -594,4 +594,4 @@ To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
