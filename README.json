@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24291,
+                "stars": 24290,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -368,7 +368,7 @@
                 "open_issues": 44,
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
-                "stars": 3269,
+                "stars": 3271,
                 "topics": [
                   "api-gateway",
                   "aspnet-core",
@@ -733,7 +733,7 @@
             "open_issues": 32,
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2533,
+            "stars": 2534,
             "topics": [
               "aks",
               "clean-architecture",
@@ -2440,11 +2440,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-30T20:39:10Z",
-                "open_issues": 131,
+                "last_commit": "2026-10-31T21:51:02Z",
+                "open_issues": 128,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2489,
+                "stars": 2490,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -2531,7 +2531,7 @@
                 "id": 128375935,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-30T20:01:03Z",
+                "last_commit": "2026-10-31T18:38:18Z",
                 "open_issues": 12,
                 "owner": "BEagle1984",
                 "repo": "silverback",
@@ -2605,7 +2605,7 @@
                 "open_issues": 195,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9645,
+                "stars": 9646,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2622,11 +2622,11 @@
                 "id": 62256097,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-30T21:47:22Z",
-                "open_issues": 56,
+                "last_commit": "2026-10-31T18:23:07Z",
+                "open_issues": 60,
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
-                "stars": 8717,
+                "stars": 8718,
                 "topics": [
                   "api-gateway",
                   "aspnetcore",
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:19:26.811Z",
+    "last_updated": "2026-10-31T23:55:38.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2839,7 +2839,7 @@
       "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3090,
+      "stars": 3089,
       "topics": [
         "asp-net",
         "asp-net-core",
