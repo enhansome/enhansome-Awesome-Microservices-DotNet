@@ -38,7 +38,7 @@ January 2019-September 2019
 
 7. [Building Microservices On .NET Core – Part 7 Transactional Outbox with RabbitMQ](https://altkomsoftware.com/blog/microservices-outbox-rabbitmq/)
 
-**Repository :** <https://github.com/asc-lab/dotnetcore-microservices-poc> ⭐ 1,942 | 🐛 8 | 🌐 CSS | 📅 2026-09-17
+**Repository :** <https://github.com/asc-lab/dotnetcore-microservices-poc> ⭐ 1,941 | 🐛 8 | 🌐 CSS | 📅 2026-09-17
 
 ### Building microservices through Event Driven Architecture
 
@@ -130,7 +130,7 @@ December 2018-April 2019
 
 16. [Distributed .NET Core (DShop) - Episode 15 \[Orchestration with Portainer, Kubernetes and Rancher\]](https://www.youtube.com/watch?v=YxvB6-6FSZE\&list=PLqqD43D6Mqz38LoZEuo_hJAp2NxXskcut)
 
-**Repository :** <https://github.com/devmentors/DNC-DShop> ⭐ 1,017 | 🐛 11 | 🌐 Shell | 📅 2019-05-09
+**Repository :** <https://github.com/devmentors/DNC-DShop> ⭐ 1,016 | 🐛 11 | 🌐 Shell | 📅 2019-05-09
 
 ### Microservices .NET
 
@@ -154,7 +154,7 @@ May 2020-August 2020
 
 9. [Sidecar pattern + custom reverse proxy + k8s](https://www.youtube.com/watch?v=1v8SXWXxGvM\&list=PLqqD43D6Mqz1LNS7bqFhAJNfmVfQ077hz)
 
-**Repository :** <https://github.com/devmentors/Pacco> ⭐ 842 | 🐛 6 | 🌐 Shell | 📅 2020-11-26
+**Repository :** <https://github.com/devmentors/Pacco> ⭐ 841 | 🐛 6 | 🌐 Shell | 📅 2020-11-26
 
 ### .NET Conf: Focus on Microservices
 
@@ -375,7 +375,7 @@ May 2020
   * **Repository :** <https://github.com/mmacneil/ASPNETCoreDockerMicroservices> ⭐ 170 | 🐛 3 | 🌐 C# | 📅 2017-12-28
 
 * [Microservices with event sourcing using .NET Core](https://medium.com/@madslundt/microservices-with-event-sourcing-using-net-core-33e3074171f5)
-  * **Repository :** <https://github.com/madslundt/NetCoreMicroservicesSample> ⭐ 699 | 🐛 6 | 🌐 C# | 📅 2023-03-03
+  * **Repository :** <https://github.com/madslundt/NetCoreMicroservicesSample> ⭐ 698 | 🐛 6 | 🌐 C# | 📅 2023-03-03
 
 * [Microservice Architecture in ASP.NET Core with API Gateway](https://www.codewithmukesh.com/blog/microservice-architecture-in-aspnet-core/)
   * **Repository :** <https://github.com/iammukeshm/Microservice.WebApi> ⭐ 101 | 🐛 0 | 🌐 C# | 📅 2020-07-18
@@ -447,17 +447,17 @@ May 2020
 
 * <https://github.com/vietnam-devs/coolstore-microservices> ⭐ 2,534 | 🐛 32 | 🌐 C# | 📅 2023-03-07
 
-* <https://github.com/asc-lab/dotnetcore-microservices-poc> ⭐ 1,942 | 🐛 8 | 🌐 CSS | 📅 2026-09-17
+* <https://github.com/asc-lab/dotnetcore-microservices-poc> ⭐ 1,941 | 🐛 8 | 🌐 CSS | 📅 2026-09-17
 
 * <https://github.com/EdwinVW/pitstop> ⭐ 1,165 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-29
 
-* <https://github.com/devmentors/DNC-DShop> ⭐ 1,017 | 🐛 11 | 🌐 Shell | 📅 2019-05-09
+* <https://github.com/devmentors/DNC-DShop> ⭐ 1,016 | 🐛 11 | 🌐 Shell | 📅 2019-05-09
 
 * <https://github.com/snatch-dev/Convey> ⚠️ Archived
 
 * <https://github.com/chayxana/Restaurant-App> ⭐ 777 | 🐛 20 | 🌐 HTML | 📅 2026-02-24
 
-* <https://github.com/madslundt/NetCoreMicroservicesSample> ⭐ 699 | 🐛 6 | 🌐 C# | 📅 2023-03-03
+* <https://github.com/madslundt/NetCoreMicroservicesSample> ⭐ 698 | 🐛 6 | 🌐 C# | 📅 2023-03-03
 
 * <https://github.com/SteeltoeOSS/Samples/tree/master/MusicStore> ⭐ 648 | 🐛 14 | 🌐 C# | 📅 2026-10-26
 
@@ -551,25 +551,25 @@ May 2020
 
 ### Messaging
 
-* [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,812 | 🐛 1 | 🌐 C# | 📅 2026-10-21 - Distributed Application Framework for .NET
+* [MassTransit](https://github.com/MassTransit/MassTransit) ⭐ 7,813 | 🐛 1 | 🌐 C# | 📅 2026-10-21 - Distributed Application Framework for .NET
 * [CAP](https://github.com/dotnetcore/CAP) ⭐ 7,120 | 🐛 9 | 🌐 C# | 📅 2026-10-19 - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 * [ZeroMQ](https://github.com/zeromq/netmq) ⭐ 3,181 | 🐛 133 | 🌐 C# | 📅 2026-10-26 - A 100% native C# implementation of ZeroMQ for .NET
 * [EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) ⭐ 3,063 | 🐛 2 | 🌐 C# | 📅 2026-10-20 - An easy to use .NET API for RabbitMQ
 * [Rebus](https://github.com/rebus-org/Rebus) ⭐ 2,674 | 🐛 21 | 🌐 C# | 📅 2026-09-29 - Simple and lean service bus implementation for .NET
-* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,490 | 🐛 128 | 🌐 C# | 📅 2026-10-31 - Command Dispatcher, Processor, and Distributed Task Queue
-* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,289 | 🐛 97 | 🌐 C# | 📅 2026-10-30 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
+* [Brighter](https://github.com/BrighterCommand/Brighter) ⭐ 2,491 | 🐛 135 | 🌐 C# | 📅 2026-11-01 - Command Dispatcher, Processor, and Distributed Task Queue
+* [RabbitMQ](https://github.com/rabbitmq/rabbitmq-dotnet-client) ⭐ 2,289 | 🐛 99 | 🌐 C# | 📅 2026-10-30 - RabbitMQ .NET client for .NET Standard 2.0+ and .NET 4.6.1+
 * [NServiceBus](https://github.com/Particular/NServiceBus) ⭐ 2,169 | 🐛 304 | 🌐 C# | 📅 2026-10-30 - The most popular service bus for .NET
-* [Silverback](https://github.com/BEagle1984/silverback) ⭐ 283 | 🐛 12 | 🌐 C# | 📅 2026-10-31 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
-* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 279 | 🐛 477 | 🌐 C# | 📅 2026-10-13 - Confluent's Apache Kafka .NET client
+* [Silverback](https://github.com/BEagle1984/silverback) ⭐ 283 | 🐛 13 | 🌐 C# | 📅 2026-11-01 - Silverback is a simple but feature-rich message bus for .NET (supports Kafka, RabbitMQ and MQTT).
+* [Kafka](https://github.com/confluentinc/confluent-kafka-dotnet/) ⭐ 279 | 🐛 478 | 🌐 C# | 📅 2026-10-13 - Confluent's Apache Kafka .NET client
 
 ### Api Gateway
 
-* [YARP](https://github.com/microsoft/reverse-proxy) ⭐ 9,646 | 🐛 195 | 🌐 C# | 📅 2026-10-29 - YARP (which stands for "YARP: A Reverse Proxy") is a toolkit for developing high-performance HTTP reverse proxy applications
+* [YARP](https://github.com/microsoft/reverse-proxy) ⭐ 9,648 | 🐛 195 | 🌐 C# | 📅 2026-10-29 - YARP (which stands for "YARP: A Reverse Proxy") is a toolkit for developing high-performance HTTP reverse proxy applications
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) ⭐ 8,718 | 🐛 60 | 🌐 C# | 📅 2026-10-31 - .NET core API Gateway
 
 ### Service Discovery
 
-* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 373 | 🐛 3 | 🌐 C# | 📅 2026-10-30 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,099 | 🐛 1,428 | 🌐 Go | 📅 2026-10-29 HTTP API
+* [Consul.NET](https://github.com/G-Research/consuldotnet) ⭐ 373 | 🐛 3 | 🌐 C# | 📅 2026-10-30 - Consul.NET is a .NET client library for the [HashiCorp Consul](https://github.com/hashicorp/consul) ⭐ 30,098 | 🐛 1,429 | 🌐 Go | 📅 2026-10-29 HTTP API
 
 ### Frameworks
 
@@ -580,11 +580,11 @@ May 2020
 
 * [Project Tye](https://github.com/dotnet/tye) ⚠️ Archived - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier
 * [Health Checks](https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks) ⭐ 4,377 | 🐛 379 | 🌐 C# | 📅 2026-06-22 - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
-* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,204 | 🐛 194 | 🌐 C# | 📅 2026-10-29 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,171 | 🐛 441 | 🌐 Go | 📅 2026-10-31 is a portable, event-driven, serverless runtime for building distributed applications)
+* [Dapr](https://github.com/dapr/dotnet-sdk) ⭐ 1,204 | 🐛 194 | 🌐 C# | 📅 2026-10-29 - Dapr SDK for .NET ([Dapr](https://github.com/dapr/dapr) ⭐ 26,172 | 🐛 437 | 🌐 Go | 📅 2026-10-31 is a portable, event-driven, serverless runtime for building distributed applications)
 
 ## Contribution
 
-Contributions are always welcome! Feel free to open an [issue](https://github.com/mjebrahimi/Awesome-Microservices-NetCore/issues/new) ⭐ 3,089 | 🐛 7 | 📅 2024-10-31 or create a pull request.
+Contributions are always welcome! Feel free to open an [issue](https://github.com/mjebrahimi/Awesome-Microservices-NetCore/issues/new) ⭐ 3,088 | 🐛 7 | 📅 2024-10-31 or create a pull request.
 
 ## License
 
@@ -594,4 +594,4 @@ To the extent possible under law, [Mohammad Javad Ebrahimi](https://github.com/m
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
