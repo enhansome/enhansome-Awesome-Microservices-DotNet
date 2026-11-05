@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24287,
+                "stars": 24284,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -368,7 +368,7 @@
                 "open_issues": 44,
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
-                "stars": 3273,
+                "stars": 3274,
                 "topics": [
                   "api-gateway",
                   "aspnet-core",
@@ -2302,7 +2302,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7813,
+                "stars": 7812,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2332,7 +2332,7 @@
                 "open_issues": 10,
                 "owner": "dotnetcore",
                 "repo": "CAP",
-                "stars": 7123,
+                "stars": 7121,
                 "topics": [
                   "distributed-transactions",
                   "eventbus",
@@ -2440,11 +2440,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-03T16:32:07Z",
-                "open_issues": 128,
+                "last_commit": "2026-11-04T23:21:30Z",
+                "open_issues": 127,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2490,
+                "stars": 2492,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -2479,7 +2479,7 @@
                 "id": 924562,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T23:24:01Z",
+                "last_commit": "2026-11-04T18:48:23Z",
                 "open_issues": 102,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
@@ -2505,7 +2505,7 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T19:52:23Z",
+                "last_commit": "2026-11-05T00:10:30Z",
                 "open_issues": 301,
                 "owner": "Particular",
                 "repo": "NServiceBus",
@@ -2531,7 +2531,7 @@
                 "id": 128375935,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-02T21:00:56Z",
+                "last_commit": "2026-11-04T16:08:44Z",
                 "open_issues": 12,
                 "owner": "BEagle1984",
                 "repo": "silverback",
@@ -2569,7 +2569,7 @@
                 "open_issues": 479,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
-                "stars": 279,
+                "stars": 278,
                 "topics": [
                   "c-sharp",
                   "confluent",
@@ -2602,10 +2602,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-03T19:03:14Z",
-                "open_issues": 194,
+                "open_issues": 195,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9649,
+                "stars": 9650,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2827,7 +2827,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:00:22.448Z",
+    "last_updated": "2026-11-05T01:14:53.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2839,7 +2839,7 @@
       "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3088,
+      "stars": 3089,
       "topics": [
         "asp-net",
         "asp-net-core",
