@@ -368,7 +368,7 @@
                 "open_issues": 44,
                 "owner": "aspnetrun",
                 "repo": "run-aspnetcore-microservices",
-                "stars": 3274,
+                "stars": 3275,
                 "topics": [
                   "api-gateway",
                   "aspnet-core",
@@ -973,7 +973,7 @@
             "id": 57339405,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T04:07:26Z",
+            "last_commit": "2026-11-06T16:14:49Z",
             "open_issues": 14,
             "owner": "SteeltoeOSS",
             "repo": "Samples",
@@ -2299,7 +2299,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7811,
+                "stars": 7812,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2437,8 +2437,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-05T20:47:40Z",
-                "open_issues": 119,
+                "last_commit": "2026-11-06T19:17:28Z",
+                "open_issues": 117,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2492,
@@ -2502,7 +2502,7 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T22:34:30Z",
+                "last_commit": "2026-11-06T13:43:09Z",
                 "open_issues": 298,
                 "owner": "Particular",
                 "repo": "NServiceBus",
@@ -2528,11 +2528,11 @@
                 "id": 128375935,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-05T14:46:43Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-06T21:56:46Z",
+                "open_issues": 13,
                 "owner": "BEagle1984",
                 "repo": "silverback",
-                "stars": 283,
+                "stars": 284,
                 "topics": [
                   "cqrs",
                   "kafka",
@@ -2602,7 +2602,7 @@
                 "open_issues": 195,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9650,
+                "stars": 9649,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2767,7 +2767,7 @@
                 "open_issues": 394,
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5192,
+                "stars": 5193,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2785,7 +2785,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-22T21:52:32Z",
-                "open_issues": 379,
+                "open_issues": 380,
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
                 "stars": 4375,
@@ -2824,7 +2824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:20:22.998Z",
+    "last_updated": "2026-11-07T00:34:50.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
