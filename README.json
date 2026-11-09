@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "asc-lab",
                 "repo": "dotnetcore-microservices-poc",
-                "stars": 1941,
+                "stars": 1940,
                 "topics": [
                   "cqrs",
                   "dapper",
@@ -132,7 +132,7 @@
                 "open_issues": 11,
                 "owner": "devmentors",
                 "repo": "DNC-DShop",
-                "stars": 1016,
+                "stars": 1015,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24282,
+                "stars": 24281,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -774,7 +774,7 @@
             "open_issues": 8,
             "owner": "asc-lab",
             "repo": "dotnetcore-microservices-poc",
-            "stars": 1941,
+            "stars": 1940,
             "topics": [
               "cqrs",
               "dapper",
@@ -854,7 +854,7 @@
             "open_issues": 11,
             "owner": "devmentors",
             "repo": "DNC-DShop",
-            "stars": 1016,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2385,7 +2385,7 @@
                 "open_issues": 2,
                 "owner": "EasyNetQ",
                 "repo": "EasyNetQ",
-                "stars": 3063,
+                "stars": 3062,
                 "topics": [
                   "dotnet",
                   "dotnet-core",
@@ -2437,8 +2437,8 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-07T10:49:12Z",
-                "open_issues": 117,
+                "last_commit": "2026-11-08T21:20:02Z",
+                "open_issues": 118,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
                 "stars": 2492,
@@ -2480,7 +2480,7 @@
                 "open_issues": 103,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
-                "stars": 2290,
+                "stars": 2291,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -2502,7 +2502,7 @@
                 "id": 1056713,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T13:43:09Z",
+                "last_commit": "2026-11-08T16:23:24Z",
                 "open_issues": 298,
                 "owner": "Particular",
                 "repo": "NServiceBus",
@@ -2528,7 +2528,7 @@
                 "id": 128375935,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-07T15:51:41Z",
+                "last_commit": "2026-11-08T19:32:15Z",
                 "open_issues": 10,
                 "owner": "BEagle1984",
                 "repo": "silverback",
@@ -2602,7 +2602,7 @@
                 "open_issues": 195,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9648,
+                "stars": 9647,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2687,8 +2687,8 @@
                 "id": 30369187,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T04:05:55Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-08T15:14:44Z",
+                "open_issues": 37,
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
                 "stars": 2105,
@@ -2788,7 +2788,7 @@
                 "open_issues": 380,
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
-                "stars": 4375,
+                "stars": 4373,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2824,7 +2824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:08:58.737Z",
+    "last_updated": "2026-11-09T00:27:11.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
