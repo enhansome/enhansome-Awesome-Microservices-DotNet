@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24279,
+                "stars": 24278,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -1543,7 +1543,7 @@
             "id": 158113219,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-12T05:15:09Z",
+            "last_commit": "2026-11-15T07:41:42Z",
             "open_issues": 0,
             "owner": "MarcelMichau",
             "repo": "fake-survey-generator",
@@ -2299,7 +2299,7 @@
                 "open_issues": 1,
                 "owner": "MassTransit",
                 "repo": "MassTransit",
-                "stars": 7815,
+                "stars": 7813,
                 "topics": [
                   "azure-service-bus",
                   "c-sharp",
@@ -2411,7 +2411,7 @@
                 "open_issues": 21,
                 "owner": "rebus-org",
                 "repo": "Rebus",
-                "stars": 2675,
+                "stars": 2676,
                 "topics": [
                   "c-sharp",
                   "message-bus",
@@ -2437,11 +2437,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-12T21:03:43Z",
-                "open_issues": 116,
+                "last_commit": "2026-11-16T00:23:52Z",
+                "open_issues": 114,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2491,
+                "stars": 2492,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -2480,7 +2480,7 @@
                 "open_issues": 102,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
-                "stars": 2292,
+                "stars": 2293,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -2528,8 +2528,8 @@
                 "id": 128375935,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-14T22:46:27Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-15T23:56:36Z",
+                "open_issues": 8,
                 "owner": "BEagle1984",
                 "repo": "silverback",
                 "stars": 284,
@@ -2602,7 +2602,7 @@
                 "open_issues": 197,
                 "owner": "dotnet",
                 "repo": "yarp",
-                "stars": 9655,
+                "stars": 9656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2623,7 +2623,7 @@
                 "open_issues": 58,
                 "owner": "ThreeMammals",
                 "repo": "Ocelot",
-                "stars": 8715,
+                "stars": 8716,
                 "topics": [
                   "api-gateway",
                   "aspnetcore",
@@ -2687,7 +2687,7 @@
                 "id": 30369187,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T00:19:59Z",
+                "last_commit": "2026-11-15T22:55:31Z",
                 "open_issues": 37,
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
@@ -2806,7 +2806,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-11T01:42:37Z",
-                "open_issues": 196,
+                "open_issues": 197,
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
                 "stars": 1202,
@@ -2824,7 +2824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:40:24.923Z",
+    "last_updated": "2026-11-16T00:40:08.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2836,7 +2836,7 @@
       "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3092,
+      "stars": 3091,
       "topics": [
         "asp-net",
         "asp-net-core",
