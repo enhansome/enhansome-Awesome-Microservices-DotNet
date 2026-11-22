@@ -248,7 +248,7 @@
                 "open_issues": 71,
                 "owner": "dotnet-architecture",
                 "repo": "eShopOnContainers",
-                "stars": 24272,
+                "stars": 24270,
                 "topics": [
                   "ddd",
                   "ddd-patterns",
@@ -733,7 +733,7 @@
             "open_issues": 32,
             "owner": "vietnam-devs",
             "repo": "coolstore-microservices",
-            "stars": 2533,
+            "stars": 2534,
             "topics": [
               "aks",
               "clean-architecture",
@@ -2328,7 +2328,7 @@
                 "open_issues": 134,
                 "owner": "zeromq",
                 "repo": "netmq",
-                "stars": 3178,
+                "stars": 3177,
                 "topics": [
                   "dotnet",
                   "dotnet-core",
@@ -2407,7 +2407,7 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-20T21:09:44Z",
+                "last_commit": "2026-11-21T13:55:44Z",
                 "open_issues": 121,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
@@ -2450,7 +2450,7 @@
                 "open_issues": 103,
                 "owner": "rabbitmq",
                 "repo": "rabbitmq-dotnet-client",
-                "stars": 2292,
+                "stars": 2290,
                 "topics": [
                   "c-sharp",
                   "dotnet",
@@ -2498,8 +2498,8 @@
                 "id": 128375935,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-20T21:33:44Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-21T15:19:09Z",
+                "open_issues": 10,
                 "owner": "BEagle1984",
                 "repo": "silverback",
                 "stars": 284,
@@ -2533,7 +2533,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-19T00:10:15Z",
-                "open_issues": 478,
+                "open_issues": 479,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-dotnet",
                 "stars": 278,
@@ -2657,7 +2657,7 @@
                 "id": 30369187,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T01:52:36Z",
+                "last_commit": "2026-11-21T18:39:19Z",
                 "open_issues": 26,
                 "owner": "FoundatioFx",
                 "repo": "Foundatio",
@@ -2758,7 +2758,7 @@
                 "open_issues": 380,
                 "owner": "Xabaril",
                 "repo": "AspNetCore.Diagnostics.HealthChecks",
-                "stars": 4369,
+                "stars": 4368,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2776,7 +2776,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T17:56:03Z",
-                "open_issues": 197,
+                "open_issues": 198,
                 "owner": "dapr",
                 "repo": "dotnet-sdk",
                 "stars": 1201,
@@ -2794,7 +2794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T01:56:35.948Z",
+    "last_updated": "2026-11-22T00:53:02.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2806,7 +2806,7 @@
       "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3094,
+      "stars": 3095,
       "topics": [
         "asp-net",
         "asp-net-core",
