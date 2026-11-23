@@ -319,7 +319,7 @@
                 "open_issues": 7,
                 "owner": "vany0114",
                 "repo": "microservices-dotnetcore-docker-sf-k8s",
-                "stars": 156,
+                "stars": 157,
                 "topics": [
                   "asp-net-core",
                   "azure-service-bus",
@@ -1325,7 +1325,7 @@
             "open_issues": 7,
             "owner": "vany0114",
             "repo": "microservices-dotnetcore-docker-sf-k8s",
-            "stars": 156,
+            "stars": 157,
             "topics": [
               "asp-net-core",
               "azure-service-bus",
@@ -1677,7 +1677,7 @@
             "open_issues": 4,
             "owner": "thangchung",
             "repo": "shopping-cart-k8s",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "ambassador",
               "aspnet",
@@ -2407,11 +2407,11 @@
                 "id": 1223855,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-21T13:55:44Z",
-                "open_issues": 121,
+                "last_commit": "2026-11-23T00:56:48Z",
+                "open_issues": 111,
                 "owner": "BrighterCommand",
                 "repo": "Brighter",
-                "stars": 2491,
+                "stars": 2492,
                 "topics": [
                   "asynchronously",
                   "brighter",
@@ -2498,8 +2498,8 @@
                 "id": 128375935,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-21T15:19:09Z",
-                "open_issues": 10,
+                "last_commit": "2026-11-22T21:34:32Z",
+                "open_issues": 9,
                 "owner": "BEagle1984",
                 "repo": "silverback",
                 "stars": 284,
@@ -2569,7 +2569,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-18T09:31:08Z",
-                "open_issues": 195,
+                "open_issues": 197,
                 "owner": "dotnet",
                 "repo": "yarp",
                 "stars": 9660,
@@ -2737,7 +2737,7 @@
                 "open_issues": 394,
                 "owner": "dotnet",
                 "repo": "tye",
-                "stars": 5190,
+                "stars": 5189,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:03:52.246Z"
@@ -2794,7 +2794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T00:53:02.422Z",
+    "last_updated": "2026-11-23T01:21:56.244Z",
     "original_repository_info": {
       "archived": false,
       "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET",
@@ -2806,7 +2806,7 @@
       "open_issues": 7,
       "owner": "mjebrahimi",
       "repo": "Awesome-Microservices-DotNet",
-      "stars": 3095,
+      "stars": 3096,
       "topics": [
         "asp-net",
         "asp-net-core",
